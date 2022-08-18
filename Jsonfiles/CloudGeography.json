@@ -1,0 +1,6772 @@
+[
+  {
+    "Area": 652230,
+    "CallingCode": 93,
+    "Capital": "Kabul",
+    "ThreeLettersCode": "AFG",
+    "TwoLettersCode": "AF",
+    "Demonym": "Afghan",
+    "Latitude": 33,
+    "LocalName": "\u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646",
+    "Longitude": 65,
+    "Name": "Afghanistan",
+    "ShortName": "Afghanistan",
+    "Languages": [
+      {
+        "Code": "PS",
+        "IsOffical": true
+      },
+      {
+        "Code": "PRS",
+        "IsOffical": true
+      },
+      {
+        "Code": "UZ",
+        "IsOffical": false
+      },
+      {
+        "Code": "TK",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AFN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1580,
+    "CallingCode": 358,
+    "Capital": "Mariehamn",
+    "ThreeLettersCode": "ALA",
+    "TwoLettersCode": "AX",
+    "Demonym": "\u00C5landish",
+    "Latitude": 60.1166687011719,
+    "LocalName": "Landskapet \u00C5land",
+    "Longitude": 19.8999996185303,
+    "Name": "\u00C5land Islands",
+    "ShortName": "\u00C5land",
+    "Languages": [
+      {
+        "Code": "SV",
+        "IsOffical": true
+      },
+      {
+        "Code": "FI",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 28748,
+    "CallingCode": 355,
+    "Capital": "Tirana",
+    "ThreeLettersCode": "ALB",
+    "TwoLettersCode": "AL",
+    "Demonym": "Albanian",
+    "Latitude": 41,
+    "LocalName": "Shqip\u00EBria",
+    "Longitude": 20,
+    "Name": "Albania",
+    "ShortName": "Albania",
+    "Languages": [
+      {
+        "Code": "SQ",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ALL",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2381741,
+    "CallingCode": 213,
+    "Capital": "Algiers",
+    "ThreeLettersCode": "DZA",
+    "TwoLettersCode": "DZ",
+    "Demonym": "Algerian",
+    "Latitude": 28,
+    "LocalName": "\u0627\u0644\u062C\u0632\u0627\u0626\u0631",
+    "Longitude": 3,
+    "Name": "Algeria",
+    "ShortName": "Algeria",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      },
+      {
+        "Code": "BER",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "DZD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 199,
+    "CallingCode": 1684,
+    "Capital": "Pago Pago",
+    "ThreeLettersCode": "ASM",
+    "TwoLettersCode": "AS",
+    "Demonym": "American Samoan",
+    "Latitude": -14.3333330154419,
+    "LocalName": "American Samoa",
+    "Longitude": -170,
+    "Name": "American Samoa",
+    "ShortName": "American Samoa",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "sm",
+        "IsOffical": true
+      },
+      {
+        "Code": "TO",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 467.63,
+    "CallingCode": 376,
+    "Capital": "Andorra la Vella",
+    "ThreeLettersCode": "AND",
+    "TwoLettersCode": "AD",
+    "Demonym": "Andorran",
+    "Latitude": 42.5,
+    "LocalName": "Andorra",
+    "Longitude": 1.5,
+    "Name": "Andorra",
+    "ShortName": "Andorra",
+    "Languages": [
+      {
+        "Code": "CA",
+        "IsOffical": true
+      },
+      {
+        "Code": "ES",
+        "IsOffical": false
+      },
+      {
+        "Code": "PT",
+        "IsOffical": false
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1246700,
+    "CallingCode": 244,
+    "Capital": "Luanda",
+    "ThreeLettersCode": "AGO",
+    "TwoLettersCode": "AO",
+    "Demonym": "Angolan",
+    "Latitude": -12.5,
+    "LocalName": "Angola",
+    "Longitude": 18.5,
+    "Name": "Angola",
+    "ShortName": "Angola",
+    "Languages": [
+      {
+        "Code": "PT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AOA",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 91,
+    "CallingCode": 1264,
+    "Capital": "The Valley",
+    "ThreeLettersCode": "AIA",
+    "TwoLettersCode": "AI",
+    "Demonym": "Anguillian",
+    "Latitude": 18.25,
+    "LocalName": "Anguilla",
+    "Longitude": -63.1666679382324,
+    "Name": "Anguilla",
+    "ShortName": "Anguilla",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XCD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 14000000,
+    "CallingCode": 672,
+    "Capital": "--",
+    "ThreeLettersCode": "ATA",
+    "TwoLettersCode": "AQ",
+    "Demonym": "Antarctic",
+    "Latitude": -74.6500015258789,
+    "LocalName": "Antarctica",
+    "Longitude": 4.48000001907349,
+    "Name": "Antarctica",
+    "ShortName": "Antarctica",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "RU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AUD",
+        "IsOffical": true
+      },
+      {
+        "Code": "GBP",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 442,
+    "CallingCode": 1268,
+    "Capital": "Saint John\u0027s",
+    "ThreeLettersCode": "ATG",
+    "TwoLettersCode": "AG",
+    "Demonym": "Antiguan, Barbudan",
+    "Latitude": 17.0499992370605,
+    "LocalName": "Antigua and Barbuda",
+    "Longitude": -61.7999992370605,
+    "Name": "Antigua and Barbuda",
+    "ShortName": "Antigua and Barbuda",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XCD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2780400,
+    "CallingCode": 54,
+    "Capital": "Buenos Aires",
+    "ThreeLettersCode": "ARG",
+    "TwoLettersCode": "AR",
+    "Demonym": "Argentinean",
+    "Latitude": -34,
+    "LocalName": "Argentina",
+    "Longitude": -64,
+    "Name": "Argentina",
+    "ShortName": "Argentina",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      },
+      {
+        "Code": "IT",
+        "IsOffical": false
+      },
+      {
+        "Code": "AR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ARS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 29743,
+    "CallingCode": 374,
+    "Capital": "Yerevan",
+    "ThreeLettersCode": "ARM",
+    "TwoLettersCode": "AM",
+    "Demonym": "Armenian",
+    "Latitude": 40,
+    "LocalName": "\u0540\u0561\u0575\u0561\u057D\u057F\u0561\u0576",
+    "Longitude": 45,
+    "Name": "Armenia",
+    "ShortName": "Armenia",
+    "Languages": [
+      {
+        "Code": "HY",
+        "IsOffical": true
+      },
+      {
+        "Code": "RU",
+        "IsOffical": false
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AMD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 178.91,
+    "CallingCode": 297,
+    "Capital": "Oranjestad",
+    "ThreeLettersCode": "ABW",
+    "TwoLettersCode": "AW",
+    "Demonym": "Aruban",
+    "Latitude": 12.5,
+    "LocalName": "Aruba",
+    "Longitude": -69.966667175293,
+    "Name": "Aruba",
+    "ShortName": "Aruba",
+    "Languages": [
+      {
+        "Code": "NL",
+        "IsOffical": true
+      },
+      {
+        "Code": "PAP",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AWG",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 7692024,
+    "CallingCode": 61,
+    "Capital": "Canberra",
+    "ThreeLettersCode": "AUS",
+    "TwoLettersCode": "AU",
+    "Demonym": "Australian",
+    "Latitude": -27,
+    "LocalName": "Australia",
+    "Longitude": 133,
+    "Name": "Australia",
+    "ShortName": "Australia",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AUD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 83879,
+    "CallingCode": 43,
+    "Capital": "Vienna",
+    "ThreeLettersCode": "AUT",
+    "TwoLettersCode": "AT",
+    "Demonym": "Austrian",
+    "Latitude": 47.3333320617676,
+    "LocalName": "\u00D6sterreich",
+    "Longitude": 13.3333330154419,
+    "Name": "Austria",
+    "ShortName": "Austria",
+    "Languages": [
+      {
+        "Code": "DE",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 86600,
+    "CallingCode": 994,
+    "Capital": "Baku",
+    "ThreeLettersCode": "AZE",
+    "TwoLettersCode": "AZ",
+    "Demonym": "Azerbaijani",
+    "Latitude": 40.5,
+    "LocalName": "Az\u0259rbaycan",
+    "Longitude": 47.5,
+    "Name": "Azerbaijan",
+    "ShortName": "Azerbaijan",
+    "Languages": [
+      {
+        "Code": "AZ",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AZN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 13943,
+    "CallingCode": 1242,
+    "Capital": "Nassau",
+    "ThreeLettersCode": "BHS",
+    "TwoLettersCode": "BS",
+    "Demonym": "Bahamian",
+    "Latitude": 24.25,
+    "LocalName": "Bahamas",
+    "Longitude": -76,
+    "Name": "Bahamas",
+    "ShortName": "Bahamas",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BSD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 765.3,
+    "CallingCode": 973,
+    "Capital": "Manama",
+    "ThreeLettersCode": "BHR",
+    "TwoLettersCode": "BH",
+    "Demonym": "Bahraini",
+    "Latitude": 26,
+    "LocalName": "\u200F\u0627\u0644\u0628\u062D\u0631\u064A\u0646",
+    "Longitude": 50.5499992370605,
+    "Name": "Bahrain",
+    "ShortName": "Bahrain",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BHD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 147570,
+    "CallingCode": 880,
+    "Capital": "Dhaka",
+    "ThreeLettersCode": "BGD",
+    "TwoLettersCode": "BD",
+    "Demonym": "Bangladeshi",
+    "Latitude": 24,
+    "LocalName": "\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6",
+    "Longitude": 90,
+    "Name": "Bangladesh",
+    "ShortName": "Bangladesh",
+    "Languages": [
+      {
+        "Code": "BN",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BDT",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 439,
+    "CallingCode": 1246,
+    "Capital": "Bridgetown",
+    "ThreeLettersCode": "BRB",
+    "TwoLettersCode": "BB",
+    "Demonym": "Barbadian",
+    "Latitude": 13.1666669845581,
+    "LocalName": "Barbados",
+    "Longitude": -59.533332824707,
+    "Name": "Barbados",
+    "ShortName": "Barbados",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BBD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 207595,
+    "CallingCode": 375,
+    "Capital": "Minsk",
+    "ThreeLettersCode": "BLR",
+    "TwoLettersCode": "BY",
+    "Demonym": "Belarusian",
+    "Latitude": 53,
+    "LocalName": "\u0411\u0435\u043B\u0430\u0440\u0443\u0301\u0441\u044C",
+    "Longitude": 28,
+    "Name": "Belarus",
+    "ShortName": "Belarus",
+    "Languages": [
+      {
+        "Code": "RU",
+        "IsOffical": true
+      },
+      {
+        "Code": "BE",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+    ]
+  },
+  {
+    "Area": 30528,
+    "CallingCode": 32,
+    "Capital": "Brussels",
+    "ThreeLettersCode": "BEL",
+    "TwoLettersCode": "BE",
+    "Demonym": "Belgian",
+    "Latitude": 50.8333320617676,
+    "LocalName": "Belgi\u00EB",
+    "Longitude": 4,
+    "Name": "Belgium",
+    "ShortName": "Belgium",
+    "Languages": [
+      {
+        "Code": "NL",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "DE",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 22966,
+    "CallingCode": 501,
+    "Capital": "Belmopan",
+    "ThreeLettersCode": "BLZ",
+    "TwoLettersCode": "BZ",
+    "Demonym": "Belizean",
+    "Latitude": 17.25,
+    "LocalName": "Belize",
+    "Longitude": -88.75,
+    "Name": "Belize",
+    "ShortName": "Belize",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "ES",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BZD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 114763,
+    "CallingCode": 229,
+    "Capital": "Porto-Novo",
+    "ThreeLettersCode": "BEN",
+    "TwoLettersCode": "BJ",
+    "Demonym": "Beninese",
+    "Latitude": 9.5,
+    "LocalName": "B\u00E9nin",
+    "Longitude": 2.25,
+    "Name": "Benin",
+    "ShortName": "Benin",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XOF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 53.2,
+    "CallingCode": 1441,
+    "Capital": "Hamilton",
+    "ThreeLettersCode": "BMU",
+    "TwoLettersCode": "BM",
+    "Demonym": "Bermudian",
+    "Latitude": 32.3333320617676,
+    "LocalName": "Bermuda",
+    "Longitude": -64.75,
+    "Name": "Bermuda",
+    "ShortName": "Bermuda",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BMD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 38394,
+    "CallingCode": 975,
+    "Capital": "Thimphu",
+    "ThreeLettersCode": "BTN",
+    "TwoLettersCode": "BT",
+    "Demonym": "Bhutanese",
+    "Latitude": 27.5,
+    "LocalName": "\u0F60\u0F56\u0FB2\u0F74\u0F42\u0F0B\u0F61\u0F74\u0F63\u0F0B",
+    "Longitude": 90.5,
+    "Name": "Bhutan",
+    "ShortName": "Bhutan",
+    "Languages": [
+      {
+        "Code": "DZ",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BTN",
+        "IsOffical": true
+      },
+      {
+        "Code": "INR",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 1098581,
+    "CallingCode": 591,
+    "Capital": "Sucre",
+    "ThreeLettersCode": "BOL",
+    "TwoLettersCode": "BO",
+    "Demonym": "Bolivian",
+    "Latitude": -17,
+    "LocalName": "Bolivia",
+    "Longitude": -65,
+    "Name": "Bolivia",
+    "ShortName": "Bolivia",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BOB",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 294,
+    "CallingCode": 5997,
+    "Capital": "Kralendijk",
+    "ThreeLettersCode": "BES",
+    "TwoLettersCode": "BQ",
+    "Demonym": "Dutch",
+    "Latitude": 12.1499996185303,
+    "LocalName": "Bonaire",
+    "Longitude": -68.2666702270508,
+    "Name": "Bonaire",
+    "ShortName": "Bonaire",
+    "Languages": [
+      {
+        "Code": "NL",
+        "IsOffical": true
+      },
+      {
+        "Code": "PAP",
+        "IsOffical": false
+      },
+      {
+        "Code": "ES",
+        "IsOffical": false
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 51129,
+    "CallingCode": 387,
+    "Capital": "Sarajevo",
+    "ThreeLettersCode": "BIH",
+    "TwoLettersCode": "BA",
+    "Demonym": "Bosnian, Herzegovinian",
+    "Latitude": 44,
+    "LocalName": "Bosna i Hercegovina",
+    "Longitude": 18,
+    "Name": "Bosnia and Herzegovina",
+    "ShortName": "Bosnia and Herzegovina",
+    "Languages": [
+      {
+        "Code": "BS",
+        "IsOffical": true
+      },
+      {
+        "Code": "HR",
+        "IsOffical": true
+      },
+      {
+        "Code": "SR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BAM",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 581730,
+    "CallingCode": 267,
+    "Capital": "Gaborone",
+    "ThreeLettersCode": "BWA",
+    "TwoLettersCode": "BW",
+    "Demonym": "Motswana",
+    "Latitude": -22,
+    "LocalName": "Botswana",
+    "Longitude": 24,
+    "Name": "Botswana",
+    "ShortName": "Botswana",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "TN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BWP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 8515767,
+    "CallingCode": 55,
+    "Capital": "Bras\u00EDlia",
+    "ThreeLettersCode": "BRA",
+    "TwoLettersCode": "BR",
+    "Demonym": "Brazilian",
+    "Latitude": -10,
+    "LocalName": "Brasil",
+    "Longitude": -55,
+    "Name": "Brazil",
+    "ShortName": "Brazil",
+    "Languages": [
+      {
+        "Code": "PT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BRL",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 60,
+    "CallingCode": 246,
+    "Capital": "Camp Justice",
+    "ThreeLettersCode": "IOT",
+    "TwoLettersCode": "IO",
+    "Demonym": "Indian",
+    "Latitude": -6,
+    "LocalName": "British Indian Ocean Territory",
+    "Longitude": 71.5,
+    "Name": "British Indian Ocean Territory",
+    "ShortName": "British Indian Ocean Territory",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      },
+      {
+        "Code": "GBP",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 153,
+    "CallingCode": 1284,
+    "Capital": "Road Town",
+    "ThreeLettersCode": "VGB",
+    "TwoLettersCode": "VG",
+    "Demonym": "Virgin Islander",
+    "Latitude": 18.4313831329346,
+    "LocalName": "British Virgin Islands",
+    "Longitude": -64.623046875,
+    "Name": "British Virgin Islands",
+    "ShortName": "Virgin Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 5765,
+    "CallingCode": 673,
+    "Capital": "Bandar Seri Begawan",
+    "ThreeLettersCode": "BRN",
+    "TwoLettersCode": "BN",
+    "Demonym": "Bruneian",
+    "Latitude": 4.5,
+    "LocalName": "Brunei Darussalam",
+    "Longitude": 114.666664123535,
+    "Name": "Brunei",
+    "ShortName": "Brunei",
+    "Languages": [
+      {
+        "Code": "MS",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      },
+      {
+        "Code": "AR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BND",
+        "IsOffical": true
+      },
+      {
+        "Code": "SGD",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 110993.6,
+    "CallingCode": 359,
+    "Capital": "Sofia",
+    "ThreeLettersCode": "BGR",
+    "TwoLettersCode": "BG",
+    "Demonym": "Bulgarian",
+    "Latitude": 43,
+    "LocalName": "\u0411\u044A\u043B\u0433\u0430\u0440\u0438\u044F",
+    "Longitude": 25,
+    "Name": "Bulgaria",
+    "ShortName": "Bulgaria",
+    "Languages": [
+      {
+        "Code": "BG",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BGN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 274200,
+    "CallingCode": 226,
+    "Capital": "Ouagadougou",
+    "ThreeLettersCode": "BFA",
+    "TwoLettersCode": "BF",
+    "Demonym": "Burkinabe",
+    "Latitude": 13,
+    "LocalName": "Burkina Faso",
+    "Longitude": -2,
+    "Name": "Burkina Faso",
+    "ShortName": "Burkina Faso",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "FF",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XOF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 27834,
+    "CallingCode": 257,
+    "Capital": "Bujumbura",
+    "ThreeLettersCode": "BDI",
+    "TwoLettersCode": "BI",
+    "Demonym": "Burundian",
+    "Latitude": -3.5,
+    "LocalName": "Burundi",
+    "Longitude": 30,
+    "Name": "Burundi",
+    "ShortName": "Burundi",
+    "Languages": [
+      {
+        "Code": "RN",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BIF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 4033,
+    "CallingCode": 238,
+    "Capital": "Praia",
+    "ThreeLettersCode": "CPV",
+    "TwoLettersCode": "CV",
+    "Demonym": "Cape Verdian",
+    "Latitude": 16,
+    "LocalName": "Cabo Verde",
+    "Longitude": -24,
+    "Name": "Cabo Verde",
+    "ShortName": "Cabo Verde",
+    "Languages": [
+      {
+        "Code": "PT",
+        "IsOffical": true
+      },
+      {
+        "Code": "KEA",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CVE",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 181035,
+    "CallingCode": 855,
+    "Capital": "Phnom Penh",
+    "ThreeLettersCode": "KHM",
+    "TwoLettersCode": "KH",
+    "Demonym": "Cambodian",
+    "Latitude": 13,
+    "LocalName": "\u1780\u1798\u17D2\u1796\u17BB\u1787\u17B6",
+    "Longitude": 105,
+    "Name": "Cambodia",
+    "ShortName": "Cambodia",
+    "Languages": [
+      {
+        "Code": "KM",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KHR",
+        "IsOffical": true
+      },
+      {
+        "Code": "USD",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 475442,
+    "CallingCode": 237,
+    "Capital": "Yaound\u00E9",
+    "ThreeLettersCode": "CMR",
+    "TwoLettersCode": "CM",
+    "Demonym": "Cameroonian",
+    "Latitude": 6,
+    "LocalName": "Cameroon",
+    "Longitude": 12,
+    "Name": "Cameroon",
+    "ShortName": "Cameroon",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "DE",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XAF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 9984670,
+    "CallingCode": 1,
+    "Capital": "Ottawa",
+    "ThreeLettersCode": "CAN",
+    "TwoLettersCode": "CA",
+    "Demonym": "Canadian",
+    "Latitude": 60,
+    "LocalName": "Canada",
+    "Longitude": -95,
+    "Name": "Canada",
+    "ShortName": "Canada",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CAD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 264,
+    "CallingCode": 1345,
+    "Capital": "George Town",
+    "ThreeLettersCode": "CYM",
+    "TwoLettersCode": "KY",
+    "Demonym": "Caymanian",
+    "Latitude": 19.5,
+    "LocalName": "Cayman Islands",
+    "Longitude": -80.5,
+    "Name": "Cayman Islands",
+    "ShortName": "Cayman Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KYD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 622984,
+    "CallingCode": 236,
+    "Capital": "Bangui",
+    "ThreeLettersCode": "CAF",
+    "TwoLettersCode": "CF",
+    "Demonym": "Central African",
+    "Latitude": 7,
+    "LocalName": "K\u00F6d\u00F6r\u00F6s\u00EAse t\u00EE B\u00EAafr\u00EEka",
+    "Longitude": 21,
+    "Name": "Central African Republic",
+    "ShortName": "Central African Republic",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "SG",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XAF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1284000,
+    "CallingCode": 235,
+    "Capital": "N\u0027Djamena",
+    "ThreeLettersCode": "TCD",
+    "TwoLettersCode": "TD",
+    "Demonym": "Chadian",
+    "Latitude": 15,
+    "LocalName": "\u062A\u0634\u0627\u062F\u200E",
+    "Longitude": 19,
+    "Name": "Chad",
+    "ShortName": "Chad",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XAF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 756102,
+    "CallingCode": 56,
+    "Capital": "Santiago",
+    "ThreeLettersCode": "CHL",
+    "TwoLettersCode": "CL",
+    "Demonym": "Chilean",
+    "Latitude": -30,
+    "LocalName": "Chile",
+    "Longitude": -71,
+    "Name": "Chile",
+    "ShortName": "Chile",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CLP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 9640011,
+    "CallingCode": 86,
+    "Capital": "Beijing",
+    "ThreeLettersCode": "CHN",
+    "TwoLettersCode": "CN",
+    "Demonym": "Chinese",
+    "Latitude": 35,
+    "LocalName": "\u4E2D\u56FD",
+    "Longitude": 105,
+    "Name": "China",
+    "ShortName": "China",
+    "Languages": [
+      {
+        "Code": "ZH",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CNY",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 135,
+    "CallingCode": 61,
+    "Capital": "Flying Fish Cove",
+    "ThreeLettersCode": "CXR",
+    "TwoLettersCode": "CX",
+    "Demonym": "Christmas Islander",
+    "Latitude": -10.5,
+    "LocalName": "Christmas Island",
+    "Longitude": 105.666664123535,
+    "Name": "Christmas Island",
+    "ShortName": "Christmas Island",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AUD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 14,
+    "CallingCode": 61,
+    "Capital": "West Island",
+    "ThreeLettersCode": "CCK",
+    "TwoLettersCode": "CC",
+    "Demonym": "Cocos Islander",
+    "Latitude": -12.5,
+    "LocalName": "Cocos (Keeling) Islands",
+    "Longitude": 96.8333358764648,
+    "Name": "Cocos (Keeling) Islands",
+    "ShortName": "Cocos (Keeling) Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AUD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1141748,
+    "CallingCode": 57,
+    "Capital": "Bogot\u00E1",
+    "ThreeLettersCode": "COL",
+    "TwoLettersCode": "CO",
+    "Demonym": "Colombian",
+    "Latitude": 4,
+    "LocalName": "Colombia",
+    "Longitude": -72,
+    "Name": "Colombia",
+    "ShortName": "Colombia",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "COP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1862,
+    "CallingCode": 269,
+    "Capital": "Moroni",
+    "ThreeLettersCode": "COM",
+    "TwoLettersCode": "KM",
+    "Demonym": "Comoran",
+    "Latitude": -12.1666669845581,
+    "LocalName": "\u062C\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+    "Longitude": 44.25,
+    "Name": "Comoros",
+    "ShortName": "Comoros",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KMF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 342000,
+    "CallingCode": 242,
+    "Capital": "Brazzaville",
+    "ThreeLettersCode": "COG",
+    "TwoLettersCode": "CG",
+    "Demonym": "Congolese",
+    "Latitude": -1,
+    "LocalName": "R\u00E9publique du Congo",
+    "Longitude": 15,
+    "Name": "Congo",
+    "ShortName": "Congo",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "LN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XAF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 235409,
+    "CallingCode": 243,
+    "Capital": "Kinshasa",
+    "ThreeLettersCode": "COD",
+    "TwoLettersCode": "CD",
+    "Demonym": "Congolese",
+    "Latitude": 0,
+    "LocalName": "Congo (DRC)",
+    "Longitude": 25,
+    "Name": "Congo (DRC)",
+    "ShortName": "Congo (DRC)",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "LN",
+        "IsOffical": false
+      },
+      {
+        "Code": "SW",
+        "IsOffical": false
+      },
+      {
+        "Code": "LU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CDF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 236,
+    "CallingCode": 682,
+    "Capital": "Avarua",
+    "ThreeLettersCode": "COK",
+    "TwoLettersCode": "CK",
+    "Demonym": "Cook Islander",
+    "Latitude": -21.233333587646484,
+    "LocalName": "Cook Islands",
+    "Longitude": -159.76666259765625,
+    "Name": "Cook Islands",
+    "ShortName": "Cook Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NZD",
+        "IsOffical": true
+      },
+      {
+        "Code": "CKD",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 51100,
+    "CallingCode": 506,
+    "Capital": "San Jos\u00E9",
+    "ThreeLettersCode": "CRI",
+    "TwoLettersCode": "CR",
+    "Demonym": "Costa Rican",
+    "Latitude": 10,
+    "LocalName": "Costa Rica",
+    "Longitude": -84,
+    "Name": "Costa Rica",
+    "ShortName": "Costa Rica",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CRC",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 322463,
+    "CallingCode": 225,
+    "Capital": "Yamoussoukro",
+    "ThreeLettersCode": "CIV",
+    "TwoLettersCode": "CI",
+    "Demonym": "Ivorian",
+    "Latitude": 8,
+    "LocalName": "C\u00F4te d\u0027Ivoire",
+    "Longitude": -5,
+    "Name": "C\u00F4te d\u0027Ivoire",
+    "ShortName": "C\u00F4te d\u0027Ivoire",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XOF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 56594,
+    "CallingCode": 385,
+    "Capital": "Zagreb",
+    "ThreeLettersCode": "HRV",
+    "TwoLettersCode": "HR",
+    "Demonym": "Croatian",
+    "Latitude": 45.16666793823242,
+    "LocalName": "Hrvatska",
+    "Longitude": 15.5,
+    "Name": "Croatia",
+    "ShortName": "Croatia",
+    "Languages": [
+      {
+        "Code": "HR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "HRK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 109884,
+    "CallingCode": 53,
+    "Capital": "Havana",
+    "ThreeLettersCode": "CUB",
+    "TwoLettersCode": "CU",
+    "Demonym": "Cuban",
+    "Latitude": 21.5,
+    "LocalName": "Cuba",
+    "Longitude": -80,
+    "Name": "Cuba",
+    "ShortName": "Cuba",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CUC",
+        "IsOffical": true
+      },
+      {
+        "Code": "CUP",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 444,
+    "CallingCode": 599,
+    "Capital": "Willemstad",
+    "ThreeLettersCode": "CUW",
+    "TwoLettersCode": "CW",
+    "Demonym": "Dutch",
+    "Latitude": 12.116666793823242,
+    "LocalName": "Cura\u00E7ao",
+    "Longitude": -68.93333435058594,
+    "Name": "Cura\u00E7ao",
+    "ShortName": "Cura\u00E7ao",
+    "Languages": [
+      {
+        "Code": "NL",
+        "IsOffical": true
+      },
+      {
+        "Code": "PA",
+        "IsOffical": false
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ANG",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 9251,
+    "CallingCode": 357,
+    "Capital": "Nicosia",
+    "ThreeLettersCode": "CYP",
+    "TwoLettersCode": "CY",
+    "Demonym": "Cypriot",
+    "Latitude": 35,
+    "LocalName": "\u039A\u03CD\u03C0\u03C1\u03BF\u03C2",
+    "Longitude": 33,
+    "Name": "Cyprus",
+    "ShortName": "Cyprus",
+    "Languages": [
+      {
+        "Code": "EL",
+        "IsOffical": true
+      },
+      {
+        "Code": "TR",
+        "IsOffical": false
+      },
+      {
+        "Code": "HY",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 78865,
+    "CallingCode": 420,
+    "Capital": "Prague",
+    "ThreeLettersCode": "CZE",
+    "TwoLettersCode": "CZ",
+    "Demonym": "Czech",
+    "Latitude": 49.75,
+    "LocalName": "\u010Cesk\u00E1 republika",
+    "Longitude": 15.5,
+    "Name": "Czech Republic",
+    "ShortName": "Czech Republic",
+    "Languages": [
+      {
+        "Code": "CS",
+        "IsOffical": true
+      },
+      {
+        "Code": "SK",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CZK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 43094,
+    "CallingCode": 45,
+    "Capital": "Copenhagen",
+    "ThreeLettersCode": "DNK",
+    "TwoLettersCode": "DK",
+    "Demonym": "Danish",
+    "Latitude": 56,
+    "LocalName": "Danmark",
+    "Longitude": 10,
+    "Name": "Denmark",
+    "ShortName": "Denmark",
+    "Languages": [
+      {
+        "Code": "DA",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "DKK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 23200,
+    "CallingCode": 253,
+    "Capital": "Djibouti",
+    "ThreeLettersCode": "DJI",
+    "TwoLettersCode": "DJ",
+    "Demonym": "Djibouti",
+    "Latitude": 11.5,
+    "LocalName": "Djibouti",
+    "Longitude": 43,
+    "Name": "Djibouti",
+    "ShortName": "Djibouti",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "AR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "DJF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 751,
+    "CallingCode": 1767,
+    "Capital": "Roseau",
+    "ThreeLettersCode": "DMA",
+    "TwoLettersCode": "DM",
+    "Demonym": "Dominican",
+    "Latitude": 15.416666984558105,
+    "LocalName": "Dominica",
+    "Longitude": -61.33333206176758,
+    "Name": "Dominica",
+    "ShortName": "Dominica",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XCD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 48671,
+    "CallingCode": 1809,
+    "Capital": "Santo Domingo",
+    "ThreeLettersCode": "DOM",
+    "TwoLettersCode": "DO",
+    "Demonym": "Dominican",
+    "Latitude": 19,
+    "LocalName": "Rep\u00FAblica Dominicana",
+    "Longitude": -70.66666412353516,
+    "Name": "Dominican Republic",
+    "ShortName": "Dominican Republic",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "DOP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 276841,
+    "CallingCode": 593,
+    "Capital": "Quito",
+    "ThreeLettersCode": "ECU",
+    "TwoLettersCode": "EC",
+    "Demonym": "Ecuadorean",
+    "Latitude": -2,
+    "LocalName": "Ecuador",
+    "Longitude": -77.5,
+    "Name": "Ecuador",
+    "ShortName": "Ecuador",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1002450,
+    "CallingCode": 20,
+    "Capital": "Cairo",
+    "ThreeLettersCode": "EGY",
+    "TwoLettersCode": "EG",
+    "Demonym": "Egyptian",
+    "Latitude": 27,
+    "LocalName": "\u0645\u0635\u0631\u200E",
+    "Longitude": 30,
+    "Name": "Egypt",
+    "ShortName": "Egypt",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EGP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 21041,
+    "CallingCode": 503,
+    "Capital": "San Salvador",
+    "ThreeLettersCode": "SLV",
+    "TwoLettersCode": "SV",
+    "Demonym": "Salvadoran",
+    "Latitude": 13.833333015441895,
+    "LocalName": "El Salvador",
+    "Longitude": -88.91666412353516,
+    "Name": "El Salvador",
+    "ShortName": "El Salvador",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 28051,
+    "CallingCode": 240,
+    "Capital": "Malabo",
+    "ThreeLettersCode": "GNQ",
+    "TwoLettersCode": "GQ",
+    "Demonym": "Equatorial Guinean",
+    "Latitude": 2,
+    "LocalName": "Guinea Ecuatorial",
+    "Longitude": 10,
+    "Name": "Equatorial Guinea",
+    "ShortName": "Equatorial Guinea",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XAF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 117600,
+    "CallingCode": 291,
+    "Capital": "Asmara",
+    "ThreeLettersCode": "ERI",
+    "TwoLettersCode": "ER",
+    "Demonym": "Eritrean",
+    "Latitude": 15,
+    "LocalName": "\u12A4\u122D\u1275\u122B",
+    "Longitude": 39,
+    "Name": "Eritrea",
+    "ShortName": "Eritrea",
+    "Languages": [
+      {
+        "Code": "TI",
+        "IsOffical": true
+      },
+      {
+        "Code": "AR",
+        "IsOffical": false
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ERN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 45227,
+    "CallingCode": 372,
+    "Capital": "Tallinn",
+    "ThreeLettersCode": "EST",
+    "TwoLettersCode": "EE",
+    "Demonym": "Estonian",
+    "Latitude": 59,
+    "LocalName": "Eesti",
+    "Longitude": 26,
+    "Name": "Estonia",
+    "ShortName": "Estonia",
+    "Languages": [
+      {
+        "Code": "ET",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1104300,
+    "CallingCode": 251,
+    "Capital": "Addis Ababa",
+    "ThreeLettersCode": "ETH",
+    "TwoLettersCode": "ET",
+    "Demonym": "Ethiopian",
+    "Latitude": 8,
+    "LocalName": "\u12A2\u1275\u12EE\u1335\u12EB",
+    "Longitude": 38,
+    "Name": "Ethiopia",
+    "ShortName": "Ethiopia",
+    "Languages": [
+      {
+        "Code": "AM",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ETB",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 12200,
+    "CallingCode": 500,
+    "Capital": "Stanley",
+    "ThreeLettersCode": "FLK",
+    "TwoLettersCode": "FK",
+    "Demonym": "Falkland Islander",
+    "Latitude": -51.75,
+    "LocalName": "Falkland Islands",
+    "Longitude": -59,
+    "Name": "Falkland Islands",
+    "ShortName": "Falkland Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "FKP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1393,
+    "CallingCode": 298,
+    "Capital": "T\u00F3rshavn",
+    "ThreeLettersCode": "FRO",
+    "TwoLettersCode": "FO",
+    "Demonym": "Faroese",
+    "Latitude": 62,
+    "LocalName": "F\u00F8royar",
+    "Longitude": -7,
+    "Name": "Faroe Islands",
+    "ShortName": "Faroe Islands",
+    "Languages": [
+      {
+        "Code": "FO",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "DKK",
+        "IsOffical": true
+      },
+      {
+        "Code": "FOK",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 18272,
+    "CallingCode": 679,
+    "Capital": "Suva",
+    "ThreeLettersCode": "FJI",
+    "TwoLettersCode": "FJ",
+    "Demonym": "Fijian",
+    "Latitude": -18,
+    "LocalName": "Fiji",
+    "Longitude": 175,
+    "Name": "Fiji",
+    "ShortName": "Fiji",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "HI",
+        "IsOffical": false
+      },
+      {
+        "Code": "UR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "FJD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 338424,
+    "CallingCode": 358,
+    "Capital": "Helsinki",
+    "ThreeLettersCode": "FIN",
+    "TwoLettersCode": "FI",
+    "Demonym": "Finnish",
+    "Latitude": 64,
+    "LocalName": "Suomi",
+    "Longitude": 26,
+    "Name": "Finland",
+    "ShortName": "Finland",
+    "Languages": [
+      {
+        "Code": "FI",
+        "IsOffical": true
+      },
+      {
+        "Code": "SV",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 640679,
+    "CallingCode": 33,
+    "Capital": "Paris",
+    "ThreeLettersCode": "FRA",
+    "TwoLettersCode": "FR",
+    "Demonym": "French",
+    "Latitude": 46,
+    "LocalName": "France",
+    "Longitude": 2,
+    "Name": "France",
+    "ShortName": "France",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 594,
+    "Capital": "Cayenne",
+    "ThreeLettersCode": "GUF",
+    "TwoLettersCode": "GF",
+    "Demonym": "",
+    "Latitude": 4,
+    "LocalName": "Guyane fran\u00E7aise",
+    "Longitude": -53,
+    "Name": "French Guiana",
+    "ShortName": "French Guiana",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 4167,
+    "CallingCode": 689,
+    "Capital": "Papeet\u0113",
+    "ThreeLettersCode": "PYF",
+    "TwoLettersCode": "PF",
+    "Demonym": "French Polynesian",
+    "Latitude": -15,
+    "LocalName": "Polyn\u00E9sie fran\u00E7aise",
+    "Longitude": -140,
+    "Name": "French Polynesia",
+    "ShortName": "French Polynesia",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XPF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 267668,
+    "CallingCode": 241,
+    "Capital": "Libreville",
+    "ThreeLettersCode": "GAB",
+    "TwoLettersCode": "GA",
+    "Demonym": "Gabonese",
+    "Latitude": -1,
+    "LocalName": "Gabon",
+    "Longitude": 11.75,
+    "Name": "Gabon",
+    "ShortName": "Gabon",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XAF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 11295,
+    "CallingCode": 220,
+    "Capital": "Banjul",
+    "ThreeLettersCode": "GMB",
+    "TwoLettersCode": "GM",
+    "Demonym": "Gambian",
+    "Latitude": 13.466666221618652,
+    "LocalName": "Gambia",
+    "Longitude": -16.566667556762695,
+    "Name": "Gambia",
+    "ShortName": "Gambia",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GMD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 69700,
+    "CallingCode": 995,
+    "Capital": "Tbilisi",
+    "ThreeLettersCode": "GEO",
+    "TwoLettersCode": "GE",
+    "Demonym": "Georgian",
+    "Latitude": 42,
+    "LocalName": "\u10E1\u10D0\u10E5\u10D0\u10E0\u10D7\u10D5\u10D4\u10DA\u10DD",
+    "Longitude": 43.5,
+    "Name": "Georgia",
+    "ShortName": "Georgia",
+    "Languages": [
+      {
+        "Code": "KA",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GEL",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 357168,
+    "CallingCode": 49,
+    "Capital": "Berlin",
+    "ThreeLettersCode": "DEU",
+    "TwoLettersCode": "DE",
+    "Demonym": "German",
+    "Latitude": 51,
+    "LocalName": "Deutschland",
+    "Longitude": 9,
+    "Name": "Germany",
+    "ShortName": "Germany",
+    "Languages": [
+      {
+        "Code": "DE",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 238533,
+    "CallingCode": 233,
+    "Capital": "Accra",
+    "ThreeLettersCode": "GHA",
+    "TwoLettersCode": "GH",
+    "Demonym": "Ghanaian",
+    "Latitude": 8,
+    "LocalName": "Ghana",
+    "Longitude": -2,
+    "Name": "Ghana",
+    "ShortName": "Ghana",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GHS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 6,
+    "CallingCode": 350,
+    "Capital": "Gibraltar",
+    "ThreeLettersCode": "GIB",
+    "TwoLettersCode": "GI",
+    "Demonym": "Gibraltar",
+    "Latitude": 36.13333511352539,
+    "LocalName": "Gibraltar",
+    "Longitude": -5.349999904632568,
+    "Name": "Gibraltar",
+    "ShortName": "Gibraltar",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GIP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 131990,
+    "CallingCode": 30,
+    "Capital": "Athens",
+    "ThreeLettersCode": "GRC",
+    "TwoLettersCode": "GR",
+    "Demonym": "Greek",
+    "Latitude": 39,
+    "LocalName": "\u0395\u03BB\u03BB\u03AC\u03B4\u03B1",
+    "Longitude": 22,
+    "Name": "Greece",
+    "ShortName": "Greece",
+    "Languages": [
+      {
+        "Code": "EL",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2166086,
+    "CallingCode": 299,
+    "Capital": "Nuuk",
+    "ThreeLettersCode": "GRL",
+    "TwoLettersCode": "GL",
+    "Demonym": "Greenlandic",
+    "Latitude": 72,
+    "LocalName": "Kalaallit Nunaat",
+    "Longitude": -40,
+    "Name": "Greenland",
+    "ShortName": "Greenland",
+    "Languages": [
+      {
+        "Code": "KL",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "DKK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 344,
+    "CallingCode": 1473,
+    "Capital": "St. George\u0027s",
+    "ThreeLettersCode": "GRD",
+    "TwoLettersCode": "GD",
+    "Demonym": "Grenadian",
+    "Latitude": 12.116666793823242,
+    "LocalName": "Grenada",
+    "Longitude": -61.66666793823242,
+    "Name": "Grenada",
+    "ShortName": "Grenada",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XCD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 590,
+    "Capital": "Basse-Terre",
+    "ThreeLettersCode": "GLP",
+    "TwoLettersCode": "GP",
+    "Demonym": "Guadeloupian",
+    "Latitude": 16.25,
+    "LocalName": "Guadeloupe",
+    "Longitude": -61.58333206176758,
+    "Name": "Guadeloupe",
+    "ShortName": "Guadeloupe",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 549,
+    "CallingCode": 1671,
+    "Capital": "Hag\u00E5t\u00F1a",
+    "ThreeLettersCode": "GUM",
+    "TwoLettersCode": "GU",
+    "Demonym": "Guamanian",
+    "Latitude": 13.466666221618652,
+    "LocalName": "Guam",
+    "Longitude": 144.78334045410156,
+    "Name": "Guam",
+    "ShortName": "Guam",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "ES",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 108889,
+    "CallingCode": 502,
+    "Capital": "Guatemala City",
+    "ThreeLettersCode": "GTM",
+    "TwoLettersCode": "GT",
+    "Demonym": "Guatemalan",
+    "Latitude": 15.5,
+    "LocalName": "Guatemala",
+    "Longitude": -90.25,
+    "Name": "Guatemala",
+    "ShortName": "Guatemala",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GTQ",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 78,
+    "CallingCode": 44,
+    "Capital": "St. Peter Port",
+    "ThreeLettersCode": "GGY",
+    "TwoLettersCode": "GG",
+    "Demonym": "Channel Islander",
+    "Latitude": 49.46666717529297,
+    "LocalName": "Guernsey",
+    "Longitude": -2.5833332538604736,
+    "Name": "Guernsey",
+    "ShortName": "Guernsey",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GBP",
+        "IsOffical": true
+      },
+      {
+        "Code": "FOK",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 245857,
+    "CallingCode": 224,
+    "Capital": "Conakry",
+    "ThreeLettersCode": "GIN",
+    "TwoLettersCode": "GN",
+    "Demonym": "Guinean",
+    "Latitude": 11,
+    "LocalName": "Guin\u00E9e",
+    "Longitude": -10,
+    "Name": "Guinea",
+    "ShortName": "Guinea",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "FF",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GNF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 36125,
+    "CallingCode": 245,
+    "Capital": "Bissau",
+    "ThreeLettersCode": "GNB",
+    "TwoLettersCode": "GW",
+    "Demonym": "Guinea-Bissauan",
+    "Latitude": 12,
+    "LocalName": "Guin\u00E9-Bissau",
+    "Longitude": -15,
+    "Name": "Guinea-Bissau",
+    "ShortName": "Guinea-Bissau",
+    "Languages": [
+      {
+        "Code": "PT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XOF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 214969,
+    "CallingCode": 592,
+    "Capital": "Georgetown",
+    "ThreeLettersCode": "GUY",
+    "TwoLettersCode": "GY",
+    "Demonym": "Guyanese",
+    "Latitude": 5,
+    "LocalName": "Guyana",
+    "Longitude": -59,
+    "Name": "Guyana",
+    "ShortName": "Guyana",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GYD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 27750,
+    "CallingCode": 509,
+    "Capital": "Port-au-Prince",
+    "ThreeLettersCode": "HTI",
+    "TwoLettersCode": "HT",
+    "Demonym": "Haitian",
+    "Latitude": 19,
+    "LocalName": "Ha\u00EFti",
+    "Longitude": -72.41666412353516,
+    "Name": "Haiti",
+    "ShortName": "Haiti",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "HTG",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 0.4399999976158142,
+    "CallingCode": 379,
+    "Capital": "Rome",
+    "ThreeLettersCode": "VAT",
+    "TwoLettersCode": "VA",
+    "Demonym": "",
+    "Latitude": 41.900001525878906,
+    "LocalName": "Sancta Sedes",
+    "Longitude": 12.449999809265137,
+    "Name": "Holy See",
+    "ShortName": "Holy See",
+    "Languages": [
+      {
+        "Code": "LA",
+        "IsOffical": true
+      },
+      {
+        "Code": "IT",
+        "IsOffical": false
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      },
+      {
+        "Code": "DE",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 112492,
+    "CallingCode": 504,
+    "Capital": "Tegucigalpa",
+    "ThreeLettersCode": "HND",
+    "TwoLettersCode": "HN",
+    "Demonym": "Honduran",
+    "Latitude": 15,
+    "LocalName": "Honduras",
+    "Longitude": -86.5,
+    "Name": "Honduras",
+    "ShortName": "Honduras",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "HNL",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1104,
+    "CallingCode": 852,
+    "Capital": "City of Victoria",
+    "ThreeLettersCode": "HKG",
+    "TwoLettersCode": "HK",
+    "Demonym": "Chinese",
+    "Latitude": 22.25,
+    "LocalName": "\u9999\u6E2F",
+    "Longitude": 114.16666412353516,
+    "Name": "Hong Kong",
+    "ShortName": "Hong Kong",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "ZH",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "HKD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 93028,
+    "CallingCode": 36,
+    "Capital": "Budapest",
+    "ThreeLettersCode": "HUN",
+    "TwoLettersCode": "HU",
+    "Demonym": "Hungarian",
+    "Latitude": 47,
+    "LocalName": "Magyarorsz\u00E1g",
+    "Longitude": 20,
+    "Name": "Hungary",
+    "ShortName": "Hungary",
+    "Languages": [
+      {
+        "Code": "HU",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "HUF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 103000,
+    "CallingCode": 354,
+    "Capital": "Reykjav\u00EDk",
+    "ThreeLettersCode": "ISL",
+    "TwoLettersCode": "IS",
+    "Demonym": "Icelander",
+    "Latitude": 65,
+    "LocalName": "\u00CDsland",
+    "Longitude": -18,
+    "Name": "Iceland",
+    "ShortName": "Iceland",
+    "Languages": [
+      {
+        "Code": "IS",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ISK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 3287590,
+    "CallingCode": 91,
+    "Capital": "New Delhi",
+    "ThreeLettersCode": "IND",
+    "TwoLettersCode": "IN",
+    "Demonym": "Indian",
+    "Latitude": 20,
+    "LocalName": "\u092D\u093E\u0930\u0924",
+    "Longitude": 77,
+    "Name": "India",
+    "ShortName": "India",
+    "Languages": [
+      {
+        "Code": "HI",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "INR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1904569,
+    "CallingCode": 62,
+    "Capital": "Jakarta",
+    "ThreeLettersCode": "IDN",
+    "TwoLettersCode": "ID",
+    "Demonym": "Indonesian",
+    "Latitude": -5,
+    "LocalName": "Indonesia",
+    "Longitude": 120,
+    "Name": "Indonesia",
+    "ShortName": "Indonesia",
+    "Languages": [
+      {
+        "Code": "ID",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "IDR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1648195,
+    "CallingCode": 98,
+    "Capital": "Tehran",
+    "ThreeLettersCode": "IRN",
+    "TwoLettersCode": "IR",
+    "Demonym": "Iranian",
+    "Latitude": 32,
+    "LocalName": "\u0627\u06CC\u0631\u0627\u0646",
+    "Longitude": 53,
+    "Name": "Iran",
+    "ShortName": "Iran",
+    "Languages": [
+      {
+        "Code": "FA",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "IRR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 438317,
+    "CallingCode": 964,
+    "Capital": "Baghdad",
+    "ThreeLettersCode": "IRQ",
+    "TwoLettersCode": "IQ",
+    "Demonym": "Iraqi",
+    "Latitude": 33,
+    "LocalName": "\u0627\u0644\u0639\u0631\u0627\u0642",
+    "Longitude": 44,
+    "Name": "Iraq",
+    "ShortName": "Iraq",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      },
+      {
+        "Code": "KU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "IQD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 70273,
+    "CallingCode": 353,
+    "Capital": "Dublin",
+    "ThreeLettersCode": "IRL",
+    "TwoLettersCode": "IE",
+    "Demonym": "Irish",
+    "Latitude": 53,
+    "LocalName": "\u00C9ire",
+    "Longitude": -8,
+    "Name": "Ireland",
+    "ShortName": "Ireland",
+    "Languages": [
+      {
+        "Code": "GA",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 572,
+    "CallingCode": 44,
+    "Capital": "Douglas",
+    "ThreeLettersCode": "IMN",
+    "TwoLettersCode": "IM",
+    "Demonym": "Manx",
+    "Latitude": 54.25,
+    "LocalName": "Isle of Man",
+    "Longitude": -4.5,
+    "Name": "Isle of Man",
+    "ShortName": "Isle of Man",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "GV",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GBP",
+        "IsOffical": true
+      },
+      {
+        "Code": "IMP",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 20770,
+    "CallingCode": 972,
+    "Capital": "Jerusalem",
+    "ThreeLettersCode": "ISR",
+    "TwoLettersCode": "IL",
+    "Demonym": "Israeli",
+    "Latitude": 31.5,
+    "LocalName": "\u05D9\u05B4\u05E9\u05B0\u05C2\u05E8\u05B8\u05D0\u05B5\u05DC",
+    "Longitude": 34.75,
+    "Name": "Israel",
+    "ShortName": "Israel",
+    "Languages": [
+      {
+        "Code": "HE",
+        "IsOffical": true
+      },
+      {
+        "Code": "AR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ILS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 301336,
+    "CallingCode": 39,
+    "Capital": "Rome",
+    "ThreeLettersCode": "ITA",
+    "TwoLettersCode": "IT",
+    "Demonym": "Italian",
+    "Latitude": 42.83333206176758,
+    "LocalName": "Italia",
+    "Longitude": 12.833333015441895,
+    "Name": "Italy",
+    "ShortName": "Italy",
+    "Languages": [
+      {
+        "Code": "IT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 10991,
+    "CallingCode": 1876,
+    "Capital": "Kingston",
+    "ThreeLettersCode": "JAM",
+    "TwoLettersCode": "JM",
+    "Demonym": "Jamaican",
+    "Latitude": 18.25,
+    "LocalName": "Jamaica",
+    "Longitude": -77.5,
+    "Name": "Jamaica",
+    "ShortName": "Jamaica",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "JMD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 377962,
+    "CallingCode": 81,
+    "Capital": "Tokyo",
+    "ThreeLettersCode": "JPN",
+    "TwoLettersCode": "JP",
+    "Demonym": "Japanese",
+    "Latitude": 36,
+    "LocalName": "\u65E5\u672C\u56FD",
+    "Longitude": 138,
+    "Name": "Japan",
+    "ShortName": "Japan",
+    "Languages": [
+      {
+        "Code": "JA",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "JPY",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 116,
+    "CallingCode": 44,
+    "Capital": "Saint Helier",
+    "ThreeLettersCode": "JEY",
+    "TwoLettersCode": "JE",
+    "Demonym": "Channel Islander",
+    "Latitude": 49.25,
+    "LocalName": "Jersey",
+    "Longitude": -2.1666667461395264,
+    "Name": "Jersey",
+    "ShortName": "Jersey",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GBP",
+        "IsOffical": true
+      },
+      {
+        "Code": "JEP",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 89342,
+    "CallingCode": 962,
+    "Capital": "Amman",
+    "ThreeLettersCode": "JOR",
+    "TwoLettersCode": "JO",
+    "Demonym": "Jordanian",
+    "Latitude": 31,
+    "LocalName": "\u0627\u0644\u0623\u0631\u062F\u0646",
+    "Longitude": 36,
+    "Name": "Jordan",
+    "ShortName": "Jordan",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "JOD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2724900,
+    "CallingCode": 76,
+    "Capital": "Astana",
+    "ThreeLettersCode": "KAZ",
+    "TwoLettersCode": "KZ",
+    "Demonym": "Kazakhstani",
+    "Latitude": 48,
+    "LocalName": "\u049A\u0430\u0437\u0430\u049B\u0441\u0442\u0430\u043D",
+    "Longitude": 68,
+    "Name": "Kazakhstan",
+    "ShortName": "Kazakhstan",
+    "Languages": [
+      {
+        "Code": "KK",
+        "IsOffical": true
+      },
+      {
+        "Code": "RU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KZT",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 580367,
+    "CallingCode": 254,
+    "Capital": "Nairobi",
+    "ThreeLettersCode": "KEN",
+    "TwoLettersCode": "KE",
+    "Demonym": "Kenyan",
+    "Latitude": 1,
+    "LocalName": "Kenya",
+    "Longitude": 38,
+    "Name": "Kenya",
+    "ShortName": "Kenya",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "SW",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KES",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 811,
+    "CallingCode": 686,
+    "Capital": "South Tarawa",
+    "ThreeLettersCode": "KIR",
+    "TwoLettersCode": "KI",
+    "Demonym": "I-Kiribati",
+    "Latitude": 1.4166666269302368,
+    "LocalName": "Kiribati",
+    "Longitude": 173,
+    "Name": "Kiribati",
+    "ShortName": "Kiribati",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AUD",
+        "IsOffical": true
+      },
+      {
+        "Code": "FOK",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 17818,
+    "CallingCode": 965,
+    "Capital": "Kuwait City",
+    "ThreeLettersCode": "KWT",
+    "TwoLettersCode": "KW",
+    "Demonym": "Kuwaiti",
+    "Latitude": 29.5,
+    "LocalName": "\u0627\u0644\u0643\u0648\u064A\u062A",
+    "Longitude": 45.75,
+    "Name": "Kuwait",
+    "ShortName": "Kuwait",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KWD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 199951,
+    "CallingCode": 996,
+    "Capital": "Bishkek",
+    "ThreeLettersCode": "KGZ",
+    "TwoLettersCode": "KG",
+    "Demonym": "Kirghiz",
+    "Latitude": 41,
+    "LocalName": "\u041A\u044B\u0440\u0433\u044B\u0437\u0441\u0442\u0430\u043D",
+    "Longitude": 75,
+    "Name": "Kyrgyzstan",
+    "ShortName": "Kyrgyzstan",
+    "Languages": [
+      {
+        "Code": "KY",
+        "IsOffical": true
+      },
+      {
+        "Code": "RU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KGS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 236800,
+    "CallingCode": 856,
+    "Capital": "Vientiane",
+    "ThreeLettersCode": "LAO",
+    "TwoLettersCode": "LA",
+    "Demonym": "Laotian",
+    "Latitude": 18,
+    "LocalName": "\u0EAA\u0E9B\u0E9B\u0EA5\u0EB2\u0EA7",
+    "Longitude": 105,
+    "Name": "Lao People\u0027s Democratic Republic",
+    "ShortName": "Lao People\u0027s Democratic Republic",
+    "Languages": [
+      {
+        "Code": "LO",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "LAK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 64559,
+    "CallingCode": 371,
+    "Capital": "Riga",
+    "ThreeLettersCode": "LVA",
+    "TwoLettersCode": "LV",
+    "Demonym": "Latvian",
+    "Latitude": 57,
+    "LocalName": "Latvija",
+    "Longitude": 25,
+    "Name": "Latvia",
+    "ShortName": "Latvia",
+    "Languages": [
+      {
+        "Code": "LV",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 10452,
+    "CallingCode": 961,
+    "Capital": "Beirut",
+    "ThreeLettersCode": "LBN",
+    "TwoLettersCode": "LB",
+    "Demonym": "Lebanese",
+    "Latitude": 33.83333206176758,
+    "LocalName": "\u0644\u0628\u0646\u0627\u0646",
+    "Longitude": 35.83333206176758,
+    "Name": "Lebanon",
+    "ShortName": "Lebanon",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "LBP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 30355,
+    "CallingCode": 266,
+    "Capital": "Maseru",
+    "ThreeLettersCode": "LSO",
+    "TwoLettersCode": "LS",
+    "Demonym": "Mosotho",
+    "Latitude": -29.5,
+    "LocalName": "Lesotho",
+    "Longitude": 28.5,
+    "Name": "Lesotho",
+    "ShortName": "Lesotho",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "ST",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "LSL",
+        "IsOffical": true
+      },
+      {
+        "Code": "ZAR",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 111369,
+    "CallingCode": 231,
+    "Capital": "Monrovia",
+    "ThreeLettersCode": "LBR",
+    "TwoLettersCode": "LR",
+    "Demonym": "Liberian",
+    "Latitude": 6.5,
+    "LocalName": "Liberia",
+    "Longitude": -9.5,
+    "Name": "Liberia",
+    "ShortName": "Liberia",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "LRD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1759540,
+    "CallingCode": 218,
+    "Capital": "Tripoli",
+    "ThreeLettersCode": "LBY",
+    "TwoLettersCode": "LY",
+    "Demonym": "Libyan",
+    "Latitude": 25,
+    "LocalName": "\u200F\u0644\u064A\u0628\u064A\u0627",
+    "Longitude": 17,
+    "Name": "Libya",
+    "ShortName": "Libya",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "LYD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 160,
+    "CallingCode": 423,
+    "Capital": "Vaduz",
+    "ThreeLettersCode": "LIE",
+    "TwoLettersCode": "LI",
+    "Demonym": "Liechtensteiner",
+    "Latitude": 47.266666412353516,
+    "LocalName": "Liechtenstein",
+    "Longitude": 9.533333778381348,
+    "Name": "Liechtenstein",
+    "ShortName": "Liechtenstein",
+    "Languages": [
+      {
+        "Code": "DE",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CHF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 65300,
+    "CallingCode": 370,
+    "Capital": "Vilnius",
+    "ThreeLettersCode": "LTU",
+    "TwoLettersCode": "LT",
+    "Demonym": "Lithuanian",
+    "Latitude": 56,
+    "LocalName": "Lietuva",
+    "Longitude": 24,
+    "Name": "Lithuania",
+    "ShortName": "Lithuania",
+    "Languages": [
+      {
+        "Code": "LT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2586,
+    "CallingCode": 352,
+    "Capital": "Luxembourg",
+    "ThreeLettersCode": "LUX",
+    "TwoLettersCode": "LU",
+    "Demonym": "Luxembourger",
+    "Latitude": 49.75,
+    "LocalName": "Luxembourg",
+    "Longitude": 6.166666507720947,
+    "Name": "Luxembourg",
+    "ShortName": "Luxembourg",
+    "Languages": [
+      {
+        "Code": "LB",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "DE",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 30,
+    "CallingCode": 853,
+    "Capital": "",
+    "ThreeLettersCode": "MAC",
+    "TwoLettersCode": "MO",
+    "Demonym": "Chinese",
+    "Latitude": 22.16666603088379,
+    "LocalName": "\u6FB3\u9580",
+    "Longitude": 113.55000305175781,
+    "Name": "Macao",
+    "ShortName": "Macao",
+    "Languages": [
+      {
+        "Code": "ZH",
+        "IsOffical": true
+      },
+      {
+        "Code": "PT",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MOP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 25713,
+    "CallingCode": 389,
+    "Capital": "Skopje",
+    "ThreeLettersCode": "MKD",
+    "TwoLettersCode": "MK",
+    "Demonym": "Macedonian",
+    "Latitude": 41.8333320617676,
+    "LocalName": "\u041C\u0430\u043A\u0435\u0434\u043E\u043D\u0438\u0458\u0430",
+    "Longitude": 22,
+    "Name": "Macedonia",
+    "ShortName": "Macedonia",
+    "Languages": [
+      {
+        "Code": "MK",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MKD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 587041,
+    "CallingCode": 261,
+    "Capital": "Antananarivo",
+    "ThreeLettersCode": "MDG",
+    "TwoLettersCode": "MG",
+    "Demonym": "Malagasy",
+    "Latitude": -20,
+    "LocalName": "Madagasikara",
+    "Longitude": 47,
+    "Name": "Madagascar",
+    "ShortName": "Madagascar",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "MG",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MGA",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 118484,
+    "CallingCode": 265,
+    "Capital": "Lilongwe",
+    "ThreeLettersCode": "MWI",
+    "TwoLettersCode": "MW",
+    "Demonym": "Malawian",
+    "Latitude": -13.5,
+    "LocalName": "Malawi",
+    "Longitude": 34,
+    "Name": "Malawi",
+    "ShortName": "Malawi",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MWK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 330803,
+    "CallingCode": 60,
+    "Capital": "Kuala Lumpur",
+    "ThreeLettersCode": "MYS",
+    "TwoLettersCode": "MY",
+    "Demonym": "Malaysian",
+    "Latitude": 2.5,
+    "LocalName": "Malaysia",
+    "Longitude": 112.5,
+    "Name": "Malaysia",
+    "ShortName": "Malaysia",
+    "Languages": [
+    ],
+    "Currencies": [
+      {
+        "Code": "MYR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 300,
+    "CallingCode": 960,
+    "Capital": "Mal\u00E9",
+    "ThreeLettersCode": "MDV",
+    "TwoLettersCode": "MV",
+    "Demonym": "Maldivan",
+    "Latitude": 3.25,
+    "LocalName": "Maldives",
+    "Longitude": 73,
+    "Name": "Maldives",
+    "ShortName": "Maldives",
+    "Languages": [
+      {
+        "Code": "DV",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MVR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1240192,
+    "CallingCode": 223,
+    "Capital": "Bamako",
+    "ThreeLettersCode": "MLI",
+    "TwoLettersCode": "ML",
+    "Demonym": "Malian",
+    "Latitude": 17,
+    "LocalName": "Mali",
+    "Longitude": -4,
+    "Name": "Mali",
+    "ShortName": "Mali",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XOF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 316,
+    "CallingCode": 356,
+    "Capital": "Valletta",
+    "ThreeLettersCode": "MLT",
+    "TwoLettersCode": "MT",
+    "Demonym": "Maltese",
+    "Latitude": 35.83333206176758,
+    "LocalName": "Malta",
+    "Longitude": 14.583333015441895,
+    "Name": "Malta",
+    "ShortName": "Malta",
+    "Languages": [
+      {
+        "Code": "MT",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 181,
+    "CallingCode": 692,
+    "Capital": "Majuro",
+    "ThreeLettersCode": "MHL",
+    "TwoLettersCode": "MH",
+    "Demonym": "Marshallese",
+    "Latitude": 9,
+    "LocalName": "M\u0327aje\u013C",
+    "Longitude": 168,
+    "Name": "Marshall Islands",
+    "ShortName": "Marshall Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 596,
+    "Capital": "Fort-de-France",
+    "ThreeLettersCode": "MTQ",
+    "TwoLettersCode": "MQ",
+    "Demonym": "French",
+    "Latitude": 14.666666984558105,
+    "LocalName": "Martinique",
+    "Longitude": -61,
+    "Name": "Martinique",
+    "ShortName": "Martinique",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1030700,
+    "CallingCode": 222,
+    "Capital": "Nouakchott",
+    "ThreeLettersCode": "MRT",
+    "TwoLettersCode": "MR",
+    "Demonym": "Mauritanian",
+    "Latitude": 20,
+    "LocalName": "\u0645\u0648\u0631\u064A\u062A\u0627\u0646\u064A\u0627",
+    "Longitude": -12,
+    "Name": "Mauritania",
+    "ShortName": "Mauritania",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MRO",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2040,
+    "CallingCode": 230,
+    "Capital": "Port Louis",
+    "ThreeLettersCode": "MUS",
+    "TwoLettersCode": "MU",
+    "Demonym": "Mauritian",
+    "Latitude": -20.28333282470703,
+    "LocalName": "Maurice",
+    "Longitude": 57.54999923706055,
+    "Name": "Mauritius",
+    "ShortName": "Mauritius",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 262,
+    "Capital": "Mamoudzou",
+    "ThreeLettersCode": "MYT",
+    "TwoLettersCode": "YT",
+    "Demonym": "French",
+    "Latitude": -12.833333015441895,
+    "LocalName": "Mayotte",
+    "Longitude": 45.16666793823242,
+    "Name": "Mayotte",
+    "ShortName": "Mayotte",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1964375,
+    "CallingCode": 52,
+    "Capital": "Mexico City",
+    "ThreeLettersCode": "MEX",
+    "TwoLettersCode": "MX",
+    "Demonym": "Mexican",
+    "Latitude": 23,
+    "LocalName": "M\u00E9xico",
+    "Longitude": -102,
+    "Name": "Mexico",
+    "ShortName": "Mexico",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MXN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 702,
+    "CallingCode": 691,
+    "Capital": "Palikir",
+    "ThreeLettersCode": "FSM",
+    "TwoLettersCode": "FM",
+    "Demonym": "Micronesian",
+    "Latitude": 6.91666650772095,
+    "LocalName": "Micronesia",
+    "Longitude": 158.25,
+    "Name": "Micronesia",
+    "ShortName": "Micronesia",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 33846,
+    "CallingCode": 373,
+    "Capital": "Chi\u0219in\u0103u",
+    "ThreeLettersCode": "MDA",
+    "TwoLettersCode": "MD",
+    "Demonym": "Moldovan",
+    "Latitude": 47,
+    "LocalName": "Moldova",
+    "Longitude": 29,
+    "Name": "Moldova",
+    "ShortName": "Moldova",
+    "Languages": [
+      {
+        "Code": "RO",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MDL",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2.0199999809265137,
+    "CallingCode": 377,
+    "Capital": "Monaco",
+    "ThreeLettersCode": "MCO",
+    "TwoLettersCode": "MC",
+    "Demonym": "Monegasque",
+    "Latitude": 43.733333587646484,
+    "LocalName": "Monaco",
+    "Longitude": 7.400000095367432,
+    "Name": "Monaco",
+    "ShortName": "Monaco",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1564110,
+    "CallingCode": 976,
+    "Capital": "Ulan Bator",
+    "ThreeLettersCode": "MNG",
+    "TwoLettersCode": "MN",
+    "Demonym": "Mongolian",
+    "Latitude": 46,
+    "LocalName": "\u041C\u043E\u043D\u0433\u043E\u043B \u0443\u043B\u0441",
+    "Longitude": 105,
+    "Name": "Mongolia",
+    "ShortName": "Mongolia",
+    "Languages": [
+      {
+        "Code": "MN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MNT",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 13812,
+    "CallingCode": 382,
+    "Capital": "Podgorica",
+    "ThreeLettersCode": "MNE",
+    "TwoLettersCode": "ME",
+    "Demonym": "Montenegrin",
+    "Latitude": 42.5,
+    "LocalName": "\u0426\u0440\u043D\u0430 \u0413\u043E\u0440\u0430",
+    "Longitude": 19.299999237060547,
+    "Name": "Montenegro",
+    "ShortName": "Montenegro",
+    "Languages": [
+      {
+        "Code": "SR",
+        "IsOffical": true
+      },
+      {
+        "Code": "BS",
+        "IsOffical": false
+      },
+      {
+        "Code": "SQ",
+        "IsOffical": false
+      },
+      {
+        "Code": "HR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 102,
+    "CallingCode": 1664,
+    "Capital": "Plymouth",
+    "ThreeLettersCode": "MSR",
+    "TwoLettersCode": "MS",
+    "Demonym": "Montserratian",
+    "Latitude": 16.75,
+    "LocalName": "Montserrat",
+    "Longitude": -62.20000076293945,
+    "Name": "Montserrat",
+    "ShortName": "Montserrat",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XCD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 446550,
+    "CallingCode": 212,
+    "Capital": "Rabat",
+    "ThreeLettersCode": "MAR",
+    "TwoLettersCode": "MA",
+    "Demonym": "Moroccan",
+    "Latitude": 32,
+    "LocalName": "\u0627\u0644\u0645\u063A\u0631\u0628",
+    "Longitude": -5,
+    "Name": "Morocco",
+    "ShortName": "Morocco",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MAD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 801590,
+    "CallingCode": 258,
+    "Capital": "Maputo",
+    "ThreeLettersCode": "MOZ",
+    "TwoLettersCode": "MZ",
+    "Demonym": "Mozambican",
+    "Latitude": -18.25,
+    "LocalName": "Mo\u00E7ambique",
+    "Longitude": 35,
+    "Name": "Mozambique",
+    "ShortName": "Mozambique",
+    "Languages": [
+      {
+        "Code": "PT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MZN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 676578,
+    "CallingCode": 95,
+    "Capital": "Naypyidaw",
+    "ThreeLettersCode": "MMR",
+    "TwoLettersCode": "MM",
+    "Demonym": "Burmese",
+    "Latitude": 22,
+    "LocalName": "Myanma",
+    "Longitude": 98,
+    "Name": "Myanmar",
+    "ShortName": "Myanmar",
+    "Languages": [
+      {
+        "Code": "MY",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MMK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 825615,
+    "CallingCode": 264,
+    "Capital": "Windhoek",
+    "ThreeLettersCode": "NAM",
+    "TwoLettersCode": "NA",
+    "Demonym": "Namibian",
+    "Latitude": -22,
+    "LocalName": "Namibia",
+    "Longitude": 17,
+    "Name": "Namibia",
+    "ShortName": "Namibia",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "AF",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NAD",
+        "IsOffical": true
+      },
+      {
+        "Code": "ZAR",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 21,
+    "CallingCode": 674,
+    "Capital": "Yaren",
+    "ThreeLettersCode": "NRU",
+    "TwoLettersCode": "NR",
+    "Demonym": "Nauruan",
+    "Latitude": -0.5333333015441895,
+    "LocalName": "Nauru",
+    "Longitude": 166.9166717529297,
+    "Name": "Nauru",
+    "ShortName": "Nauru",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AUD",
+        "IsOffical": true
+      },
+      {
+        "Code": "FOK",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 147181,
+    "CallingCode": 977,
+    "Capital": "Kathmandu",
+    "ThreeLettersCode": "NPL",
+    "TwoLettersCode": "NP",
+    "Demonym": "Nepalese",
+    "Latitude": 28,
+    "LocalName": "\u0928\u0947\u092A\u093E\u0932",
+    "Longitude": 84,
+    "Name": "Nepal",
+    "ShortName": "Nepal",
+    "Languages": [
+      {
+        "Code": "NE",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NPR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 41850,
+    "CallingCode": 31,
+    "Capital": "Amsterdam",
+    "ThreeLettersCode": "NLD",
+    "TwoLettersCode": "NL",
+    "Demonym": "Dutch",
+    "Latitude": 52.5,
+    "LocalName": "Nederland",
+    "Longitude": 5.75,
+    "Name": "Netherlands",
+    "ShortName": "Netherlands",
+    "Languages": [
+      {
+        "Code": "NL",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 18575,
+    "CallingCode": 687,
+    "Capital": "Noum\u00E9a",
+    "ThreeLettersCode": "NCL",
+    "TwoLettersCode": "NC",
+    "Demonym": "New Caledonian",
+    "Latitude": -21.5,
+    "LocalName": "Nouvelle-Cal\u00E9donie",
+    "Longitude": 165.5,
+    "Name": "New Caledonia",
+    "ShortName": "New Caledonia",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XPF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 270467,
+    "CallingCode": 64,
+    "Capital": "Wellington",
+    "ThreeLettersCode": "NZL",
+    "TwoLettersCode": "NZ",
+    "Demonym": "New Zealander",
+    "Latitude": -41,
+    "LocalName": "New Zealand",
+    "Longitude": 174,
+    "Name": "New Zealand",
+    "ShortName": "New Zealand",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "MI",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NZD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 130373,
+    "CallingCode": 505,
+    "Capital": "Managua",
+    "ThreeLettersCode": "NIC",
+    "TwoLettersCode": "NI",
+    "Demonym": "Nicaraguan",
+    "Latitude": 13,
+    "LocalName": "Nicaragua",
+    "Longitude": -85,
+    "Name": "Nicaragua",
+    "ShortName": "Nicaragua",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NIO",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1267000,
+    "CallingCode": 227,
+    "Capital": "Niamey",
+    "ThreeLettersCode": "NER",
+    "TwoLettersCode": "NE",
+    "Demonym": "Nigerien",
+    "Latitude": 16,
+    "LocalName": "Niger",
+    "Longitude": 8,
+    "Name": "Niger",
+    "ShortName": "Niger",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XOF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 923768,
+    "CallingCode": 234,
+    "Capital": "Abuja",
+    "ThreeLettersCode": "NGA",
+    "TwoLettersCode": "NG",
+    "Demonym": "Nigerian",
+    "Latitude": 10,
+    "LocalName": "Nigeria",
+    "Longitude": 8,
+    "Name": "Nigeria",
+    "ShortName": "Nigeria",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NGN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 260,
+    "CallingCode": 683,
+    "Capital": "Alofi",
+    "ThreeLettersCode": "NIU",
+    "TwoLettersCode": "NU",
+    "Demonym": "Niuean",
+    "Latitude": -19.03333282470703,
+    "LocalName": "Niu\u0113",
+    "Longitude": -169.86666870117188,
+    "Name": "Niue",
+    "ShortName": "Niue",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NZD",
+        "IsOffical": true
+      },
+      {
+        "Code": "FOK",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 36,
+    "CallingCode": 672,
+    "Capital": "Kingston",
+    "ThreeLettersCode": "NFK",
+    "TwoLettersCode": "NF",
+    "Demonym": "Norfolk Islander",
+    "Latitude": -29.03333282470703,
+    "LocalName": "Norfolk Island",
+    "Longitude": 167.9499969482422,
+    "Name": "Norfolk Island",
+    "ShortName": "Norfolk Island",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AUD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 120540,
+    "CallingCode": 850,
+    "Capital": "Pyongyang",
+    "ThreeLettersCode": "PRK",
+    "TwoLettersCode": "KP",
+    "Demonym": "North Korean",
+    "Latitude": 40,
+    "LocalName": "\uBD81\uD55C",
+    "Longitude": 127,
+    "Name": "North Korea",
+    "ShortName": "North Korea",
+    "Languages": [
+      {
+        "Code": "KO",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KPW",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 464,
+    "CallingCode": 1670,
+    "Capital": "Saipan",
+    "ThreeLettersCode": "MNP",
+    "TwoLettersCode": "MP",
+    "Demonym": "American",
+    "Latitude": 15.199999809265137,
+    "LocalName": "Northern Mariana Islands",
+    "Longitude": 145.75,
+    "Name": "Northern Mariana Islands",
+    "ShortName": "Northern Mariana Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 323802,
+    "CallingCode": 47,
+    "Capital": "Oslo",
+    "ThreeLettersCode": "NOR",
+    "TwoLettersCode": "NO",
+    "Demonym": "Norwegian",
+    "Latitude": 62,
+    "LocalName": "Norge",
+    "Longitude": 10,
+    "Name": "Norway",
+    "ShortName": "Norway",
+    "Languages": [
+      {
+        "Code": "NB",
+        "IsOffical": false
+      },
+      {
+        "Code": "NN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NOK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 309500,
+    "CallingCode": 968,
+    "Capital": "Muscat",
+    "ThreeLettersCode": "OMN",
+    "TwoLettersCode": "OM",
+    "Demonym": "Omani",
+    "Latitude": 21,
+    "LocalName": "\u0639\u0645\u0627\u0646",
+    "Longitude": 57,
+    "Name": "Oman",
+    "ShortName": "Oman",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "OMR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 881912,
+    "CallingCode": 92,
+    "Capital": "Islamabad",
+    "ThreeLettersCode": "PAK",
+    "TwoLettersCode": "PK",
+    "Demonym": "Pakistani",
+    "Latitude": 30,
+    "LocalName": "Pakistan",
+    "Longitude": 70,
+    "Name": "Pakistan",
+    "ShortName": "Pakistan",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "UR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "PKR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 459,
+    "CallingCode": 680,
+    "Capital": "Ngerulmud",
+    "ThreeLettersCode": "PLW",
+    "TwoLettersCode": "PW",
+    "Demonym": "Palauan",
+    "Latitude": 7.5,
+    "LocalName": "Palau",
+    "Longitude": 134.5,
+    "Name": "Palau",
+    "ShortName": "Palau",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "FOK",
+        "IsOffical": true
+      },
+      {
+        "Code": "USD",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 970,
+    "Capital": "Ramallah",
+    "ThreeLettersCode": "PSE",
+    "TwoLettersCode": "PS",
+    "Demonym": "Palestinian",
+    "Latitude": 31.899999618530273,
+    "LocalName": "\u0641\u0644\u0633\u0637\u064A\u0646",
+    "Longitude": 35.20000076293945,
+    "Name": "Palestine, State of",
+    "ShortName": "Palestine, State of",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ILS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 75417,
+    "CallingCode": 507,
+    "Capital": "Panama City",
+    "ThreeLettersCode": "PAN",
+    "TwoLettersCode": "PA",
+    "Demonym": "Panamanian",
+    "Latitude": 9,
+    "LocalName": "Panam\u00E1",
+    "Longitude": -80,
+    "Name": "Panama",
+    "ShortName": "Panama",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "PAB",
+        "IsOffical": true
+      },
+      {
+        "Code": "USD",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 462840,
+    "CallingCode": 675,
+    "Capital": "Port Moresby",
+    "ThreeLettersCode": "PNG",
+    "TwoLettersCode": "PG",
+    "Demonym": "Papua New Guinean",
+    "Latitude": -6,
+    "LocalName": "Papua Niugini",
+    "Longitude": 147,
+    "Name": "Papua New Guinea",
+    "ShortName": "Papua New Guinea",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "PGK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 406752,
+    "CallingCode": 595,
+    "Capital": "Asunci\u00F3n",
+    "ThreeLettersCode": "PRY",
+    "TwoLettersCode": "PY",
+    "Demonym": "Paraguayan",
+    "Latitude": -23,
+    "LocalName": "Paraguay",
+    "Longitude": -58,
+    "Name": "Paraguay",
+    "ShortName": "Paraguay",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      },
+      {
+        "Code": "GN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "PYG",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1285216,
+    "CallingCode": 51,
+    "Capital": "Lima",
+    "ThreeLettersCode": "PER",
+    "TwoLettersCode": "PE",
+    "Demonym": "Peruvian",
+    "Latitude": -10,
+    "LocalName": "Per\u00FA",
+    "Longitude": -76,
+    "Name": "Peru",
+    "ShortName": "Peru",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "PEN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 342353,
+    "CallingCode": 63,
+    "Capital": "Manila",
+    "ThreeLettersCode": "PHL",
+    "TwoLettersCode": "PH",
+    "Demonym": "Filipino",
+    "Latitude": 13,
+    "LocalName": "Pilipinas",
+    "Longitude": 122,
+    "Name": "Philippines",
+    "ShortName": "Philippines",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "PHP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 47,
+    "CallingCode": 64,
+    "Capital": "Adamstown",
+    "ThreeLettersCode": "PCN",
+    "TwoLettersCode": "PN",
+    "Demonym": "Pitcairn Islander",
+    "Latitude": -25.066667556762695,
+    "LocalName": "Pitcairn Islands",
+    "Longitude": -130.10000610351562,
+    "Name": "Pitcairn",
+    "ShortName": "Pitcairn",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NZD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 312679,
+    "CallingCode": 48,
+    "Capital": "Warsaw",
+    "ThreeLettersCode": "POL",
+    "TwoLettersCode": "PL",
+    "Demonym": "Polish",
+    "Latitude": 52,
+    "LocalName": "Polska",
+    "Longitude": 20,
+    "Name": "Poland",
+    "ShortName": "Poland",
+    "Languages": [
+      {
+        "Code": "PL",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "PLN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 92090,
+    "CallingCode": 351,
+    "Capital": "Lisbon",
+    "ThreeLettersCode": "PRT",
+    "TwoLettersCode": "PT",
+    "Demonym": "Portuguese",
+    "Latitude": 39.5,
+    "LocalName": "Portugal",
+    "Longitude": -8,
+    "Name": "Portugal",
+    "ShortName": "Portugal",
+    "Languages": [
+      {
+        "Code": "PT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 8870,
+    "CallingCode": 1787,
+    "Capital": "San Juan",
+    "ThreeLettersCode": "PRI",
+    "TwoLettersCode": "PR",
+    "Demonym": "Puerto Rican",
+    "Latitude": 18.25,
+    "LocalName": "Puerto Rico",
+    "Longitude": -66.5,
+    "Name": "Puerto Rico",
+    "ShortName": "Puerto Rico",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 11586,
+    "CallingCode": 974,
+    "Capital": "Doha",
+    "ThreeLettersCode": "QAT",
+    "TwoLettersCode": "QA",
+    "Demonym": "Qatari",
+    "Latitude": 25.5,
+    "LocalName": "\u0642\u0637\u0631",
+    "Longitude": 51.25,
+    "Name": "Qatar",
+    "ShortName": "Qatar",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "QAR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 10908,
+    "CallingCode": 383,
+    "Capital": "Pristina",
+    "ThreeLettersCode": "KOS",
+    "TwoLettersCode": "XK",
+    "Demonym": "Kosovar",
+    "Latitude": 42.66666793823242,
+    "LocalName": "Republika e Kosov\u00EBs",
+    "Longitude": 21.166667938232422,
+    "Name": "Republic of Kosovo",
+    "ShortName": "Republic of Kosovo",
+    "Languages": [
+      {
+        "Code": "SQ",
+        "IsOffical": true
+      },
+      {
+        "Code": "SR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 262,
+    "Capital": "Saint-Denis",
+    "ThreeLettersCode": "REU",
+    "TwoLettersCode": "RE",
+    "Demonym": "French",
+    "Latitude": -21.149999618530273,
+    "LocalName": "La R\u00E9union",
+    "Longitude": 55.5,
+    "Name": "R\u00E9union",
+    "ShortName": "R\u00E9union",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 238391,
+    "CallingCode": 40,
+    "Capital": "Bucharest",
+    "ThreeLettersCode": "ROU",
+    "TwoLettersCode": "RO",
+    "Demonym": "Romanian",
+    "Latitude": 46,
+    "LocalName": "Rom\u00E2nia",
+    "Longitude": 25,
+    "Name": "Romania",
+    "ShortName": "Romania",
+    "Languages": [
+      {
+        "Code": "RO",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "RON",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 17124442,
+    "CallingCode": 7,
+    "Capital": "Moscow",
+    "ThreeLettersCode": "RUS",
+    "TwoLettersCode": "RU",
+    "Demonym": "Russian",
+    "Latitude": 60,
+    "LocalName": "\u0420\u043E\u0441\u0441\u0438\u044F",
+    "Longitude": 100,
+    "Name": "Russian Federation",
+    "ShortName": "Russian Federation",
+    "Languages": [
+      {
+        "Code": "RU",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "RUB",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 26338,
+    "CallingCode": 250,
+    "Capital": "Kigali",
+    "ThreeLettersCode": "RWA",
+    "TwoLettersCode": "RW",
+    "Demonym": "Rwandan",
+    "Latitude": -2,
+    "LocalName": "Rwanda",
+    "Longitude": 30,
+    "Name": "Rwanda",
+    "ShortName": "Rwanda",
+    "Languages": [
+      {
+        "Code": "RW",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "RWF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 21,
+    "CallingCode": 590,
+    "Capital": "Gustavia",
+    "ThreeLettersCode": "BLM",
+    "TwoLettersCode": "BL",
+    "Demonym": "Saint Barth\u00E9lemy Islander",
+    "Latitude": 18.5,
+    "LocalName": "Saint-Barth\u00E9lemy",
+    "Longitude": -63.41666793823242,
+    "Name": "Saint Barth\u00E9lemy",
+    "ShortName": "Saint Barth\u00E9lemy",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 290,
+    "Capital": "Jamestown",
+    "ThreeLettersCode": "SHN",
+    "TwoLettersCode": "SH",
+    "Demonym": "Saint Helenian",
+    "Latitude": -15.949999809265137,
+    "LocalName": "Saint Helena",
+    "Longitude": -5.699999809265137,
+    "Name": "Saint Helena, Ascension and Tristan da Cunha",
+    "ShortName": "Saint Helena, Ascension and Tristan da Cunha",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SHP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 261,
+    "CallingCode": 1869,
+    "Capital": "Basseterre",
+    "ThreeLettersCode": "KNA",
+    "TwoLettersCode": "KN",
+    "Demonym": "Kittian and Nevisian",
+    "Latitude": 17.33333396911621,
+    "LocalName": "Saint Kitts and Nevis",
+    "Longitude": -62.75,
+    "Name": "Saint Kitts and Nevis",
+    "ShortName": "Saint Kitts and Nevis",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XCD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 616,
+    "CallingCode": 1758,
+    "Capital": "Castries",
+    "ThreeLettersCode": "LCA",
+    "TwoLettersCode": "LC",
+    "Demonym": "Saint Lucian",
+    "Latitude": 13.883333206176758,
+    "LocalName": "Saint Lucia",
+    "Longitude": -60.96666717529297,
+    "Name": "Saint Lucia",
+    "ShortName": "Saint Lucia",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XCD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 53,
+    "CallingCode": 590,
+    "Capital": "Marigot",
+    "ThreeLettersCode": "MAF",
+    "TwoLettersCode": "MF",
+    "Demonym": "Saint Martin Islander",
+    "Latitude": 18.08333396911621,
+    "LocalName": "Saint-Martin",
+    "Longitude": -63.95000076293945,
+    "Name": "Saint Martin (French part)",
+    "ShortName": "Saint Martin (French part)",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      },
+      {
+        "Code": "NL",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 242,
+    "CallingCode": 508,
+    "Capital": "Saint-Pierre",
+    "ThreeLettersCode": "SPM",
+    "TwoLettersCode": "PM",
+    "Demonym": "French",
+    "Latitude": 46.83333206176758,
+    "LocalName": "Saint-Pierre-et-Miquelon",
+    "Longitude": -56.33333206176758,
+    "Name": "Saint Pierre and Miquelon",
+    "ShortName": "Saint Pierre and Miquelon",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 389,
+    "CallingCode": 1784,
+    "Capital": "Kingstown",
+    "ThreeLettersCode": "VCT",
+    "TwoLettersCode": "VC",
+    "Demonym": "Saint Vincentian",
+    "Latitude": 13.25,
+    "LocalName": "Saint Vincent and the Grenadines",
+    "Longitude": -61.20000076293945,
+    "Name": "Saint Vincent and the Grenadines",
+    "ShortName": "Saint Vincent and the Grenadines",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XCD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2842,
+    "CallingCode": 685,
+    "Capital": "Apia",
+    "ThreeLettersCode": "WSM",
+    "TwoLettersCode": "WS",
+    "Demonym": "Samoan",
+    "Latitude": -13.583333015441895,
+    "LocalName": "Samoa",
+    "Longitude": -172.3333282470703,
+    "Name": "Samoa",
+    "ShortName": "Samoa",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "WST",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 61,
+    "CallingCode": 378,
+    "Capital": "City of San Marino",
+    "ThreeLettersCode": "SMR",
+    "TwoLettersCode": "SM",
+    "Demonym": "Sammarinese",
+    "Latitude": 43.766666412353516,
+    "LocalName": "San Marino",
+    "Longitude": 12.416666984558105,
+    "Name": "San Marino",
+    "ShortName": "San Marino",
+    "Languages": [
+      {
+        "Code": "IT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 964,
+    "CallingCode": 239,
+    "Capital": "S\u00E3o Tom\u00E9",
+    "ThreeLettersCode": "STP",
+    "TwoLettersCode": "ST",
+    "Demonym": "Sao Tomean",
+    "Latitude": 1,
+    "LocalName": "S\u00E3o Tom\u00E9 e Pr\u00EDncipe",
+    "Longitude": 7,
+    "Name": "Sao Tome and Principe",
+    "ShortName": "Sao Tome and Principe",
+    "Languages": [
+      {
+        "Code": "PT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "STN",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 2149690,
+    "CallingCode": 966,
+    "Capital": "Riyadh",
+    "ThreeLettersCode": "KSA",
+    "TwoLettersCode": "SA",
+    "Demonym": "Saudi Arabian",
+    "Latitude": 25,
+    "LocalName": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
+    "Longitude": 45,
+    "Name": "Saudi Arabia",
+    "ShortName": "Saudi Arabia",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SAR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 196722,
+    "CallingCode": 221,
+    "Capital": "Dakar",
+    "ThreeLettersCode": "SEN",
+    "TwoLettersCode": "SN",
+    "Demonym": "Senegalese",
+    "Latitude": 14,
+    "LocalName": "S\u00E9n\u00E9gal",
+    "Longitude": -14,
+    "Name": "Senegal",
+    "ShortName": "Senegal",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XOF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 88361,
+    "CallingCode": 381,
+    "Capital": "Belgrade",
+    "ThreeLettersCode": "SRB",
+    "TwoLettersCode": "RS",
+    "Demonym": "Serbian",
+    "Latitude": 44,
+    "LocalName": "\u0421\u0440\u0431\u0438\u0458\u0430",
+    "Longitude": 21,
+    "Name": "Serbia",
+    "ShortName": "Serbia",
+    "Languages": [
+      {
+        "Code": "SR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "RSD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 452,
+    "CallingCode": 248,
+    "Capital": "Victoria",
+    "ThreeLettersCode": "SYC",
+    "TwoLettersCode": "SC",
+    "Demonym": "Seychellois",
+    "Latitude": -4.583333492279053,
+    "LocalName": "Seychelles",
+    "Longitude": 55.66666793823242,
+    "Name": "Seychelles",
+    "ShortName": "Seychelles",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SCR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 71740,
+    "CallingCode": 232,
+    "Capital": "Freetown",
+    "ThreeLettersCode": "SLE",
+    "TwoLettersCode": "SL",
+    "Demonym": "Sierra Leonean",
+    "Latitude": 8.5,
+    "LocalName": "Sierra Leone",
+    "Longitude": -11.5,
+    "Name": "Sierra Leone",
+    "ShortName": "Sierra Leone",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SLL",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 710,
+    "CallingCode": 65,
+    "Capital": "Singapore",
+    "ThreeLettersCode": "SGP",
+    "TwoLettersCode": "SG",
+    "Demonym": "Singaporean",
+    "Latitude": 1.3666666746139526,
+    "LocalName": "Singapore",
+    "Longitude": 103.80000305175781,
+    "Name": "Singapore",
+    "ShortName": "Singapore",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "MS",
+        "IsOffical": false
+      },
+      {
+        "Code": "TA",
+        "IsOffical": false
+      },
+      {
+        "Code": "ZH",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BND",
+        "IsOffical": true
+      },
+      {
+        "Code": "SGD",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 34,
+    "CallingCode": 1721,
+    "Capital": "Philipsburg",
+    "ThreeLettersCode": "SXM",
+    "TwoLettersCode": "SX",
+    "Demonym": "Dutch",
+    "Latitude": 18.03333282470703,
+    "LocalName": "Sint Maarten",
+    "Longitude": -63.04999923706055,
+    "Name": "Sint Maarten (Dutch part)",
+    "ShortName": "Sint Maarten (Dutch part)",
+    "Languages": [
+      {
+        "Code": "NL",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ANG",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 49037,
+    "CallingCode": 421,
+    "Capital": "Bratislava",
+    "ThreeLettersCode": "SVK",
+    "TwoLettersCode": "SK",
+    "Demonym": "Slovak",
+    "Latitude": 48.66666793823242,
+    "LocalName": "Slovensko",
+    "Longitude": 19.5,
+    "Name": "Slovakia",
+    "ShortName": "Slovakia",
+    "Languages": [
+      {
+        "Code": "SK",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 20273,
+    "CallingCode": 386,
+    "Capital": "Ljubljana",
+    "ThreeLettersCode": "SVN",
+    "TwoLettersCode": "SI",
+    "Demonym": "Slovene",
+    "Latitude": 46.11666488647461,
+    "LocalName": "Slovenija",
+    "Longitude": 14.816666603088379,
+    "Name": "Slovenia",
+    "ShortName": "Slovenia",
+    "Languages": [
+      {
+        "Code": "SL",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 28896,
+    "CallingCode": 677,
+    "Capital": "Honiara",
+    "ThreeLettersCode": "SLB",
+    "TwoLettersCode": "SB",
+    "Demonym": "Solomon Islander",
+    "Latitude": -8,
+    "LocalName": "Solomon Islands",
+    "Longitude": 159,
+    "Name": "Solomon Islands",
+    "ShortName": "Solomon Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SBD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 637657,
+    "CallingCode": 252,
+    "Capital": "Mogadishu",
+    "ThreeLettersCode": "SOM",
+    "TwoLettersCode": "SO",
+    "Demonym": "Somali",
+    "Latitude": 10,
+    "LocalName": "Soomaaliya",
+    "Longitude": 49,
+    "Name": "Somalia",
+    "ShortName": "Somalia",
+    "Languages": [
+      {
+        "Code": "SO",
+        "IsOffical": true
+      },
+      {
+        "Code": "AR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SOS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1221037,
+    "CallingCode": 27,
+    "Capital": "Pretoria",
+    "ThreeLettersCode": "ZAF",
+    "TwoLettersCode": "ZA",
+    "Demonym": "South African",
+    "Latitude": -29,
+    "LocalName": "South Africa",
+    "Longitude": 24,
+    "Name": "South Africa",
+    "ShortName": "South Africa",
+    "Languages": [
+      {
+        "Code": "AF",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      },
+      {
+        "Code": "NR",
+        "IsOffical": false
+      },
+      {
+        "Code": "ST",
+        "IsOffical": false
+      },
+      {
+        "Code": "SS",
+        "IsOffical": false
+      },
+      {
+        "Code": "TN",
+        "IsOffical": false
+      },
+      {
+        "Code": "TS",
+        "IsOffical": false
+      },
+      {
+        "Code": "VE",
+        "IsOffical": false
+      },
+      {
+        "Code": "XH",
+        "IsOffical": false
+      },
+      {
+        "Code": "ZU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ZAR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 500,
+    "Capital": "King Edward Point",
+    "ThreeLettersCode": "SGS",
+    "TwoLettersCode": "GS",
+    "Demonym": "South Georgia and the South Sandwich Islander",
+    "Latitude": -54.5,
+    "LocalName": "South Georgia",
+    "Longitude": -37,
+    "Name": "South Georgia and the South Sandwich Islands",
+    "ShortName": "South Georgia and the South Sandwich Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GBP",
+        "IsOffical": true
+      },
+      {
+        "Code": "FOK",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 100210,
+    "CallingCode": 82,
+    "Capital": "Seoul",
+    "ThreeLettersCode": "KOR",
+    "TwoLettersCode": "KR",
+    "Demonym": "South Korean",
+    "Latitude": 37,
+    "LocalName": "\uB300\uD55C\uBBFC\uAD6D",
+    "Longitude": 127.5,
+    "Name": "South Korea",
+    "ShortName": "South Korea",
+    "Languages": [
+      {
+        "Code": "KO",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "KRW",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 619745,
+    "CallingCode": 211,
+    "Capital": "Juba",
+    "ThreeLettersCode": "SSD",
+    "TwoLettersCode": "SS",
+    "Demonym": "South Sudanese",
+    "Latitude": 7,
+    "LocalName": "South Sudan",
+    "Longitude": 30,
+    "Name": "South Sudan",
+    "ShortName": "South Sudan",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SSP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 505992,
+    "CallingCode": 34,
+    "Capital": "Madrid",
+    "ThreeLettersCode": "ESP",
+    "TwoLettersCode": "ES",
+    "Demonym": "Spanish",
+    "Latitude": 40,
+    "LocalName": "Espa\u00F1a",
+    "Longitude": -4,
+    "Name": "Spain",
+    "ShortName": "Spain",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "EUR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 65610,
+    "CallingCode": 94,
+    "Capital": "Colombo",
+    "ThreeLettersCode": "LKA",
+    "TwoLettersCode": "LK",
+    "Demonym": "Sri Lankan",
+    "Latitude": 7,
+    "LocalName": "\u015Br\u012B la\u1E43k\u0101va",
+    "Longitude": 81,
+    "Name": "Sri Lanka",
+    "ShortName": "Sri Lanka",
+    "Languages": [
+      {
+        "Code": "SI",
+        "IsOffical": true
+      },
+      {
+        "Code": "TA",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "LKR",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 1886068,
+    "CallingCode": 249,
+    "Capital": "Khartoum",
+    "ThreeLettersCode": "SDN",
+    "TwoLettersCode": "SD",
+    "Demonym": "Sudanese",
+    "Latitude": 15,
+    "LocalName": "\u0627\u0644\u0633\u0648\u062F\u0627\u0646",
+    "Longitude": 30,
+    "Name": "Sudan",
+    "ShortName": "Sudan",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SDG",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 163820,
+    "CallingCode": 597,
+    "Capital": "Paramaribo",
+    "ThreeLettersCode": "SUR",
+    "TwoLettersCode": "SR",
+    "Demonym": "Surinamer",
+    "Latitude": 4,
+    "LocalName": "Suriname",
+    "Longitude": -56,
+    "Name": "Suriname",
+    "ShortName": "Suriname",
+    "Languages": [
+      {
+        "Code": "NL",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SRD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": null,
+    "CallingCode": 4779,
+    "Capital": "Longyearbyen",
+    "ThreeLettersCode": "SJM",
+    "TwoLettersCode": "SJ",
+    "Demonym": "Norwegian",
+    "Latitude": 78,
+    "LocalName": "Svalbard og Jan Mayen",
+    "Longitude": 20,
+    "Name": "Svalbard and Jan Mayen",
+    "ShortName": "Svalbard and Jan Mayen",
+    "Languages": [
+    ],
+    "Currencies": [
+      {
+        "Code": "NOK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 17364,
+    "CallingCode": 268,
+    "Capital": "Lobamba",
+    "ThreeLettersCode": "SWZ",
+    "TwoLettersCode": "SZ",
+    "Demonym": "Swazi",
+    "Latitude": -26.5,
+    "LocalName": "Swaziland",
+    "Longitude": 31.5,
+    "Name": "Swaziland",
+    "ShortName": "Swaziland",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "SS",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SZL",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 450295,
+    "CallingCode": 46,
+    "Capital": "Stockholm",
+    "ThreeLettersCode": "SWE",
+    "TwoLettersCode": "SE",
+    "Demonym": "Swedish",
+    "Latitude": 62,
+    "LocalName": "Sverige",
+    "Longitude": 15,
+    "Name": "Sweden",
+    "ShortName": "Sweden",
+    "Languages": [
+      {
+        "Code": "SV",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SEK",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 41284,
+    "CallingCode": 41,
+    "Capital": "Bern",
+    "ThreeLettersCode": "CHE",
+    "TwoLettersCode": "CH",
+    "Demonym": "Swiss",
+    "Latitude": 47,
+    "LocalName": "Schweiz",
+    "Longitude": 8,
+    "Name": "Switzerland",
+    "ShortName": "Switzerland",
+    "Languages": [
+      {
+        "Code": "DE",
+        "IsOffical": true
+      },
+      {
+        "Code": "FR",
+        "IsOffical": true
+      },
+      {
+        "Code": "IT",
+        "IsOffical": true
+      },
+      {
+        "Code": "RM",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "CHF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 185180,
+    "CallingCode": 963,
+    "Capital": "Damascus",
+    "ThreeLettersCode": "SYR",
+    "TwoLettersCode": "SY",
+    "Demonym": "Syrian",
+    "Latitude": 35,
+    "LocalName": "\u0633\u0648\u0631\u064A\u0627",
+    "Longitude": 38,
+    "Name": "Syria",
+    "ShortName": "Syria",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "SYP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 36193,
+    "CallingCode": 886,
+    "Capital": "Taipei",
+    "ThreeLettersCode": "TWN",
+    "TwoLettersCode": "TW",
+    "Demonym": "Taiwanese",
+    "Latitude": 23.5,
+    "LocalName": "\u81FA\u7063",
+    "Longitude": 121,
+    "Name": "Taiwan",
+    "ShortName": "Taiwan",
+    "Languages": [
+      {
+        "Code": "ZH",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "TWD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 143100,
+    "CallingCode": 992,
+    "Capital": "Dushanbe",
+    "ThreeLettersCode": "TJK",
+    "TwoLettersCode": "TJ",
+    "Demonym": "Tadzhik",
+    "Latitude": 39,
+    "LocalName": "\u0422\u043E\u04B7\u0438\u043A\u0438\u0441\u0442\u043E\u043D",
+    "Longitude": 71,
+    "Name": "Tajikistan",
+    "ShortName": "Tajikistan",
+    "Languages": [
+      {
+        "Code": "TG",
+        "IsOffical": true
+      },
+      {
+        "Code": "RU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "TJS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 947303,
+    "CallingCode": 255,
+    "Capital": "Dodoma",
+    "ThreeLettersCode": "TZA",
+    "TwoLettersCode": "TZ",
+    "Demonym": "Tanzanian",
+    "Latitude": -6,
+    "LocalName": "Tanzania",
+    "Longitude": 35,
+    "Name": "Tanzania",
+    "ShortName": "Tanzania",
+    "Languages": [
+      {
+        "Code": "SW",
+        "IsOffical": true
+      },
+      {
+        "Code": "EN",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "TZS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 513120,
+    "CallingCode": 66,
+    "Capital": "Bangkok",
+    "ThreeLettersCode": "THA",
+    "TwoLettersCode": "TH",
+    "Demonym": "Thai",
+    "Latitude": 15,
+    "LocalName": "\u0E1B\u0E23\u0E30\u0E40\u0E17\u0E28\u0E44\u0E17\u0E22",
+    "Longitude": 100,
+    "Name": "Thailand",
+    "ShortName": "Thailand",
+    "Languages": [
+      {
+        "Code": "TH",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "THB",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 14874,
+    "CallingCode": 670,
+    "Capital": "Dili",
+    "ThreeLettersCode": "TLS",
+    "TwoLettersCode": "TL",
+    "Demonym": "East Timorese",
+    "Latitude": -8.833333015441895,
+    "LocalName": "Timor-Leste",
+    "Longitude": 125.91666412353516,
+    "Name": "Timor-Leste",
+    "ShortName": "Timor-Leste",
+    "Languages": [
+      {
+        "Code": "PT",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 56785,
+    "CallingCode": 228,
+    "Capital": "Lom\u00E9",
+    "ThreeLettersCode": "TGO",
+    "TwoLettersCode": "TG",
+    "Demonym": "Togolese",
+    "Latitude": 8,
+    "LocalName": "Togo",
+    "Longitude": 1.1666666269302368,
+    "Name": "Togo",
+    "ShortName": "Togo",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XOF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 12,
+    "CallingCode": 690,
+    "Capital": "Fakaofo",
+    "ThreeLettersCode": "TKL",
+    "TwoLettersCode": "TK",
+    "Demonym": "Tokelauan",
+    "Latitude": -9,
+    "LocalName": "Tokelau",
+    "Longitude": -172,
+    "Name": "Tokelau",
+    "ShortName": "Tokelau",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "NZD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 747,
+    "CallingCode": 676,
+    "Capital": "Nuku\u0027alofa",
+    "ThreeLettersCode": "TON",
+    "TwoLettersCode": "TO",
+    "Demonym": "Tongan",
+    "Latitude": -20,
+    "LocalName": "Tonga",
+    "Longitude": -175,
+    "Name": "Tonga",
+    "ShortName": "Tonga",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "TO",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "TOP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 5130,
+    "CallingCode": 1868,
+    "Capital": "Port of Spain",
+    "ThreeLettersCode": "TTO",
+    "TwoLettersCode": "TT",
+    "Demonym": "Trinidadian",
+    "Latitude": 11,
+    "LocalName": "Trinidad and Tobago",
+    "Longitude": -61,
+    "Name": "Trinidad and Tobago",
+    "ShortName": "Trinidad and Tobago",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "TTD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 163610,
+    "CallingCode": 216,
+    "Capital": "Tunis",
+    "ThreeLettersCode": "TUN",
+    "TwoLettersCode": "TN",
+    "Demonym": "Tunisian",
+    "Latitude": 34,
+    "LocalName": "\u062A\u0648\u0646\u0633",
+    "Longitude": 9,
+    "Name": "Tunisia",
+    "ShortName": "Tunisia",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "TND",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 783562,
+    "CallingCode": 90,
+    "Capital": "Ankara",
+    "ThreeLettersCode": "TUR",
+    "TwoLettersCode": "TR",
+    "Demonym": "Turkish",
+    "Latitude": 39,
+    "LocalName": "T\u00FCrkiye",
+    "Longitude": 35,
+    "Name": "Turkey",
+    "ShortName": "Turkey",
+    "Languages": [
+      {
+        "Code": "TR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "TRY",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 488100,
+    "CallingCode": 993,
+    "Capital": "Ashgabat",
+    "ThreeLettersCode": "TKM",
+    "TwoLettersCode": "TM",
+    "Demonym": "Turkmen",
+    "Latitude": 40,
+    "LocalName": "T\u00FCrkmenistan",
+    "Longitude": 60,
+    "Name": "Turkmenistan",
+    "ShortName": "Turkmenistan",
+    "Languages": [
+      {
+        "Code": "TK",
+        "IsOffical": true
+      },
+      {
+        "Code": "RU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "TMT",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 948,
+    "CallingCode": 1649,
+    "Capital": "Cockburn Town",
+    "ThreeLettersCode": "TCA",
+    "TwoLettersCode": "TC",
+    "Demonym": "Turks and Caicos Islander",
+    "Latitude": 21.75,
+    "LocalName": "Turks and Caicos Islands",
+    "Longitude": -71.58333587646484,
+    "Name": "Turks and Caicos Islands",
+    "ShortName": "Turks and Caicos Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 26,
+    "CallingCode": 688,
+    "Capital": "Funafuti",
+    "ThreeLettersCode": "TUV",
+    "TwoLettersCode": "TV",
+    "Demonym": "Tuvaluan",
+    "Latitude": -8,
+    "LocalName": "Tuvalu",
+    "Longitude": 178,
+    "Name": "Tuvalu",
+    "ShortName": "Tuvalu",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AUD",
+        "IsOffical": true
+      },
+      {
+        "Code": "TVD",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 241550,
+    "CallingCode": 256,
+    "Capital": "Kampala",
+    "ThreeLettersCode": "UGA",
+    "TwoLettersCode": "UG",
+    "Demonym": "Ugandan",
+    "Latitude": 1,
+    "LocalName": "Uganda",
+    "Longitude": 32,
+    "Name": "Uganda",
+    "ShortName": "Uganda",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "SW",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "UGX",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 603700,
+    "CallingCode": 380,
+    "Capital": "Kiev",
+    "ThreeLettersCode": "UKR",
+    "TwoLettersCode": "UA",
+    "Demonym": "Ukrainian",
+    "Latitude": 49,
+    "LocalName": "\u0423\u043A\u0440\u0430\u0457\u043D\u0430",
+    "Longitude": 32,
+    "Name": "Ukraine",
+    "ShortName": "Ukraine",
+    "Languages": [
+      {
+        "Code": "UK",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "UAH",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 83600,
+    "CallingCode": 971,
+    "Capital": "Abu Dhabi",
+    "ThreeLettersCode": "UAE",
+    "TwoLettersCode": "AE",
+    "Demonym": "Emirati",
+    "Latitude": 24,
+    "LocalName": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+    "Longitude": 54,
+    "Name": "United Arab Emirates",
+    "ShortName": "Emirates",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "AED",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 242495,
+    "CallingCode": 44,
+    "Capital": "London",
+    "ThreeLettersCode": "GBR",
+    "TwoLettersCode": "GB",
+    "Demonym": "British",
+    "Latitude": 54,
+    "LocalName": "United Kingdom",
+    "Longitude": -2,
+    "Name": "United Kingdom",
+    "ShortName": "United Kingdom",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "GBP",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 9629091,
+    "CallingCode": 1,
+    "Capital": "Washington, D.C.",
+    "ThreeLettersCode": "USA",
+    "TwoLettersCode": "US",
+    "Demonym": "American",
+    "Latitude": 38,
+    "LocalName": "United States",
+    "Longitude": -97,
+    "Name": "United States of America",
+    "ShortName": "United States",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 181034,
+    "CallingCode": 598,
+    "Capital": "Montevideo",
+    "ThreeLettersCode": "URY",
+    "TwoLettersCode": "UY",
+    "Demonym": "Uruguayan",
+    "Latitude": -33,
+    "LocalName": "Uruguay",
+    "Longitude": -56,
+    "Name": "Uruguay",
+    "ShortName": "Uruguay",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "UYU",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 447400,
+    "CallingCode": 998,
+    "Capital": "Tashkent",
+    "ThreeLettersCode": "UZB",
+    "TwoLettersCode": "UZ",
+    "Demonym": "Uzbekistani",
+    "Latitude": 41,
+    "LocalName": "O\u2018zbekiston",
+    "Longitude": 64,
+    "Name": "Uzbekistan",
+    "ShortName": "Uzbekistan",
+    "Languages": [
+      {
+        "Code": "UZ",
+        "IsOffical": true
+      },
+      {
+        "Code": "RU",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "UZS",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 12189,
+    "CallingCode": 678,
+    "Capital": "Port Vila",
+    "ThreeLettersCode": "VUT",
+    "TwoLettersCode": "VU",
+    "Demonym": "Ni-Vanuatu",
+    "Latitude": -16,
+    "LocalName": "Vanuatu",
+    "Longitude": 167,
+    "Name": "Vanuatu",
+    "ShortName": "Vanuatu",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": false
+      },
+      {
+        "Code": "FR",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "VUV",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 916445,
+    "CallingCode": 58,
+    "Capital": "Caracas",
+    "ThreeLettersCode": "VEN",
+    "TwoLettersCode": "VE",
+    "Demonym": "Venezuelan",
+    "Latitude": 8,
+    "LocalName": "Venezuela",
+    "Longitude": -66,
+    "Name": "Venezuela",
+    "ShortName": "Venezuela",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "VEF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 331212,
+    "CallingCode": 84,
+    "Capital": "Hanoi",
+    "ThreeLettersCode": "VNM",
+    "TwoLettersCode": "VN",
+    "Demonym": "Vietnamese",
+    "Latitude": 16.16666603088379,
+    "LocalName": "Vi\u1EC7t Nam",
+    "Longitude": 107.83333587646484,
+    "Name": "Viet Nam",
+    "ShortName": "Viet Nam",
+    "Languages": [
+      {
+        "Code": "VI",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "VND",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 346.359985351563,
+    "CallingCode": 1340,
+    "Capital": "Charlotte Amalie",
+    "ThreeLettersCode": "VIR",
+    "TwoLettersCode": "VI",
+    "Demonym": "Virgin Islander",
+    "Latitude": 18.3400001525879,
+    "LocalName": "Virgin Islands",
+    "Longitude": -64.9300003051758,
+    "Name": "Virgin Islands of the United States",
+    "ShortName": "Virgin Islands",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "USD",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 142,
+    "CallingCode": 681,
+    "Capital": "Mata-Utu",
+    "ThreeLettersCode": "WLF",
+    "TwoLettersCode": "WF",
+    "Demonym": "Wallis and Futuna Islander",
+    "Latitude": -13.300000190734863,
+    "LocalName": "Wallis et Futuna",
+    "Longitude": -176.1999969482422,
+    "Name": "Wallis and Futuna",
+    "ShortName": "Wallis and Futuna",
+    "Languages": [
+      {
+        "Code": "FR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "XPF",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 266000,
+    "CallingCode": 212,
+    "Capital": "El Aai\u00FAn",
+    "ThreeLettersCode": "ESH",
+    "TwoLettersCode": "EH",
+    "Demonym": "Sahrawi",
+    "Latitude": 24.5,
+    "LocalName": "\u0627\u0644\u0635\u062D\u0631\u0627\u0621 \u0627\u0644\u063A\u0631\u0628\u064A\u0629",
+    "Longitude": -13,
+    "Name": "Western Sahara",
+    "ShortName": "Western Sahara",
+    "Languages": [
+      {
+        "Code": "ES",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "MAD",
+        "IsOffical": true
+      },
+      {
+        "Code": "DZD",
+        "IsOffical": false
+      }
+    ]
+  },
+  {
+    "Area": 527968,
+    "CallingCode": 967,
+    "Capital": "Sana\u0027a",
+    "ThreeLettersCode": "YEM",
+    "TwoLettersCode": "YE",
+    "Demonym": "Yemeni",
+    "Latitude": 15,
+    "LocalName": "\u0627\u0644\u064A\u064E\u0645\u064E\u0646",
+    "Longitude": 48,
+    "Name": "Yemen",
+    "ShortName": "Yemen",
+    "Languages": [
+      {
+        "Code": "AR",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "YER",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 752612,
+    "CallingCode": 260,
+    "Capital": "Lusaka",
+    "ThreeLettersCode": "ZMB",
+    "TwoLettersCode": "ZM",
+    "Demonym": "Zambian",
+    "Latitude": -15,
+    "LocalName": "Zambia",
+    "Longitude": 30,
+    "Name": "Zambia",
+    "ShortName": "Zambia",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "ZMW",
+        "IsOffical": true
+      }
+    ]
+  },
+  {
+    "Area": 390757,
+    "CallingCode": 263,
+    "Capital": "Harare",
+    "ThreeLettersCode": "ZWE",
+    "TwoLettersCode": "ZW",
+    "Demonym": "Zimbabwean",
+    "Latitude": -20,
+    "LocalName": "Zimbabwe",
+    "Longitude": 30,
+    "Name": "Zimbabwe",
+    "ShortName": "Zimbabwe",
+    "Languages": [
+      {
+        "Code": "EN",
+        "IsOffical": true
+      },
+      {
+        "Code": "SN",
+        "IsOffical": false
+      },
+      {
+        "Code": "ND",
+        "IsOffical": false
+      }
+    ],
+    "Currencies": [
+      {
+        "Code": "BWP",
+        "IsOffical": true
+      },
+      {
+        "Code": "GBP",
+        "IsOffical": false
+      },
+      {
+        "Code": "CNY",
+        "IsOffical": false
+      },
+      {
+        "Code": "EUR",
+        "IsOffical": false
+      },
+      {
+        "Code": "INR",
+        "IsOffical": false
+      },
+      {
+        "Code": "JPY",
+        "IsOffical": false
+      },
+      {
+        "Code": "ZAR",
+        "IsOffical": false
+      },
+      {
+        "Code": "USD",
+        "IsOffical": false
+      },
+      {
+        "Code": "FOK",
+        "IsOffical": false
+      }
+    ]
+  }
+]
