@@ -19,26 +19,28 @@ CountryModel model = new();
 List<SubdivisionModel> subdivisionModel = new();
 
 //SUBDIVISION CODE--------------------------------------
-foreach (Country c in countries)
-{
-    List<Subdivision> subdivisions = await cloudGeography.Subdivisions.GetByCountryAsync(c.ID);
-    subdivisions.ForEach(result =>
-    {
-        fileName = "../../../Jsonfiles/Subdivisions/"+ c.ThreeLettersCode +"-subdivisions.json";
-        SubdivisionModel sub = new()
-        {
-            Code = result.Code,
-            Name = result.Name,
-            LocalName = result.LocalName,
-            Type = result.Type
-        };
-        subdivisionModel.Add(sub);
-    });
-    string jsonString = JsonConvert.SerializeObject(subdivisionModel);
-    if(!jsonString.Equals("[]"))
-        File.WriteAllText(fileName, jsonString);
-    subdivisionModel.Clear();
-}
+//foreach (Country c in countries)
+//{
+//    List<Subdivision> subdivisions = await cloudGeography.Subdivisions.GetByCountryAsync(c.ID);
+//    subdivisions.ForEach(result =>
+//    {
+//        fileName = "../../../Jsonfiles/Subdivisions/"+ c.TwoLettersCode +"-subdivisions.json";
+//        SubdivisionModel sub = new()
+//        {
+//            Code = result.Code,
+//            Name = result.Name,
+//            LocalName = result.LocalName,
+//            Type = result.Type
+//        };
+//        subdivisionModel.Add(sub);
+//    });
+//    string jsonString = JsonConvert.SerializeObject(subdivisionModel);
+//    if(!jsonString.Equals("[]"))
+//        File.WriteAllText(fileName, jsonString);
+//    else
+//        File.WriteAllText(fileName, jsonString+".EMPTY");
+//    subdivisionModel.Clear();
+//}
 
 //LANGUAGES CODE--------------------------------------
 //List<Language> languagesCloud = await cloudGeography.Languages.GetAllAsync();
@@ -81,61 +83,62 @@ foreach (Country c in countries)
 
 //    });
 
-//foreach (Country c in countries)
-//{
-//    List<CountryLanguage> languages = new();
-//    List<CountryCurrency> currencies = new();
+
+//COUNTRIES CODE--------------------------------------
+foreach (Country c in countries)
+{
+    List<CountryLanguage> languages = new();
+    List<CountryCurrency> currencies = new();
 
 
-//    List<LanguageModel> languagesList = new();
-//    List<CurrencieModel> currencieList = new();
-//    try
-//    {
-//        languages = await cloudGeography.Languages.GetByCountryAsync(c.TwoLettersCode);
-//        currencies = await cloudGeography.Currencies.GetByCountryAsync(c.TwoLettersCode);
-//    }
-//    catch (Exception e)
-//    {
-//    }
-//    languages.ForEach(result =>
-//    {
-//        LanguageModel language = new()
-//        {
-//            Code = result.Language.TwoLettersCode,
-//            IsOffical=result.IsOfficial
-//        };
-//        languagesList.Add(language);
-//    });
-//    currencies.ForEach(result =>
-//    {
-//        CurrencieModel currencie = new()
-//        {
-//            Code = result.Currency.ThreeLettersCode,
-//            IsOffical = result.IsOfficial
-//        };
-//        currencieList.Add(currencie);
-//    });
-//    model =new()
-//    {
-//        Code = c.TwoLettersCode,
-//        Area= c.Area,
-//        CallingCode= c.CallingCode,
-//        Capital=c.Capital,
-//        ThreeLettersCode=c.ThreeLettersCode,
-//        TwoLettersCode=c.TwoLettersCode,
-//        Demonym=c.Demonym,
-//        Latitude = c.Latitude,
-//        LocalName = c.LocalName,
-//        Longitude = c.Longitude,
-//        Name = c.Name,
-//        ShortName = c.ShortName,
-//        Languages=languagesList,
-//        Currencies=currencieList
+    List<LanguageModel> languagesList = new();
+    List<CurrencieModel> currencieList = new();
+    try
+    {
+        languages = await cloudGeography.Languages.GetByCountryAsync(c.TwoLettersCode);
+        currencies = await cloudGeography.Currencies.GetByCountryAsync(c.TwoLettersCode);
+    }
+    catch (Exception e)
+    {
+    }
+    languages.ForEach(result =>
+    {
+        LanguageModel language = new()
+        {
+            Code = result.Language.TwoLettersCode,
+            IsOffical=result.IsOfficial
+        };
+        languagesList.Add(language);
+    });
+    currencies.ForEach(result =>
+    {
+        CurrencieModel currencie = new()
+        {
+            Code = result.Currency.ThreeLettersCode,
+            IsOffical = result.IsOfficial
+        };
+        currencieList.Add(currencie);
+    });
+    model =new()
+    {
+        Code = c.TwoLettersCode,
+        Area= c.Area,
+        CallingCode= c.CallingCode,
+        Capital=c.Capital,
+        ThreeLettersCode=c.ThreeLettersCode,
+        Demonym=c.Demonym,
+        Latitude = c.Latitude,
+        LocalName = c.LocalName,
+        Longitude = c.Longitude,
+        Name = c.Name,
+        ShortName = c.ShortName,
+        Languages=languagesList,
+        Currencies=currencieList
 
-//    };
-//    models.Add(model);
+    };
+    models.Add(model);
 
-//}
+}
 
 //country lebanon = await cloudGeography.Countries.GetAsync("lb");
 
@@ -143,11 +146,11 @@ foreach (Country c in countries)
 //string jsonString = JsonSerializer.Serialize(models);
 
 
-fileName = "../../../Jsonfiles/Currencies.json";
+fileName = "../../../Jsonfiles/Countries.json";
 
 //--------------------------------
-//string jsonString = JsonConvert.SerializeObject(CurrenciesList);
-//File.WriteAllText(fileName, jsonString);
+string jsonString = JsonConvert.SerializeObject(models);
+File.WriteAllText(fileName, jsonString);
 //--------------------------------
 
 //Deserializing json file

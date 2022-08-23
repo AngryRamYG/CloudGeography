@@ -18,7 +18,6 @@ namespace data
         public string ThreeLettersCode { get; set; }
 
 
-        public string TwoLettersCode { get; set; }
 
 
         public string Demonym { get; set; }
