@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Jsonfiles\" />
+    <Folder Include="Jsonfiles\Subdivisions\" />
   </ItemGroup>
 
 </Project>

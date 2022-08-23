@@ -1,14 +1,15 @@
 [
   {
-    "Area": 652230,
+    "Code": "AF",
+    "Area": 652230.0,
     "CallingCode": 93,
     "Capital": "Kabul",
     "ThreeLettersCode": "AFG",
     "TwoLettersCode": "AF",
     "Demonym": "Afghan",
-    "Latitude": 33,
-    "LocalName": "\u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646",
-    "Longitude": 65,
+    "Latitude": 33.0,
+    "LocalName": "افغانستان",
+    "Longitude": 65.0,
     "Name": "Afghanistan",
     "ShortName": "Afghanistan",
     "Languages": [
@@ -37,17 +38,18 @@
     ]
   },
   {
-    "Area": 1580,
+    "Code": "AX",
+    "Area": 1580.0,
     "CallingCode": 358,
     "Capital": "Mariehamn",
     "ThreeLettersCode": "ALA",
     "TwoLettersCode": "AX",
-    "Demonym": "\u00C5landish",
+    "Demonym": "Ålandish",
     "Latitude": 60.1166687011719,
-    "LocalName": "Landskapet \u00C5land",
+    "LocalName": "Landskapet Åland",
     "Longitude": 19.8999996185303,
-    "Name": "\u00C5land Islands",
-    "ShortName": "\u00C5land",
+    "Name": "Åland Islands",
+    "ShortName": "Åland",
     "Languages": [
       {
         "Code": "SV",
@@ -66,15 +68,16 @@
     ]
   },
   {
-    "Area": 28748,
+    "Code": "AL",
+    "Area": 28748.0,
     "CallingCode": 355,
     "Capital": "Tirana",
     "ThreeLettersCode": "ALB",
     "TwoLettersCode": "AL",
     "Demonym": "Albanian",
-    "Latitude": 41,
-    "LocalName": "Shqip\u00EBria",
-    "Longitude": 20,
+    "Latitude": 41.0,
+    "LocalName": "Shqipëria",
+    "Longitude": 20.0,
     "Name": "Albania",
     "ShortName": "Albania",
     "Languages": [
@@ -91,15 +94,16 @@
     ]
   },
   {
-    "Area": 2381741,
+    "Code": "DZ",
+    "Area": 2381741.0,
     "CallingCode": 213,
     "Capital": "Algiers",
     "ThreeLettersCode": "DZA",
     "TwoLettersCode": "DZ",
     "Demonym": "Algerian",
-    "Latitude": 28,
-    "LocalName": "\u0627\u0644\u062C\u0632\u0627\u0626\u0631",
-    "Longitude": 3,
+    "Latitude": 28.0,
+    "LocalName": "الجزائر",
+    "Longitude": 3.0,
     "Name": "Algeria",
     "ShortName": "Algeria",
     "Languages": [
@@ -124,7 +128,8 @@
     ]
   },
   {
-    "Area": 199,
+    "Code": "AS",
+    "Area": 199.0,
     "CallingCode": 1684,
     "Capital": "Pago Pago",
     "ThreeLettersCode": "ASM",
@@ -132,7 +137,7 @@
     "Demonym": "American Samoan",
     "Latitude": -14.3333330154419,
     "LocalName": "American Samoa",
-    "Longitude": -170,
+    "Longitude": -170.0,
     "Name": "American Samoa",
     "ShortName": "American Samoa",
     "Languages": [
@@ -157,6 +162,7 @@
     ]
   },
   {
+    "Code": "AD",
     "Area": 467.63,
     "CallingCode": 376,
     "Capital": "Andorra la Vella",
@@ -194,7 +200,8 @@
     ]
   },
   {
-    "Area": 1246700,
+    "Code": "AO",
+    "Area": 1246700.0,
     "CallingCode": 244,
     "Capital": "Luanda",
     "ThreeLettersCode": "AGO",
@@ -219,7 +226,8 @@
     ]
   },
   {
-    "Area": 91,
+    "Code": "AI",
+    "Area": 91.0,
     "CallingCode": 1264,
     "Capital": "The Valley",
     "ThreeLettersCode": "AIA",
@@ -244,7 +252,8 @@
     ]
   },
   {
-    "Area": 14000000,
+    "Code": "AQ",
+    "Area": 14000000.0,
     "CallingCode": 672,
     "Capital": "--",
     "ThreeLettersCode": "ATA",
@@ -277,9 +286,10 @@
     ]
   },
   {
-    "Area": 442,
+    "Code": "AG",
+    "Area": 442.0,
     "CallingCode": 1268,
-    "Capital": "Saint John\u0027s",
+    "Capital": "Saint John's",
     "ThreeLettersCode": "ATG",
     "TwoLettersCode": "AG",
     "Demonym": "Antiguan, Barbudan",
@@ -302,15 +312,16 @@
     ]
   },
   {
-    "Area": 2780400,
+    "Code": "AR",
+    "Area": 2780400.0,
     "CallingCode": 54,
     "Capital": "Buenos Aires",
     "ThreeLettersCode": "ARG",
     "TwoLettersCode": "AR",
     "Demonym": "Argentinean",
-    "Latitude": -34,
+    "Latitude": -34.0,
     "LocalName": "Argentina",
-    "Longitude": -64,
+    "Longitude": -64.0,
     "Name": "Argentina",
     "ShortName": "Argentina",
     "Languages": [
@@ -339,15 +350,16 @@
     ]
   },
   {
-    "Area": 29743,
+    "Code": "AM",
+    "Area": 29743.0,
     "CallingCode": 374,
     "Capital": "Yerevan",
     "ThreeLettersCode": "ARM",
     "TwoLettersCode": "AM",
     "Demonym": "Armenian",
-    "Latitude": 40,
-    "LocalName": "\u0540\u0561\u0575\u0561\u057D\u057F\u0561\u0576",
-    "Longitude": 45,
+    "Latitude": 40.0,
+    "LocalName": "Հայաստան",
+    "Longitude": 45.0,
     "Name": "Armenia",
     "ShortName": "Armenia",
     "Languages": [
@@ -372,6 +384,7 @@
     ]
   },
   {
+    "Code": "AW",
     "Area": 178.91,
     "CallingCode": 297,
     "Capital": "Oranjestad",
@@ -401,15 +414,16 @@
     ]
   },
   {
-    "Area": 7692024,
+    "Code": "AU",
+    "Area": 7692024.0,
     "CallingCode": 61,
     "Capital": "Canberra",
     "ThreeLettersCode": "AUS",
     "TwoLettersCode": "AU",
     "Demonym": "Australian",
-    "Latitude": -27,
+    "Latitude": -27.0,
     "LocalName": "Australia",
-    "Longitude": 133,
+    "Longitude": 133.0,
     "Name": "Australia",
     "ShortName": "Australia",
     "Languages": [
@@ -426,14 +440,15 @@
     ]
   },
   {
-    "Area": 83879,
+    "Code": "AT",
+    "Area": 83879.0,
     "CallingCode": 43,
     "Capital": "Vienna",
     "ThreeLettersCode": "AUT",
     "TwoLettersCode": "AT",
     "Demonym": "Austrian",
     "Latitude": 47.3333320617676,
-    "LocalName": "\u00D6sterreich",
+    "LocalName": "Österreich",
     "Longitude": 13.3333330154419,
     "Name": "Austria",
     "ShortName": "Austria",
@@ -451,14 +466,15 @@
     ]
   },
   {
-    "Area": 86600,
+    "Code": "AZ",
+    "Area": 86600.0,
     "CallingCode": 994,
     "Capital": "Baku",
     "ThreeLettersCode": "AZE",
     "TwoLettersCode": "AZ",
     "Demonym": "Azerbaijani",
     "Latitude": 40.5,
-    "LocalName": "Az\u0259rbaycan",
+    "LocalName": "Azərbaycan",
     "Longitude": 47.5,
     "Name": "Azerbaijan",
     "ShortName": "Azerbaijan",
@@ -476,7 +492,8 @@
     ]
   },
   {
-    "Area": 13943,
+    "Code": "BS",
+    "Area": 13943.0,
     "CallingCode": 1242,
     "Capital": "Nassau",
     "ThreeLettersCode": "BHS",
@@ -484,7 +501,7 @@
     "Demonym": "Bahamian",
     "Latitude": 24.25,
     "LocalName": "Bahamas",
-    "Longitude": -76,
+    "Longitude": -76.0,
     "Name": "Bahamas",
     "ShortName": "Bahamas",
     "Languages": [
@@ -501,14 +518,15 @@
     ]
   },
   {
+    "Code": "BH",
     "Area": 765.3,
     "CallingCode": 973,
     "Capital": "Manama",
     "ThreeLettersCode": "BHR",
     "TwoLettersCode": "BH",
     "Demonym": "Bahraini",
-    "Latitude": 26,
-    "LocalName": "\u200F\u0627\u0644\u0628\u062D\u0631\u064A\u0646",
+    "Latitude": 26.0,
+    "LocalName": "‏البحرين",
     "Longitude": 50.5499992370605,
     "Name": "Bahrain",
     "ShortName": "Bahrain",
@@ -530,15 +548,16 @@
     ]
   },
   {
-    "Area": 147570,
+    "Code": "BD",
+    "Area": 147570.0,
     "CallingCode": 880,
     "Capital": "Dhaka",
     "ThreeLettersCode": "BGD",
     "TwoLettersCode": "BD",
     "Demonym": "Bangladeshi",
-    "Latitude": 24,
-    "LocalName": "\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6",
-    "Longitude": 90,
+    "Latitude": 24.0,
+    "LocalName": "বাংলাদেশ",
+    "Longitude": 90.0,
     "Name": "Bangladesh",
     "ShortName": "Bangladesh",
     "Languages": [
@@ -559,7 +578,8 @@
     ]
   },
   {
-    "Area": 439,
+    "Code": "BB",
+    "Area": 439.0,
     "CallingCode": 1246,
     "Capital": "Bridgetown",
     "ThreeLettersCode": "BRB",
@@ -584,15 +604,16 @@
     ]
   },
   {
-    "Area": 207595,
+    "Code": "BY",
+    "Area": 207595.0,
     "CallingCode": 375,
     "Capital": "Minsk",
     "ThreeLettersCode": "BLR",
     "TwoLettersCode": "BY",
     "Demonym": "Belarusian",
-    "Latitude": 53,
-    "LocalName": "\u0411\u0435\u043B\u0430\u0440\u0443\u0301\u0441\u044C",
-    "Longitude": 28,
+    "Latitude": 53.0,
+    "LocalName": "Белару́сь",
+    "Longitude": 28.0,
     "Name": "Belarus",
     "ShortName": "Belarus",
     "Languages": [
@@ -609,15 +630,16 @@
     ]
   },
   {
-    "Area": 30528,
+    "Code": "BE",
+    "Area": 30528.0,
     "CallingCode": 32,
     "Capital": "Brussels",
     "ThreeLettersCode": "BEL",
     "TwoLettersCode": "BE",
     "Demonym": "Belgian",
     "Latitude": 50.8333320617676,
-    "LocalName": "Belgi\u00EB",
-    "Longitude": 4,
+    "LocalName": "België",
+    "Longitude": 4.0,
     "Name": "Belgium",
     "ShortName": "Belgium",
     "Languages": [
@@ -642,7 +664,8 @@
     ]
   },
   {
-    "Area": 22966,
+    "Code": "BZ",
+    "Area": 22966.0,
     "CallingCode": 501,
     "Capital": "Belmopan",
     "ThreeLettersCode": "BLZ",
@@ -671,14 +694,15 @@
     ]
   },
   {
-    "Area": 114763,
+    "Code": "BJ",
+    "Area": 114763.0,
     "CallingCode": 229,
     "Capital": "Porto-Novo",
     "ThreeLettersCode": "BEN",
     "TwoLettersCode": "BJ",
     "Demonym": "Beninese",
     "Latitude": 9.5,
-    "LocalName": "B\u00E9nin",
+    "LocalName": "Bénin",
     "Longitude": 2.25,
     "Name": "Benin",
     "ShortName": "Benin",
@@ -696,6 +720,7 @@
     ]
   },
   {
+    "Code": "BM",
     "Area": 53.2,
     "CallingCode": 1441,
     "Capital": "Hamilton",
@@ -721,14 +746,15 @@
     ]
   },
   {
-    "Area": 38394,
+    "Code": "BT",
+    "Area": 38394.0,
     "CallingCode": 975,
     "Capital": "Thimphu",
     "ThreeLettersCode": "BTN",
     "TwoLettersCode": "BT",
     "Demonym": "Bhutanese",
     "Latitude": 27.5,
-    "LocalName": "\u0F60\u0F56\u0FB2\u0F74\u0F42\u0F0B\u0F61\u0F74\u0F63\u0F0B",
+    "LocalName": "འབྲུག་ཡུལ་",
     "Longitude": 90.5,
     "Name": "Bhutan",
     "ShortName": "Bhutan",
@@ -754,15 +780,16 @@
     ]
   },
   {
-    "Area": 1098581,
+    "Code": "BO",
+    "Area": 1098581.0,
     "CallingCode": 591,
     "Capital": "Sucre",
     "ThreeLettersCode": "BOL",
     "TwoLettersCode": "BO",
     "Demonym": "Bolivian",
-    "Latitude": -17,
+    "Latitude": -17.0,
     "LocalName": "Bolivia",
-    "Longitude": -65,
+    "Longitude": -65.0,
     "Name": "Bolivia",
     "ShortName": "Bolivia",
     "Languages": [
@@ -779,7 +806,8 @@
     ]
   },
   {
-    "Area": 294,
+    "Code": "BQ",
+    "Area": 294.0,
     "CallingCode": 5997,
     "Capital": "Kralendijk",
     "ThreeLettersCode": "BES",
@@ -816,15 +844,16 @@
     ]
   },
   {
-    "Area": 51129,
+    "Code": "BA",
+    "Area": 51129.0,
     "CallingCode": 387,
     "Capital": "Sarajevo",
     "ThreeLettersCode": "BIH",
     "TwoLettersCode": "BA",
     "Demonym": "Bosnian, Herzegovinian",
-    "Latitude": 44,
+    "Latitude": 44.0,
     "LocalName": "Bosna i Hercegovina",
-    "Longitude": 18,
+    "Longitude": 18.0,
     "Name": "Bosnia and Herzegovina",
     "ShortName": "Bosnia and Herzegovina",
     "Languages": [
@@ -849,15 +878,16 @@
     ]
   },
   {
-    "Area": 581730,
+    "Code": "BW",
+    "Area": 581730.0,
     "CallingCode": 267,
     "Capital": "Gaborone",
     "ThreeLettersCode": "BWA",
     "TwoLettersCode": "BW",
     "Demonym": "Motswana",
-    "Latitude": -22,
+    "Latitude": -22.0,
     "LocalName": "Botswana",
-    "Longitude": 24,
+    "Longitude": 24.0,
     "Name": "Botswana",
     "ShortName": "Botswana",
     "Languages": [
@@ -878,15 +908,16 @@
     ]
   },
   {
-    "Area": 8515767,
+    "Code": "BR",
+    "Area": 8515767.0,
     "CallingCode": 55,
-    "Capital": "Bras\u00EDlia",
+    "Capital": "Brasília",
     "ThreeLettersCode": "BRA",
     "TwoLettersCode": "BR",
     "Demonym": "Brazilian",
-    "Latitude": -10,
+    "Latitude": -10.0,
     "LocalName": "Brasil",
-    "Longitude": -55,
+    "Longitude": -55.0,
     "Name": "Brazil",
     "ShortName": "Brazil",
     "Languages": [
@@ -903,13 +934,14 @@
     ]
   },
   {
-    "Area": 60,
+    "Code": "IO",
+    "Area": 60.0,
     "CallingCode": 246,
     "Capital": "Camp Justice",
     "ThreeLettersCode": "IOT",
     "TwoLettersCode": "IO",
     "Demonym": "Indian",
-    "Latitude": -6,
+    "Latitude": -6.0,
     "LocalName": "British Indian Ocean Territory",
     "Longitude": 71.5,
     "Name": "British Indian Ocean Territory",
@@ -932,7 +964,8 @@
     ]
   },
   {
-    "Area": 153,
+    "Code": "VG",
+    "Area": 153.0,
     "CallingCode": 1284,
     "Capital": "Road Town",
     "ThreeLettersCode": "VGB",
@@ -957,7 +990,8 @@
     ]
   },
   {
-    "Area": 5765,
+    "Code": "BN",
+    "Area": 5765.0,
     "CallingCode": 673,
     "Capital": "Bandar Seri Begawan",
     "ThreeLettersCode": "BRN",
@@ -994,15 +1028,16 @@
     ]
   },
   {
+    "Code": "BG",
     "Area": 110993.6,
     "CallingCode": 359,
     "Capital": "Sofia",
     "ThreeLettersCode": "BGR",
     "TwoLettersCode": "BG",
     "Demonym": "Bulgarian",
-    "Latitude": 43,
-    "LocalName": "\u0411\u044A\u043B\u0433\u0430\u0440\u0438\u044F",
-    "Longitude": 25,
+    "Latitude": 43.0,
+    "LocalName": "България",
+    "Longitude": 25.0,
     "Name": "Bulgaria",
     "ShortName": "Bulgaria",
     "Languages": [
@@ -1019,15 +1054,16 @@
     ]
   },
   {
-    "Area": 274200,
+    "Code": "BF",
+    "Area": 274200.0,
     "CallingCode": 226,
     "Capital": "Ouagadougou",
     "ThreeLettersCode": "BFA",
     "TwoLettersCode": "BF",
     "Demonym": "Burkinabe",
-    "Latitude": 13,
+    "Latitude": 13.0,
     "LocalName": "Burkina Faso",
-    "Longitude": -2,
+    "Longitude": -2.0,
     "Name": "Burkina Faso",
     "ShortName": "Burkina Faso",
     "Languages": [
@@ -1048,7 +1084,8 @@
     ]
   },
   {
-    "Area": 27834,
+    "Code": "BI",
+    "Area": 27834.0,
     "CallingCode": 257,
     "Capital": "Bujumbura",
     "ThreeLettersCode": "BDI",
@@ -1056,7 +1093,7 @@
     "Demonym": "Burundian",
     "Latitude": -3.5,
     "LocalName": "Burundi",
-    "Longitude": 30,
+    "Longitude": 30.0,
     "Name": "Burundi",
     "ShortName": "Burundi",
     "Languages": [
@@ -1081,15 +1118,16 @@
     ]
   },
   {
-    "Area": 4033,
+    "Code": "CV",
+    "Area": 4033.0,
     "CallingCode": 238,
     "Capital": "Praia",
     "ThreeLettersCode": "CPV",
     "TwoLettersCode": "CV",
     "Demonym": "Cape Verdian",
-    "Latitude": 16,
+    "Latitude": 16.0,
     "LocalName": "Cabo Verde",
-    "Longitude": -24,
+    "Longitude": -24.0,
     "Name": "Cabo Verde",
     "ShortName": "Cabo Verde",
     "Languages": [
@@ -1110,15 +1148,16 @@
     ]
   },
   {
-    "Area": 181035,
+    "Code": "KH",
+    "Area": 181035.0,
     "CallingCode": 855,
     "Capital": "Phnom Penh",
     "ThreeLettersCode": "KHM",
     "TwoLettersCode": "KH",
     "Demonym": "Cambodian",
-    "Latitude": 13,
-    "LocalName": "\u1780\u1798\u17D2\u1796\u17BB\u1787\u17B6",
-    "Longitude": 105,
+    "Latitude": 13.0,
+    "LocalName": "កម្ពុជា",
+    "Longitude": 105.0,
     "Name": "Cambodia",
     "ShortName": "Cambodia",
     "Languages": [
@@ -1147,15 +1186,16 @@
     ]
   },
   {
-    "Area": 475442,
+    "Code": "CM",
+    "Area": 475442.0,
     "CallingCode": 237,
-    "Capital": "Yaound\u00E9",
+    "Capital": "Yaoundé",
     "ThreeLettersCode": "CMR",
     "TwoLettersCode": "CM",
     "Demonym": "Cameroonian",
-    "Latitude": 6,
+    "Latitude": 6.0,
     "LocalName": "Cameroon",
-    "Longitude": 12,
+    "Longitude": 12.0,
     "Name": "Cameroon",
     "ShortName": "Cameroon",
     "Languages": [
@@ -1180,15 +1220,16 @@
     ]
   },
   {
-    "Area": 9984670,
+    "Code": "CA",
+    "Area": 9984670.0,
     "CallingCode": 1,
     "Capital": "Ottawa",
     "ThreeLettersCode": "CAN",
     "TwoLettersCode": "CA",
     "Demonym": "Canadian",
-    "Latitude": 60,
+    "Latitude": 60.0,
     "LocalName": "Canada",
-    "Longitude": -95,
+    "Longitude": -95.0,
     "Name": "Canada",
     "ShortName": "Canada",
     "Languages": [
@@ -1209,7 +1250,8 @@
     ]
   },
   {
-    "Area": 264,
+    "Code": "KY",
+    "Area": 264.0,
     "CallingCode": 1345,
     "Capital": "George Town",
     "ThreeLettersCode": "CYM",
@@ -1234,15 +1276,16 @@
     ]
   },
   {
-    "Area": 622984,
+    "Code": "CF",
+    "Area": 622984.0,
     "CallingCode": 236,
     "Capital": "Bangui",
     "ThreeLettersCode": "CAF",
     "TwoLettersCode": "CF",
     "Demonym": "Central African",
-    "Latitude": 7,
-    "LocalName": "K\u00F6d\u00F6r\u00F6s\u00EAse t\u00EE B\u00EAafr\u00EEka",
-    "Longitude": 21,
+    "Latitude": 7.0,
+    "LocalName": "Ködörösêse tî Bêafrîka",
+    "Longitude": 21.0,
     "Name": "Central African Republic",
     "ShortName": "Central African Republic",
     "Languages": [
@@ -1263,15 +1306,16 @@
     ]
   },
   {
-    "Area": 1284000,
+    "Code": "TD",
+    "Area": 1284000.0,
     "CallingCode": 235,
-    "Capital": "N\u0027Djamena",
+    "Capital": "N'Djamena",
     "ThreeLettersCode": "TCD",
     "TwoLettersCode": "TD",
     "Demonym": "Chadian",
-    "Latitude": 15,
-    "LocalName": "\u062A\u0634\u0627\u062F\u200E",
-    "Longitude": 19,
+    "Latitude": 15.0,
+    "LocalName": "تشاد‎",
+    "Longitude": 19.0,
     "Name": "Chad",
     "ShortName": "Chad",
     "Languages": [
@@ -1292,15 +1336,16 @@
     ]
   },
   {
-    "Area": 756102,
+    "Code": "CL",
+    "Area": 756102.0,
     "CallingCode": 56,
     "Capital": "Santiago",
     "ThreeLettersCode": "CHL",
     "TwoLettersCode": "CL",
     "Demonym": "Chilean",
-    "Latitude": -30,
+    "Latitude": -30.0,
     "LocalName": "Chile",
-    "Longitude": -71,
+    "Longitude": -71.0,
     "Name": "Chile",
     "ShortName": "Chile",
     "Languages": [
@@ -1317,15 +1362,16 @@
     ]
   },
   {
-    "Area": 9640011,
+    "Code": "CN",
+    "Area": 9640011.0,
     "CallingCode": 86,
     "Capital": "Beijing",
     "ThreeLettersCode": "CHN",
     "TwoLettersCode": "CN",
     "Demonym": "Chinese",
-    "Latitude": 35,
-    "LocalName": "\u4E2D\u56FD",
-    "Longitude": 105,
+    "Latitude": 35.0,
+    "LocalName": "中国",
+    "Longitude": 105.0,
     "Name": "China",
     "ShortName": "China",
     "Languages": [
@@ -1342,7 +1388,8 @@
     ]
   },
   {
-    "Area": 135,
+    "Code": "CX",
+    "Area": 135.0,
     "CallingCode": 61,
     "Capital": "Flying Fish Cove",
     "ThreeLettersCode": "CXR",
@@ -1367,7 +1414,8 @@
     ]
   },
   {
-    "Area": 14,
+    "Code": "CC",
+    "Area": 14.0,
     "CallingCode": 61,
     "Capital": "West Island",
     "ThreeLettersCode": "CCK",
@@ -1392,15 +1440,16 @@
     ]
   },
   {
-    "Area": 1141748,
+    "Code": "CO",
+    "Area": 1141748.0,
     "CallingCode": 57,
-    "Capital": "Bogot\u00E1",
+    "Capital": "Bogotá",
     "ThreeLettersCode": "COL",
     "TwoLettersCode": "CO",
     "Demonym": "Colombian",
-    "Latitude": 4,
+    "Latitude": 4.0,
     "LocalName": "Colombia",
-    "Longitude": -72,
+    "Longitude": -72.0,
     "Name": "Colombia",
     "ShortName": "Colombia",
     "Languages": [
@@ -1417,14 +1466,15 @@
     ]
   },
   {
-    "Area": 1862,
+    "Code": "KM",
+    "Area": 1862.0,
     "CallingCode": 269,
     "Capital": "Moroni",
     "ThreeLettersCode": "COM",
     "TwoLettersCode": "KM",
     "Demonym": "Comoran",
     "Latitude": -12.1666669845581,
-    "LocalName": "\u062C\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+    "LocalName": "جزر القمر",
     "Longitude": 44.25,
     "Name": "Comoros",
     "ShortName": "Comoros",
@@ -1446,15 +1496,16 @@
     ]
   },
   {
-    "Area": 342000,
+    "Code": "CG",
+    "Area": 342000.0,
     "CallingCode": 242,
     "Capital": "Brazzaville",
     "ThreeLettersCode": "COG",
     "TwoLettersCode": "CG",
     "Demonym": "Congolese",
-    "Latitude": -1,
-    "LocalName": "R\u00E9publique du Congo",
-    "Longitude": 15,
+    "Latitude": -1.0,
+    "LocalName": "République du Congo",
+    "Longitude": 15.0,
     "Name": "Congo",
     "ShortName": "Congo",
     "Languages": [
@@ -1475,15 +1526,16 @@
     ]
   },
   {
-    "Area": 235409,
+    "Code": "CD",
+    "Area": 235409.0,
     "CallingCode": 243,
     "Capital": "Kinshasa",
     "ThreeLettersCode": "COD",
     "TwoLettersCode": "CD",
     "Demonym": "Congolese",
-    "Latitude": 0,
+    "Latitude": 0.0,
     "LocalName": "Congo (DRC)",
-    "Longitude": 25,
+    "Longitude": 25.0,
     "Name": "Congo (DRC)",
     "ShortName": "Congo (DRC)",
     "Languages": [
@@ -1512,7 +1564,8 @@
     ]
   },
   {
-    "Area": 236,
+    "Code": "CK",
+    "Area": 236.0,
     "CallingCode": 682,
     "Capital": "Avarua",
     "ThreeLettersCode": "COK",
@@ -1541,15 +1594,16 @@
     ]
   },
   {
-    "Area": 51100,
+    "Code": "CR",
+    "Area": 51100.0,
     "CallingCode": 506,
-    "Capital": "San Jos\u00E9",
+    "Capital": "San José",
     "ThreeLettersCode": "CRI",
     "TwoLettersCode": "CR",
     "Demonym": "Costa Rican",
-    "Latitude": 10,
+    "Latitude": 10.0,
     "LocalName": "Costa Rica",
-    "Longitude": -84,
+    "Longitude": -84.0,
     "Name": "Costa Rica",
     "ShortName": "Costa Rica",
     "Languages": [
@@ -1566,17 +1620,18 @@
     ]
   },
   {
-    "Area": 322463,
+    "Code": "CI",
+    "Area": 322463.0,
     "CallingCode": 225,
     "Capital": "Yamoussoukro",
     "ThreeLettersCode": "CIV",
     "TwoLettersCode": "CI",
     "Demonym": "Ivorian",
-    "Latitude": 8,
-    "LocalName": "C\u00F4te d\u0027Ivoire",
-    "Longitude": -5,
-    "Name": "C\u00F4te d\u0027Ivoire",
-    "ShortName": "C\u00F4te d\u0027Ivoire",
+    "Latitude": 8.0,
+    "LocalName": "Côte d'Ivoire",
+    "Longitude": -5.0,
+    "Name": "Côte d'Ivoire",
+    "ShortName": "Côte d'Ivoire",
     "Languages": [
       {
         "Code": "FR",
@@ -1591,7 +1646,8 @@
     ]
   },
   {
-    "Area": 56594,
+    "Code": "HR",
+    "Area": 56594.0,
     "CallingCode": 385,
     "Capital": "Zagreb",
     "ThreeLettersCode": "HRV",
@@ -1616,7 +1672,8 @@
     ]
   },
   {
-    "Area": 109884,
+    "Code": "CU",
+    "Area": 109884.0,
     "CallingCode": 53,
     "Capital": "Havana",
     "ThreeLettersCode": "CUB",
@@ -1624,7 +1681,7 @@
     "Demonym": "Cuban",
     "Latitude": 21.5,
     "LocalName": "Cuba",
-    "Longitude": -80,
+    "Longitude": -80.0,
     "Name": "Cuba",
     "ShortName": "Cuba",
     "Languages": [
@@ -1645,17 +1702,18 @@
     ]
   },
   {
-    "Area": 444,
+    "Code": "CW",
+    "Area": 444.0,
     "CallingCode": 599,
     "Capital": "Willemstad",
     "ThreeLettersCode": "CUW",
     "TwoLettersCode": "CW",
     "Demonym": "Dutch",
     "Latitude": 12.116666793823242,
-    "LocalName": "Cura\u00E7ao",
+    "LocalName": "Curaçao",
     "Longitude": -68.93333435058594,
-    "Name": "Cura\u00E7ao",
-    "ShortName": "Cura\u00E7ao",
+    "Name": "Curaçao",
+    "ShortName": "Curaçao",
     "Languages": [
       {
         "Code": "NL",
@@ -1678,15 +1736,16 @@
     ]
   },
   {
-    "Area": 9251,
+    "Code": "CY",
+    "Area": 9251.0,
     "CallingCode": 357,
     "Capital": "Nicosia",
     "ThreeLettersCode": "CYP",
     "TwoLettersCode": "CY",
     "Demonym": "Cypriot",
-    "Latitude": 35,
-    "LocalName": "\u039A\u03CD\u03C0\u03C1\u03BF\u03C2",
-    "Longitude": 33,
+    "Latitude": 35.0,
+    "LocalName": "Κύπρος",
+    "Longitude": 33.0,
     "Name": "Cyprus",
     "ShortName": "Cyprus",
     "Languages": [
@@ -1711,14 +1770,15 @@
     ]
   },
   {
-    "Area": 78865,
+    "Code": "CZ",
+    "Area": 78865.0,
     "CallingCode": 420,
     "Capital": "Prague",
     "ThreeLettersCode": "CZE",
     "TwoLettersCode": "CZ",
     "Demonym": "Czech",
     "Latitude": 49.75,
-    "LocalName": "\u010Cesk\u00E1 republika",
+    "LocalName": "Česká republika",
     "Longitude": 15.5,
     "Name": "Czech Republic",
     "ShortName": "Czech Republic",
@@ -1740,15 +1800,16 @@
     ]
   },
   {
-    "Area": 43094,
+    "Code": "DK",
+    "Area": 43094.0,
     "CallingCode": 45,
     "Capital": "Copenhagen",
     "ThreeLettersCode": "DNK",
     "TwoLettersCode": "DK",
     "Demonym": "Danish",
-    "Latitude": 56,
+    "Latitude": 56.0,
     "LocalName": "Danmark",
-    "Longitude": 10,
+    "Longitude": 10.0,
     "Name": "Denmark",
     "ShortName": "Denmark",
     "Languages": [
@@ -1765,7 +1826,8 @@
     ]
   },
   {
-    "Area": 23200,
+    "Code": "DJ",
+    "Area": 23200.0,
     "CallingCode": 253,
     "Capital": "Djibouti",
     "ThreeLettersCode": "DJI",
@@ -1773,7 +1835,7 @@
     "Demonym": "Djibouti",
     "Latitude": 11.5,
     "LocalName": "Djibouti",
-    "Longitude": 43,
+    "Longitude": 43.0,
     "Name": "Djibouti",
     "ShortName": "Djibouti",
     "Languages": [
@@ -1794,7 +1856,8 @@
     ]
   },
   {
-    "Area": 751,
+    "Code": "DM",
+    "Area": 751.0,
     "CallingCode": 1767,
     "Capital": "Roseau",
     "ThreeLettersCode": "DMA",
@@ -1819,14 +1882,15 @@
     ]
   },
   {
-    "Area": 48671,
+    "Code": "DO",
+    "Area": 48671.0,
     "CallingCode": 1809,
     "Capital": "Santo Domingo",
     "ThreeLettersCode": "DOM",
     "TwoLettersCode": "DO",
     "Demonym": "Dominican",
-    "Latitude": 19,
-    "LocalName": "Rep\u00FAblica Dominicana",
+    "Latitude": 19.0,
+    "LocalName": "República Dominicana",
     "Longitude": -70.66666412353516,
     "Name": "Dominican Republic",
     "ShortName": "Dominican Republic",
@@ -1844,13 +1908,14 @@
     ]
   },
   {
-    "Area": 276841,
+    "Code": "EC",
+    "Area": 276841.0,
     "CallingCode": 593,
     "Capital": "Quito",
     "ThreeLettersCode": "ECU",
     "TwoLettersCode": "EC",
     "Demonym": "Ecuadorean",
-    "Latitude": -2,
+    "Latitude": -2.0,
     "LocalName": "Ecuador",
     "Longitude": -77.5,
     "Name": "Ecuador",
@@ -1869,15 +1934,16 @@
     ]
   },
   {
-    "Area": 1002450,
+    "Code": "EG",
+    "Area": 1002450.0,
     "CallingCode": 20,
     "Capital": "Cairo",
     "ThreeLettersCode": "EGY",
     "TwoLettersCode": "EG",
     "Demonym": "Egyptian",
-    "Latitude": 27,
-    "LocalName": "\u0645\u0635\u0631\u200E",
-    "Longitude": 30,
+    "Latitude": 27.0,
+    "LocalName": "مصر‎",
+    "Longitude": 30.0,
     "Name": "Egypt",
     "ShortName": "Egypt",
     "Languages": [
@@ -1894,7 +1960,8 @@
     ]
   },
   {
-    "Area": 21041,
+    "Code": "SV",
+    "Area": 21041.0,
     "CallingCode": 503,
     "Capital": "San Salvador",
     "ThreeLettersCode": "SLV",
@@ -1919,15 +1986,16 @@
     ]
   },
   {
-    "Area": 28051,
+    "Code": "GQ",
+    "Area": 28051.0,
     "CallingCode": 240,
     "Capital": "Malabo",
     "ThreeLettersCode": "GNQ",
     "TwoLettersCode": "GQ",
     "Demonym": "Equatorial Guinean",
-    "Latitude": 2,
+    "Latitude": 2.0,
     "LocalName": "Guinea Ecuatorial",
-    "Longitude": 10,
+    "Longitude": 10.0,
     "Name": "Equatorial Guinea",
     "ShortName": "Equatorial Guinea",
     "Languages": [
@@ -1948,15 +2016,16 @@
     ]
   },
   {
-    "Area": 117600,
+    "Code": "ER",
+    "Area": 117600.0,
     "CallingCode": 291,
     "Capital": "Asmara",
     "ThreeLettersCode": "ERI",
     "TwoLettersCode": "ER",
     "Demonym": "Eritrean",
-    "Latitude": 15,
-    "LocalName": "\u12A4\u122D\u1275\u122B",
-    "Longitude": 39,
+    "Latitude": 15.0,
+    "LocalName": "ኤርትራ",
+    "Longitude": 39.0,
     "Name": "Eritrea",
     "ShortName": "Eritrea",
     "Languages": [
@@ -1981,15 +2050,16 @@
     ]
   },
   {
-    "Area": 45227,
+    "Code": "EE",
+    "Area": 45227.0,
     "CallingCode": 372,
     "Capital": "Tallinn",
     "ThreeLettersCode": "EST",
     "TwoLettersCode": "EE",
     "Demonym": "Estonian",
-    "Latitude": 59,
+    "Latitude": 59.0,
     "LocalName": "Eesti",
-    "Longitude": 26,
+    "Longitude": 26.0,
     "Name": "Estonia",
     "ShortName": "Estonia",
     "Languages": [
@@ -2006,15 +2076,16 @@
     ]
   },
   {
-    "Area": 1104300,
+    "Code": "ET",
+    "Area": 1104300.0,
     "CallingCode": 251,
     "Capital": "Addis Ababa",
     "ThreeLettersCode": "ETH",
     "TwoLettersCode": "ET",
     "Demonym": "Ethiopian",
-    "Latitude": 8,
-    "LocalName": "\u12A2\u1275\u12EE\u1335\u12EB",
-    "Longitude": 38,
+    "Latitude": 8.0,
+    "LocalName": "ኢትዮጵያ",
+    "Longitude": 38.0,
     "Name": "Ethiopia",
     "ShortName": "Ethiopia",
     "Languages": [
@@ -2031,7 +2102,8 @@
     ]
   },
   {
-    "Area": 12200,
+    "Code": "FK",
+    "Area": 12200.0,
     "CallingCode": 500,
     "Capital": "Stanley",
     "ThreeLettersCode": "FLK",
@@ -2039,7 +2111,7 @@
     "Demonym": "Falkland Islander",
     "Latitude": -51.75,
     "LocalName": "Falkland Islands",
-    "Longitude": -59,
+    "Longitude": -59.0,
     "Name": "Falkland Islands",
     "ShortName": "Falkland Islands",
     "Languages": [
@@ -2056,15 +2128,16 @@
     ]
   },
   {
-    "Area": 1393,
+    "Code": "FO",
+    "Area": 1393.0,
     "CallingCode": 298,
-    "Capital": "T\u00F3rshavn",
+    "Capital": "Tórshavn",
     "ThreeLettersCode": "FRO",
     "TwoLettersCode": "FO",
     "Demonym": "Faroese",
-    "Latitude": 62,
-    "LocalName": "F\u00F8royar",
-    "Longitude": -7,
+    "Latitude": 62.0,
+    "LocalName": "Føroyar",
+    "Longitude": -7.0,
     "Name": "Faroe Islands",
     "ShortName": "Faroe Islands",
     "Languages": [
@@ -2085,15 +2158,16 @@
     ]
   },
   {
-    "Area": 18272,
+    "Code": "FJ",
+    "Area": 18272.0,
     "CallingCode": 679,
     "Capital": "Suva",
     "ThreeLettersCode": "FJI",
     "TwoLettersCode": "FJ",
     "Demonym": "Fijian",
-    "Latitude": -18,
+    "Latitude": -18.0,
     "LocalName": "Fiji",
-    "Longitude": 175,
+    "Longitude": 175.0,
     "Name": "Fiji",
     "ShortName": "Fiji",
     "Languages": [
@@ -2118,15 +2192,16 @@
     ]
   },
   {
-    "Area": 338424,
+    "Code": "FI",
+    "Area": 338424.0,
     "CallingCode": 358,
     "Capital": "Helsinki",
     "ThreeLettersCode": "FIN",
     "TwoLettersCode": "FI",
     "Demonym": "Finnish",
-    "Latitude": 64,
+    "Latitude": 64.0,
     "LocalName": "Suomi",
-    "Longitude": 26,
+    "Longitude": 26.0,
     "Name": "Finland",
     "ShortName": "Finland",
     "Languages": [
@@ -2147,15 +2222,16 @@
     ]
   },
   {
-    "Area": 640679,
+    "Code": "FR",
+    "Area": 640679.0,
     "CallingCode": 33,
     "Capital": "Paris",
     "ThreeLettersCode": "FRA",
     "TwoLettersCode": "FR",
     "Demonym": "French",
-    "Latitude": 46,
+    "Latitude": 46.0,
     "LocalName": "France",
-    "Longitude": 2,
+    "Longitude": 2.0,
     "Name": "France",
     "ShortName": "France",
     "Languages": [
@@ -2172,15 +2248,16 @@
     ]
   },
   {
+    "Code": "GF",
     "Area": null,
     "CallingCode": 594,
     "Capital": "Cayenne",
     "ThreeLettersCode": "GUF",
     "TwoLettersCode": "GF",
     "Demonym": "",
-    "Latitude": 4,
-    "LocalName": "Guyane fran\u00E7aise",
-    "Longitude": -53,
+    "Latitude": 4.0,
+    "LocalName": "Guyane française",
+    "Longitude": -53.0,
     "Name": "French Guiana",
     "ShortName": "French Guiana",
     "Languages": [
@@ -2197,15 +2274,16 @@
     ]
   },
   {
-    "Area": 4167,
+    "Code": "PF",
+    "Area": 4167.0,
     "CallingCode": 689,
-    "Capital": "Papeet\u0113",
+    "Capital": "Papeetē",
     "ThreeLettersCode": "PYF",
     "TwoLettersCode": "PF",
     "Demonym": "French Polynesian",
-    "Latitude": -15,
-    "LocalName": "Polyn\u00E9sie fran\u00E7aise",
-    "Longitude": -140,
+    "Latitude": -15.0,
+    "LocalName": "Polynésie française",
+    "Longitude": -140.0,
     "Name": "French Polynesia",
     "ShortName": "French Polynesia",
     "Languages": [
@@ -2222,13 +2300,14 @@
     ]
   },
   {
-    "Area": 267668,
+    "Code": "GA",
+    "Area": 267668.0,
     "CallingCode": 241,
     "Capital": "Libreville",
     "ThreeLettersCode": "GAB",
     "TwoLettersCode": "GA",
     "Demonym": "Gabonese",
-    "Latitude": -1,
+    "Latitude": -1.0,
     "LocalName": "Gabon",
     "Longitude": 11.75,
     "Name": "Gabon",
@@ -2247,7 +2326,8 @@
     ]
   },
   {
-    "Area": 11295,
+    "Code": "GM",
+    "Area": 11295.0,
     "CallingCode": 220,
     "Capital": "Banjul",
     "ThreeLettersCode": "GMB",
@@ -2272,14 +2352,15 @@
     ]
   },
   {
-    "Area": 69700,
+    "Code": "GE",
+    "Area": 69700.0,
     "CallingCode": 995,
     "Capital": "Tbilisi",
     "ThreeLettersCode": "GEO",
     "TwoLettersCode": "GE",
     "Demonym": "Georgian",
-    "Latitude": 42,
-    "LocalName": "\u10E1\u10D0\u10E5\u10D0\u10E0\u10D7\u10D5\u10D4\u10DA\u10DD",
+    "Latitude": 42.0,
+    "LocalName": "საქართველო",
     "Longitude": 43.5,
     "Name": "Georgia",
     "ShortName": "Georgia",
@@ -2297,15 +2378,16 @@
     ]
   },
   {
-    "Area": 357168,
+    "Code": "DE",
+    "Area": 357168.0,
     "CallingCode": 49,
     "Capital": "Berlin",
     "ThreeLettersCode": "DEU",
     "TwoLettersCode": "DE",
     "Demonym": "German",
-    "Latitude": 51,
+    "Latitude": 51.0,
     "LocalName": "Deutschland",
-    "Longitude": 9,
+    "Longitude": 9.0,
     "Name": "Germany",
     "ShortName": "Germany",
     "Languages": [
@@ -2322,15 +2404,16 @@
     ]
   },
   {
-    "Area": 238533,
+    "Code": "GH",
+    "Area": 238533.0,
     "CallingCode": 233,
     "Capital": "Accra",
     "ThreeLettersCode": "GHA",
     "TwoLettersCode": "GH",
     "Demonym": "Ghanaian",
-    "Latitude": 8,
+    "Latitude": 8.0,
     "LocalName": "Ghana",
-    "Longitude": -2,
+    "Longitude": -2.0,
     "Name": "Ghana",
     "ShortName": "Ghana",
     "Languages": [
@@ -2347,7 +2430,8 @@
     ]
   },
   {
-    "Area": 6,
+    "Code": "GI",
+    "Area": 6.0,
     "CallingCode": 350,
     "Capital": "Gibraltar",
     "ThreeLettersCode": "GIB",
@@ -2372,15 +2456,16 @@
     ]
   },
   {
-    "Area": 131990,
+    "Code": "GR",
+    "Area": 131990.0,
     "CallingCode": 30,
     "Capital": "Athens",
     "ThreeLettersCode": "GRC",
     "TwoLettersCode": "GR",
     "Demonym": "Greek",
-    "Latitude": 39,
-    "LocalName": "\u0395\u03BB\u03BB\u03AC\u03B4\u03B1",
-    "Longitude": 22,
+    "Latitude": 39.0,
+    "LocalName": "Ελλάδα",
+    "Longitude": 22.0,
     "Name": "Greece",
     "ShortName": "Greece",
     "Languages": [
@@ -2397,15 +2482,16 @@
     ]
   },
   {
-    "Area": 2166086,
+    "Code": "GL",
+    "Area": 2166086.0,
     "CallingCode": 299,
     "Capital": "Nuuk",
     "ThreeLettersCode": "GRL",
     "TwoLettersCode": "GL",
     "Demonym": "Greenlandic",
-    "Latitude": 72,
+    "Latitude": 72.0,
     "LocalName": "Kalaallit Nunaat",
-    "Longitude": -40,
+    "Longitude": -40.0,
     "Name": "Greenland",
     "ShortName": "Greenland",
     "Languages": [
@@ -2422,9 +2508,10 @@
     ]
   },
   {
-    "Area": 344,
+    "Code": "GD",
+    "Area": 344.0,
     "CallingCode": 1473,
-    "Capital": "St. George\u0027s",
+    "Capital": "St. George's",
     "ThreeLettersCode": "GRD",
     "TwoLettersCode": "GD",
     "Demonym": "Grenadian",
@@ -2447,6 +2534,7 @@
     ]
   },
   {
+    "Code": "GP",
     "Area": null,
     "CallingCode": 590,
     "Capital": "Basse-Terre",
@@ -2472,9 +2560,10 @@
     ]
   },
   {
-    "Area": 549,
+    "Code": "GU",
+    "Area": 549.0,
     "CallingCode": 1671,
-    "Capital": "Hag\u00E5t\u00F1a",
+    "Capital": "Hagåtña",
     "ThreeLettersCode": "GUM",
     "TwoLettersCode": "GU",
     "Demonym": "Guamanian",
@@ -2501,7 +2590,8 @@
     ]
   },
   {
-    "Area": 108889,
+    "Code": "GT",
+    "Area": 108889.0,
     "CallingCode": 502,
     "Capital": "Guatemala City",
     "ThreeLettersCode": "GTM",
@@ -2526,7 +2616,8 @@
     ]
   },
   {
-    "Area": 78,
+    "Code": "GG",
+    "Area": 78.0,
     "CallingCode": 44,
     "Capital": "St. Peter Port",
     "ThreeLettersCode": "GGY",
@@ -2559,15 +2650,16 @@
     ]
   },
   {
-    "Area": 245857,
+    "Code": "GN",
+    "Area": 245857.0,
     "CallingCode": 224,
     "Capital": "Conakry",
     "ThreeLettersCode": "GIN",
     "TwoLettersCode": "GN",
     "Demonym": "Guinean",
-    "Latitude": 11,
-    "LocalName": "Guin\u00E9e",
-    "Longitude": -10,
+    "Latitude": 11.0,
+    "LocalName": "Guinée",
+    "Longitude": -10.0,
     "Name": "Guinea",
     "ShortName": "Guinea",
     "Languages": [
@@ -2588,15 +2680,16 @@
     ]
   },
   {
-    "Area": 36125,
+    "Code": "GW",
+    "Area": 36125.0,
     "CallingCode": 245,
     "Capital": "Bissau",
     "ThreeLettersCode": "GNB",
     "TwoLettersCode": "GW",
     "Demonym": "Guinea-Bissauan",
-    "Latitude": 12,
-    "LocalName": "Guin\u00E9-Bissau",
-    "Longitude": -15,
+    "Latitude": 12.0,
+    "LocalName": "Guiné-Bissau",
+    "Longitude": -15.0,
     "Name": "Guinea-Bissau",
     "ShortName": "Guinea-Bissau",
     "Languages": [
@@ -2613,15 +2706,16 @@
     ]
   },
   {
-    "Area": 214969,
+    "Code": "GY",
+    "Area": 214969.0,
     "CallingCode": 592,
     "Capital": "Georgetown",
     "ThreeLettersCode": "GUY",
     "TwoLettersCode": "GY",
     "Demonym": "Guyanese",
-    "Latitude": 5,
+    "Latitude": 5.0,
     "LocalName": "Guyana",
-    "Longitude": -59,
+    "Longitude": -59.0,
     "Name": "Guyana",
     "ShortName": "Guyana",
     "Languages": [
@@ -2638,14 +2732,15 @@
     ]
   },
   {
-    "Area": 27750,
+    "Code": "HT",
+    "Area": 27750.0,
     "CallingCode": 509,
     "Capital": "Port-au-Prince",
     "ThreeLettersCode": "HTI",
     "TwoLettersCode": "HT",
     "Demonym": "Haitian",
-    "Latitude": 19,
-    "LocalName": "Ha\u00EFti",
+    "Latitude": 19.0,
+    "LocalName": "Haïti",
     "Longitude": -72.41666412353516,
     "Name": "Haiti",
     "ShortName": "Haiti",
@@ -2663,6 +2758,7 @@
     ]
   },
   {
+    "Code": "VA",
     "Area": 0.4399999976158142,
     "CallingCode": 379,
     "Capital": "Rome",
@@ -2700,13 +2796,14 @@
     ]
   },
   {
-    "Area": 112492,
+    "Code": "HN",
+    "Area": 112492.0,
     "CallingCode": 504,
     "Capital": "Tegucigalpa",
     "ThreeLettersCode": "HND",
     "TwoLettersCode": "HN",
     "Demonym": "Honduran",
-    "Latitude": 15,
+    "Latitude": 15.0,
     "LocalName": "Honduras",
     "Longitude": -86.5,
     "Name": "Honduras",
@@ -2725,14 +2822,15 @@
     ]
   },
   {
-    "Area": 1104,
+    "Code": "HK",
+    "Area": 1104.0,
     "CallingCode": 852,
     "Capital": "City of Victoria",
     "ThreeLettersCode": "HKG",
     "TwoLettersCode": "HK",
     "Demonym": "Chinese",
     "Latitude": 22.25,
-    "LocalName": "\u9999\u6E2F",
+    "LocalName": "香港",
     "Longitude": 114.16666412353516,
     "Name": "Hong Kong",
     "ShortName": "Hong Kong",
@@ -2754,15 +2852,16 @@
     ]
   },
   {
-    "Area": 93028,
+    "Code": "HU",
+    "Area": 93028.0,
     "CallingCode": 36,
     "Capital": "Budapest",
     "ThreeLettersCode": "HUN",
     "TwoLettersCode": "HU",
     "Demonym": "Hungarian",
-    "Latitude": 47,
-    "LocalName": "Magyarorsz\u00E1g",
-    "Longitude": 20,
+    "Latitude": 47.0,
+    "LocalName": "Magyarország",
+    "Longitude": 20.0,
     "Name": "Hungary",
     "ShortName": "Hungary",
     "Languages": [
@@ -2779,15 +2878,16 @@
     ]
   },
   {
-    "Area": 103000,
+    "Code": "IS",
+    "Area": 103000.0,
     "CallingCode": 354,
-    "Capital": "Reykjav\u00EDk",
+    "Capital": "Reykjavík",
     "ThreeLettersCode": "ISL",
     "TwoLettersCode": "IS",
     "Demonym": "Icelander",
-    "Latitude": 65,
-    "LocalName": "\u00CDsland",
-    "Longitude": -18,
+    "Latitude": 65.0,
+    "LocalName": "Ísland",
+    "Longitude": -18.0,
     "Name": "Iceland",
     "ShortName": "Iceland",
     "Languages": [
@@ -2804,15 +2904,16 @@
     ]
   },
   {
-    "Area": 3287590,
+    "Code": "IN",
+    "Area": 3287590.0,
     "CallingCode": 91,
     "Capital": "New Delhi",
     "ThreeLettersCode": "IND",
     "TwoLettersCode": "IN",
     "Demonym": "Indian",
-    "Latitude": 20,
-    "LocalName": "\u092D\u093E\u0930\u0924",
-    "Longitude": 77,
+    "Latitude": 20.0,
+    "LocalName": "भारत",
+    "Longitude": 77.0,
     "Name": "India",
     "ShortName": "India",
     "Languages": [
@@ -2833,15 +2934,16 @@
     ]
   },
   {
-    "Area": 1904569,
+    "Code": "ID",
+    "Area": 1904569.0,
     "CallingCode": 62,
     "Capital": "Jakarta",
     "ThreeLettersCode": "IDN",
     "TwoLettersCode": "ID",
     "Demonym": "Indonesian",
-    "Latitude": -5,
+    "Latitude": -5.0,
     "LocalName": "Indonesia",
-    "Longitude": 120,
+    "Longitude": 120.0,
     "Name": "Indonesia",
     "ShortName": "Indonesia",
     "Languages": [
@@ -2858,15 +2960,16 @@
     ]
   },
   {
-    "Area": 1648195,
+    "Code": "IR",
+    "Area": 1648195.0,
     "CallingCode": 98,
     "Capital": "Tehran",
     "ThreeLettersCode": "IRN",
     "TwoLettersCode": "IR",
     "Demonym": "Iranian",
-    "Latitude": 32,
-    "LocalName": "\u0627\u06CC\u0631\u0627\u0646",
-    "Longitude": 53,
+    "Latitude": 32.0,
+    "LocalName": "ایران",
+    "Longitude": 53.0,
     "Name": "Iran",
     "ShortName": "Iran",
     "Languages": [
@@ -2883,15 +2986,16 @@
     ]
   },
   {
-    "Area": 438317,
+    "Code": "IQ",
+    "Area": 438317.0,
     "CallingCode": 964,
     "Capital": "Baghdad",
     "ThreeLettersCode": "IRQ",
     "TwoLettersCode": "IQ",
     "Demonym": "Iraqi",
-    "Latitude": 33,
-    "LocalName": "\u0627\u0644\u0639\u0631\u0627\u0642",
-    "Longitude": 44,
+    "Latitude": 33.0,
+    "LocalName": "العراق",
+    "Longitude": 44.0,
     "Name": "Iraq",
     "ShortName": "Iraq",
     "Languages": [
@@ -2912,15 +3016,16 @@
     ]
   },
   {
-    "Area": 70273,
+    "Code": "IE",
+    "Area": 70273.0,
     "CallingCode": 353,
     "Capital": "Dublin",
     "ThreeLettersCode": "IRL",
     "TwoLettersCode": "IE",
     "Demonym": "Irish",
-    "Latitude": 53,
-    "LocalName": "\u00C9ire",
-    "Longitude": -8,
+    "Latitude": 53.0,
+    "LocalName": "Éire",
+    "Longitude": -8.0,
     "Name": "Ireland",
     "ShortName": "Ireland",
     "Languages": [
@@ -2941,7 +3046,8 @@
     ]
   },
   {
-    "Area": 572,
+    "Code": "IM",
+    "Area": 572.0,
     "CallingCode": 44,
     "Capital": "Douglas",
     "ThreeLettersCode": "IMN",
@@ -2974,14 +3080,15 @@
     ]
   },
   {
-    "Area": 20770,
+    "Code": "IL",
+    "Area": 20770.0,
     "CallingCode": 972,
     "Capital": "Jerusalem",
     "ThreeLettersCode": "ISR",
     "TwoLettersCode": "IL",
     "Demonym": "Israeli",
     "Latitude": 31.5,
-    "LocalName": "\u05D9\u05B4\u05E9\u05B0\u05C2\u05E8\u05B8\u05D0\u05B5\u05DC",
+    "LocalName": "יִשְׂרָאֵל",
     "Longitude": 34.75,
     "Name": "Israel",
     "ShortName": "Israel",
@@ -3003,7 +3110,8 @@
     ]
   },
   {
-    "Area": 301336,
+    "Code": "IT",
+    "Area": 301336.0,
     "CallingCode": 39,
     "Capital": "Rome",
     "ThreeLettersCode": "ITA",
@@ -3028,7 +3136,8 @@
     ]
   },
   {
-    "Area": 10991,
+    "Code": "JM",
+    "Area": 10991.0,
     "CallingCode": 1876,
     "Capital": "Kingston",
     "ThreeLettersCode": "JAM",
@@ -3053,15 +3162,16 @@
     ]
   },
   {
-    "Area": 377962,
+    "Code": "JP",
+    "Area": 377962.0,
     "CallingCode": 81,
     "Capital": "Tokyo",
     "ThreeLettersCode": "JPN",
     "TwoLettersCode": "JP",
     "Demonym": "Japanese",
-    "Latitude": 36,
-    "LocalName": "\u65E5\u672C\u56FD",
-    "Longitude": 138,
+    "Latitude": 36.0,
+    "LocalName": "日本国",
+    "Longitude": 138.0,
     "Name": "Japan",
     "ShortName": "Japan",
     "Languages": [
@@ -3078,7 +3188,8 @@
     ]
   },
   {
-    "Area": 116,
+    "Code": "JE",
+    "Area": 116.0,
     "CallingCode": 44,
     "Capital": "Saint Helier",
     "ThreeLettersCode": "JEY",
@@ -3111,15 +3222,16 @@
     ]
   },
   {
-    "Area": 89342,
+    "Code": "JO",
+    "Area": 89342.0,
     "CallingCode": 962,
     "Capital": "Amman",
     "ThreeLettersCode": "JOR",
     "TwoLettersCode": "JO",
     "Demonym": "Jordanian",
-    "Latitude": 31,
-    "LocalName": "\u0627\u0644\u0623\u0631\u062F\u0646",
-    "Longitude": 36,
+    "Latitude": 31.0,
+    "LocalName": "الأردن",
+    "Longitude": 36.0,
     "Name": "Jordan",
     "ShortName": "Jordan",
     "Languages": [
@@ -3136,15 +3248,16 @@
     ]
   },
   {
-    "Area": 2724900,
+    "Code": "KZ",
+    "Area": 2724900.0,
     "CallingCode": 76,
     "Capital": "Astana",
     "ThreeLettersCode": "KAZ",
     "TwoLettersCode": "KZ",
     "Demonym": "Kazakhstani",
-    "Latitude": 48,
-    "LocalName": "\u049A\u0430\u0437\u0430\u049B\u0441\u0442\u0430\u043D",
-    "Longitude": 68,
+    "Latitude": 48.0,
+    "LocalName": "Қазақстан",
+    "Longitude": 68.0,
     "Name": "Kazakhstan",
     "ShortName": "Kazakhstan",
     "Languages": [
@@ -3165,15 +3278,16 @@
     ]
   },
   {
-    "Area": 580367,
+    "Code": "KE",
+    "Area": 580367.0,
     "CallingCode": 254,
     "Capital": "Nairobi",
     "ThreeLettersCode": "KEN",
     "TwoLettersCode": "KE",
     "Demonym": "Kenyan",
-    "Latitude": 1,
+    "Latitude": 1.0,
     "LocalName": "Kenya",
-    "Longitude": 38,
+    "Longitude": 38.0,
     "Name": "Kenya",
     "ShortName": "Kenya",
     "Languages": [
@@ -3194,7 +3308,8 @@
     ]
   },
   {
-    "Area": 811,
+    "Code": "KI",
+    "Area": 811.0,
     "CallingCode": 686,
     "Capital": "South Tarawa",
     "ThreeLettersCode": "KIR",
@@ -3202,7 +3317,7 @@
     "Demonym": "I-Kiribati",
     "Latitude": 1.4166666269302368,
     "LocalName": "Kiribati",
-    "Longitude": 173,
+    "Longitude": 173.0,
     "Name": "Kiribati",
     "ShortName": "Kiribati",
     "Languages": [
@@ -3223,14 +3338,15 @@
     ]
   },
   {
-    "Area": 17818,
+    "Code": "KW",
+    "Area": 17818.0,
     "CallingCode": 965,
     "Capital": "Kuwait City",
     "ThreeLettersCode": "KWT",
     "TwoLettersCode": "KW",
     "Demonym": "Kuwaiti",
     "Latitude": 29.5,
-    "LocalName": "\u0627\u0644\u0643\u0648\u064A\u062A",
+    "LocalName": "الكويت",
     "Longitude": 45.75,
     "Name": "Kuwait",
     "ShortName": "Kuwait",
@@ -3248,15 +3364,16 @@
     ]
   },
   {
-    "Area": 199951,
+    "Code": "KG",
+    "Area": 199951.0,
     "CallingCode": 996,
     "Capital": "Bishkek",
     "ThreeLettersCode": "KGZ",
     "TwoLettersCode": "KG",
     "Demonym": "Kirghiz",
-    "Latitude": 41,
-    "LocalName": "\u041A\u044B\u0440\u0433\u044B\u0437\u0441\u0442\u0430\u043D",
-    "Longitude": 75,
+    "Latitude": 41.0,
+    "LocalName": "Кыргызстан",
+    "Longitude": 75.0,
     "Name": "Kyrgyzstan",
     "ShortName": "Kyrgyzstan",
     "Languages": [
@@ -3277,17 +3394,18 @@
     ]
   },
   {
-    "Area": 236800,
+    "Code": "LA",
+    "Area": 236800.0,
     "CallingCode": 856,
     "Capital": "Vientiane",
     "ThreeLettersCode": "LAO",
     "TwoLettersCode": "LA",
     "Demonym": "Laotian",
-    "Latitude": 18,
-    "LocalName": "\u0EAA\u0E9B\u0E9B\u0EA5\u0EB2\u0EA7",
-    "Longitude": 105,
-    "Name": "Lao People\u0027s Democratic Republic",
-    "ShortName": "Lao People\u0027s Democratic Republic",
+    "Latitude": 18.0,
+    "LocalName": "ສປປລາວ",
+    "Longitude": 105.0,
+    "Name": "Lao People's Democratic Republic",
+    "ShortName": "Lao People's Democratic Republic",
     "Languages": [
       {
         "Code": "LO",
@@ -3302,15 +3420,16 @@
     ]
   },
   {
-    "Area": 64559,
+    "Code": "LV",
+    "Area": 64559.0,
     "CallingCode": 371,
     "Capital": "Riga",
     "ThreeLettersCode": "LVA",
     "TwoLettersCode": "LV",
     "Demonym": "Latvian",
-    "Latitude": 57,
+    "Latitude": 57.0,
     "LocalName": "Latvija",
-    "Longitude": 25,
+    "Longitude": 25.0,
     "Name": "Latvia",
     "ShortName": "Latvia",
     "Languages": [
@@ -3327,14 +3446,15 @@
     ]
   },
   {
-    "Area": 10452,
+    "Code": "LB",
+    "Area": 10452.0,
     "CallingCode": 961,
     "Capital": "Beirut",
     "ThreeLettersCode": "LBN",
     "TwoLettersCode": "LB",
     "Demonym": "Lebanese",
     "Latitude": 33.83333206176758,
-    "LocalName": "\u0644\u0628\u0646\u0627\u0646",
+    "LocalName": "لبنان",
     "Longitude": 35.83333206176758,
     "Name": "Lebanon",
     "ShortName": "Lebanon",
@@ -3356,7 +3476,8 @@
     ]
   },
   {
-    "Area": 30355,
+    "Code": "LS",
+    "Area": 30355.0,
     "CallingCode": 266,
     "Capital": "Maseru",
     "ThreeLettersCode": "LSO",
@@ -3389,7 +3510,8 @@
     ]
   },
   {
-    "Area": 111369,
+    "Code": "LR",
+    "Area": 111369.0,
     "CallingCode": 231,
     "Capital": "Monrovia",
     "ThreeLettersCode": "LBR",
@@ -3414,15 +3536,16 @@
     ]
   },
   {
-    "Area": 1759540,
+    "Code": "LY",
+    "Area": 1759540.0,
     "CallingCode": 218,
     "Capital": "Tripoli",
     "ThreeLettersCode": "LBY",
     "TwoLettersCode": "LY",
     "Demonym": "Libyan",
-    "Latitude": 25,
-    "LocalName": "\u200F\u0644\u064A\u0628\u064A\u0627",
-    "Longitude": 17,
+    "Latitude": 25.0,
+    "LocalName": "‏ليبيا",
+    "Longitude": 17.0,
     "Name": "Libya",
     "ShortName": "Libya",
     "Languages": [
@@ -3439,7 +3562,8 @@
     ]
   },
   {
-    "Area": 160,
+    "Code": "LI",
+    "Area": 160.0,
     "CallingCode": 423,
     "Capital": "Vaduz",
     "ThreeLettersCode": "LIE",
@@ -3464,15 +3588,16 @@
     ]
   },
   {
-    "Area": 65300,
+    "Code": "LT",
+    "Area": 65300.0,
     "CallingCode": 370,
     "Capital": "Vilnius",
     "ThreeLettersCode": "LTU",
     "TwoLettersCode": "LT",
     "Demonym": "Lithuanian",
-    "Latitude": 56,
+    "Latitude": 56.0,
     "LocalName": "Lietuva",
-    "Longitude": 24,
+    "Longitude": 24.0,
     "Name": "Lithuania",
     "ShortName": "Lithuania",
     "Languages": [
@@ -3489,7 +3614,8 @@
     ]
   },
   {
-    "Area": 2586,
+    "Code": "LU",
+    "Area": 2586.0,
     "CallingCode": 352,
     "Capital": "Luxembourg",
     "ThreeLettersCode": "LUX",
@@ -3522,14 +3648,15 @@
     ]
   },
   {
-    "Area": 30,
+    "Code": "MO",
+    "Area": 30.0,
     "CallingCode": 853,
     "Capital": "",
     "ThreeLettersCode": "MAC",
     "TwoLettersCode": "MO",
     "Demonym": "Chinese",
     "Latitude": 22.16666603088379,
-    "LocalName": "\u6FB3\u9580",
+    "LocalName": "澳門",
     "Longitude": 113.55000305175781,
     "Name": "Macao",
     "ShortName": "Macao",
@@ -3551,15 +3678,16 @@
     ]
   },
   {
-    "Area": 25713,
+    "Code": "MK",
+    "Area": 25713.0,
     "CallingCode": 389,
     "Capital": "Skopje",
     "ThreeLettersCode": "MKD",
     "TwoLettersCode": "MK",
     "Demonym": "Macedonian",
     "Latitude": 41.8333320617676,
-    "LocalName": "\u041C\u0430\u043A\u0435\u0434\u043E\u043D\u0438\u0458\u0430",
-    "Longitude": 22,
+    "LocalName": "Македонија",
+    "Longitude": 22.0,
     "Name": "Macedonia",
     "ShortName": "Macedonia",
     "Languages": [
@@ -3576,15 +3704,16 @@
     ]
   },
   {
-    "Area": 587041,
+    "Code": "MG",
+    "Area": 587041.0,
     "CallingCode": 261,
     "Capital": "Antananarivo",
     "ThreeLettersCode": "MDG",
     "TwoLettersCode": "MG",
     "Demonym": "Malagasy",
-    "Latitude": -20,
+    "Latitude": -20.0,
     "LocalName": "Madagasikara",
-    "Longitude": 47,
+    "Longitude": 47.0,
     "Name": "Madagascar",
     "ShortName": "Madagascar",
     "Languages": [
@@ -3605,7 +3734,8 @@
     ]
   },
   {
-    "Area": 118484,
+    "Code": "MW",
+    "Area": 118484.0,
     "CallingCode": 265,
     "Capital": "Lilongwe",
     "ThreeLettersCode": "MWI",
@@ -3613,7 +3743,7 @@
     "Demonym": "Malawian",
     "Latitude": -13.5,
     "LocalName": "Malawi",
-    "Longitude": 34,
+    "Longitude": 34.0,
     "Name": "Malawi",
     "ShortName": "Malawi",
     "Languages": [
@@ -3630,7 +3760,8 @@
     ]
   },
   {
-    "Area": 330803,
+    "Code": "MY",
+    "Area": 330803.0,
     "CallingCode": 60,
     "Capital": "Kuala Lumpur",
     "ThreeLettersCode": "MYS",
@@ -3651,15 +3782,16 @@
     ]
   },
   {
-    "Area": 300,
+    "Code": "MV",
+    "Area": 300.0,
     "CallingCode": 960,
-    "Capital": "Mal\u00E9",
+    "Capital": "Malé",
     "ThreeLettersCode": "MDV",
     "TwoLettersCode": "MV",
     "Demonym": "Maldivan",
     "Latitude": 3.25,
     "LocalName": "Maldives",
-    "Longitude": 73,
+    "Longitude": 73.0,
     "Name": "Maldives",
     "ShortName": "Maldives",
     "Languages": [
@@ -3676,15 +3808,16 @@
     ]
   },
   {
-    "Area": 1240192,
+    "Code": "ML",
+    "Area": 1240192.0,
     "CallingCode": 223,
     "Capital": "Bamako",
     "ThreeLettersCode": "MLI",
     "TwoLettersCode": "ML",
     "Demonym": "Malian",
-    "Latitude": 17,
+    "Latitude": 17.0,
     "LocalName": "Mali",
-    "Longitude": -4,
+    "Longitude": -4.0,
     "Name": "Mali",
     "ShortName": "Mali",
     "Languages": [
@@ -3701,7 +3834,8 @@
     ]
   },
   {
-    "Area": 316,
+    "Code": "MT",
+    "Area": 316.0,
     "CallingCode": 356,
     "Capital": "Valletta",
     "ThreeLettersCode": "MLT",
@@ -3730,15 +3864,16 @@
     ]
   },
   {
-    "Area": 181,
+    "Code": "MH",
+    "Area": 181.0,
     "CallingCode": 692,
     "Capital": "Majuro",
     "ThreeLettersCode": "MHL",
     "TwoLettersCode": "MH",
     "Demonym": "Marshallese",
-    "Latitude": 9,
-    "LocalName": "M\u0327aje\u013C",
-    "Longitude": 168,
+    "Latitude": 9.0,
+    "LocalName": "M̧ajeļ",
+    "Longitude": 168.0,
     "Name": "Marshall Islands",
     "ShortName": "Marshall Islands",
     "Languages": [
@@ -3755,6 +3890,7 @@
     ]
   },
   {
+    "Code": "MQ",
     "Area": null,
     "CallingCode": 596,
     "Capital": "Fort-de-France",
@@ -3763,7 +3899,7 @@
     "Demonym": "French",
     "Latitude": 14.666666984558105,
     "LocalName": "Martinique",
-    "Longitude": -61,
+    "Longitude": -61.0,
     "Name": "Martinique",
     "ShortName": "Martinique",
     "Languages": [
@@ -3780,15 +3916,16 @@
     ]
   },
   {
-    "Area": 1030700,
+    "Code": "MR",
+    "Area": 1030700.0,
     "CallingCode": 222,
     "Capital": "Nouakchott",
     "ThreeLettersCode": "MRT",
     "TwoLettersCode": "MR",
     "Demonym": "Mauritanian",
-    "Latitude": 20,
-    "LocalName": "\u0645\u0648\u0631\u064A\u062A\u0627\u0646\u064A\u0627",
-    "Longitude": -12,
+    "Latitude": 20.0,
+    "LocalName": "موريتانيا",
+    "Longitude": -12.0,
     "Name": "Mauritania",
     "ShortName": "Mauritania",
     "Languages": [
@@ -3805,7 +3942,8 @@
     ]
   },
   {
-    "Area": 2040,
+    "Code": "MU",
+    "Area": 2040.0,
     "CallingCode": 230,
     "Capital": "Port Louis",
     "ThreeLettersCode": "MUS",
@@ -3830,6 +3968,7 @@
     ]
   },
   {
+    "Code": "YT",
     "Area": null,
     "CallingCode": 262,
     "Capital": "Mamoudzou",
@@ -3855,15 +3994,16 @@
     ]
   },
   {
-    "Area": 1964375,
+    "Code": "MX",
+    "Area": 1964375.0,
     "CallingCode": 52,
     "Capital": "Mexico City",
     "ThreeLettersCode": "MEX",
     "TwoLettersCode": "MX",
     "Demonym": "Mexican",
-    "Latitude": 23,
-    "LocalName": "M\u00E9xico",
-    "Longitude": -102,
+    "Latitude": 23.0,
+    "LocalName": "México",
+    "Longitude": -102.0,
     "Name": "Mexico",
     "ShortName": "Mexico",
     "Languages": [
@@ -3880,7 +4020,8 @@
     ]
   },
   {
-    "Area": 702,
+    "Code": "FM",
+    "Area": 702.0,
     "CallingCode": 691,
     "Capital": "Palikir",
     "ThreeLettersCode": "FSM",
@@ -3905,15 +4046,16 @@
     ]
   },
   {
-    "Area": 33846,
+    "Code": "MD",
+    "Area": 33846.0,
     "CallingCode": 373,
-    "Capital": "Chi\u0219in\u0103u",
+    "Capital": "Chișinău",
     "ThreeLettersCode": "MDA",
     "TwoLettersCode": "MD",
     "Demonym": "Moldovan",
-    "Latitude": 47,
+    "Latitude": 47.0,
     "LocalName": "Moldova",
-    "Longitude": 29,
+    "Longitude": 29.0,
     "Name": "Moldova",
     "ShortName": "Moldova",
     "Languages": [
@@ -3930,6 +4072,7 @@
     ]
   },
   {
+    "Code": "MC",
     "Area": 2.0199999809265137,
     "CallingCode": 377,
     "Capital": "Monaco",
@@ -3955,15 +4098,16 @@
     ]
   },
   {
-    "Area": 1564110,
+    "Code": "MN",
+    "Area": 1564110.0,
     "CallingCode": 976,
     "Capital": "Ulan Bator",
     "ThreeLettersCode": "MNG",
     "TwoLettersCode": "MN",
     "Demonym": "Mongolian",
-    "Latitude": 46,
-    "LocalName": "\u041C\u043E\u043D\u0433\u043E\u043B \u0443\u043B\u0441",
-    "Longitude": 105,
+    "Latitude": 46.0,
+    "LocalName": "Монгол улс",
+    "Longitude": 105.0,
     "Name": "Mongolia",
     "ShortName": "Mongolia",
     "Languages": [
@@ -3980,14 +4124,15 @@
     ]
   },
   {
-    "Area": 13812,
+    "Code": "ME",
+    "Area": 13812.0,
     "CallingCode": 382,
     "Capital": "Podgorica",
     "ThreeLettersCode": "MNE",
     "TwoLettersCode": "ME",
     "Demonym": "Montenegrin",
     "Latitude": 42.5,
-    "LocalName": "\u0426\u0440\u043D\u0430 \u0413\u043E\u0440\u0430",
+    "LocalName": "Црна Гора",
     "Longitude": 19.299999237060547,
     "Name": "Montenegro",
     "ShortName": "Montenegro",
@@ -4017,7 +4162,8 @@
     ]
   },
   {
-    "Area": 102,
+    "Code": "MS",
+    "Area": 102.0,
     "CallingCode": 1664,
     "Capital": "Plymouth",
     "ThreeLettersCode": "MSR",
@@ -4042,15 +4188,16 @@
     ]
   },
   {
-    "Area": 446550,
+    "Code": "MA",
+    "Area": 446550.0,
     "CallingCode": 212,
     "Capital": "Rabat",
     "ThreeLettersCode": "MAR",
     "TwoLettersCode": "MA",
     "Demonym": "Moroccan",
-    "Latitude": 32,
-    "LocalName": "\u0627\u0644\u0645\u063A\u0631\u0628",
-    "Longitude": -5,
+    "Latitude": 32.0,
+    "LocalName": "المغرب",
+    "Longitude": -5.0,
     "Name": "Morocco",
     "ShortName": "Morocco",
     "Languages": [
@@ -4067,15 +4214,16 @@
     ]
   },
   {
-    "Area": 801590,
+    "Code": "MZ",
+    "Area": 801590.0,
     "CallingCode": 258,
     "Capital": "Maputo",
     "ThreeLettersCode": "MOZ",
     "TwoLettersCode": "MZ",
     "Demonym": "Mozambican",
     "Latitude": -18.25,
-    "LocalName": "Mo\u00E7ambique",
-    "Longitude": 35,
+    "LocalName": "Moçambique",
+    "Longitude": 35.0,
     "Name": "Mozambique",
     "ShortName": "Mozambique",
     "Languages": [
@@ -4092,15 +4240,16 @@
     ]
   },
   {
-    "Area": 676578,
+    "Code": "MM",
+    "Area": 676578.0,
     "CallingCode": 95,
     "Capital": "Naypyidaw",
     "ThreeLettersCode": "MMR",
     "TwoLettersCode": "MM",
     "Demonym": "Burmese",
-    "Latitude": 22,
+    "Latitude": 22.0,
     "LocalName": "Myanma",
-    "Longitude": 98,
+    "Longitude": 98.0,
     "Name": "Myanmar",
     "ShortName": "Myanmar",
     "Languages": [
@@ -4117,15 +4266,16 @@
     ]
   },
   {
-    "Area": 825615,
+    "Code": "NA",
+    "Area": 825615.0,
     "CallingCode": 264,
     "Capital": "Windhoek",
     "ThreeLettersCode": "NAM",
     "TwoLettersCode": "NA",
     "Demonym": "Namibian",
-    "Latitude": -22,
+    "Latitude": -22.0,
     "LocalName": "Namibia",
-    "Longitude": 17,
+    "Longitude": 17.0,
     "Name": "Namibia",
     "ShortName": "Namibia",
     "Languages": [
@@ -4150,7 +4300,8 @@
     ]
   },
   {
-    "Area": 21,
+    "Code": "NR",
+    "Area": 21.0,
     "CallingCode": 674,
     "Capital": "Yaren",
     "ThreeLettersCode": "NRU",
@@ -4179,15 +4330,16 @@
     ]
   },
   {
-    "Area": 147181,
+    "Code": "NP",
+    "Area": 147181.0,
     "CallingCode": 977,
     "Capital": "Kathmandu",
     "ThreeLettersCode": "NPL",
     "TwoLettersCode": "NP",
     "Demonym": "Nepalese",
-    "Latitude": 28,
-    "LocalName": "\u0928\u0947\u092A\u093E\u0932",
-    "Longitude": 84,
+    "Latitude": 28.0,
+    "LocalName": "नेपाल",
+    "Longitude": 84.0,
     "Name": "Nepal",
     "ShortName": "Nepal",
     "Languages": [
@@ -4204,7 +4356,8 @@
     ]
   },
   {
-    "Area": 41850,
+    "Code": "NL",
+    "Area": 41850.0,
     "CallingCode": 31,
     "Capital": "Amsterdam",
     "ThreeLettersCode": "NLD",
@@ -4229,14 +4382,15 @@
     ]
   },
   {
-    "Area": 18575,
+    "Code": "NC",
+    "Area": 18575.0,
     "CallingCode": 687,
-    "Capital": "Noum\u00E9a",
+    "Capital": "Nouméa",
     "ThreeLettersCode": "NCL",
     "TwoLettersCode": "NC",
     "Demonym": "New Caledonian",
     "Latitude": -21.5,
-    "LocalName": "Nouvelle-Cal\u00E9donie",
+    "LocalName": "Nouvelle-Calédonie",
     "Longitude": 165.5,
     "Name": "New Caledonia",
     "ShortName": "New Caledonia",
@@ -4254,15 +4408,16 @@
     ]
   },
   {
-    "Area": 270467,
+    "Code": "NZ",
+    "Area": 270467.0,
     "CallingCode": 64,
     "Capital": "Wellington",
     "ThreeLettersCode": "NZL",
     "TwoLettersCode": "NZ",
     "Demonym": "New Zealander",
-    "Latitude": -41,
+    "Latitude": -41.0,
     "LocalName": "New Zealand",
-    "Longitude": 174,
+    "Longitude": 174.0,
     "Name": "New Zealand",
     "ShortName": "New Zealand",
     "Languages": [
@@ -4283,15 +4438,16 @@
     ]
   },
   {
-    "Area": 130373,
+    "Code": "NI",
+    "Area": 130373.0,
     "CallingCode": 505,
     "Capital": "Managua",
     "ThreeLettersCode": "NIC",
     "TwoLettersCode": "NI",
     "Demonym": "Nicaraguan",
-    "Latitude": 13,
+    "Latitude": 13.0,
     "LocalName": "Nicaragua",
-    "Longitude": -85,
+    "Longitude": -85.0,
     "Name": "Nicaragua",
     "ShortName": "Nicaragua",
     "Languages": [
@@ -4308,15 +4464,16 @@
     ]
   },
   {
-    "Area": 1267000,
+    "Code": "NE",
+    "Area": 1267000.0,
     "CallingCode": 227,
     "Capital": "Niamey",
     "ThreeLettersCode": "NER",
     "TwoLettersCode": "NE",
     "Demonym": "Nigerien",
-    "Latitude": 16,
+    "Latitude": 16.0,
     "LocalName": "Niger",
-    "Longitude": 8,
+    "Longitude": 8.0,
     "Name": "Niger",
     "ShortName": "Niger",
     "Languages": [
@@ -4333,15 +4490,16 @@
     ]
   },
   {
-    "Area": 923768,
+    "Code": "NG",
+    "Area": 923768.0,
     "CallingCode": 234,
     "Capital": "Abuja",
     "ThreeLettersCode": "NGA",
     "TwoLettersCode": "NG",
     "Demonym": "Nigerian",
-    "Latitude": 10,
+    "Latitude": 10.0,
     "LocalName": "Nigeria",
-    "Longitude": 8,
+    "Longitude": 8.0,
     "Name": "Nigeria",
     "ShortName": "Nigeria",
     "Languages": [
@@ -4358,14 +4516,15 @@
     ]
   },
   {
-    "Area": 260,
+    "Code": "NU",
+    "Area": 260.0,
     "CallingCode": 683,
     "Capital": "Alofi",
     "ThreeLettersCode": "NIU",
     "TwoLettersCode": "NU",
     "Demonym": "Niuean",
     "Latitude": -19.03333282470703,
-    "LocalName": "Niu\u0113",
+    "LocalName": "Niuē",
     "Longitude": -169.86666870117188,
     "Name": "Niue",
     "ShortName": "Niue",
@@ -4387,7 +4546,8 @@
     ]
   },
   {
-    "Area": 36,
+    "Code": "NF",
+    "Area": 36.0,
     "CallingCode": 672,
     "Capital": "Kingston",
     "ThreeLettersCode": "NFK",
@@ -4412,15 +4572,16 @@
     ]
   },
   {
-    "Area": 120540,
+    "Code": "KP",
+    "Area": 120540.0,
     "CallingCode": 850,
     "Capital": "Pyongyang",
     "ThreeLettersCode": "PRK",
     "TwoLettersCode": "KP",
     "Demonym": "North Korean",
-    "Latitude": 40,
-    "LocalName": "\uBD81\uD55C",
-    "Longitude": 127,
+    "Latitude": 40.0,
+    "LocalName": "북한",
+    "Longitude": 127.0,
     "Name": "North Korea",
     "ShortName": "North Korea",
     "Languages": [
@@ -4437,7 +4598,8 @@
     ]
   },
   {
-    "Area": 464,
+    "Code": "MP",
+    "Area": 464.0,
     "CallingCode": 1670,
     "Capital": "Saipan",
     "ThreeLettersCode": "MNP",
@@ -4462,15 +4624,16 @@
     ]
   },
   {
-    "Area": 323802,
+    "Code": "NO",
+    "Area": 323802.0,
     "CallingCode": 47,
     "Capital": "Oslo",
     "ThreeLettersCode": "NOR",
     "TwoLettersCode": "NO",
     "Demonym": "Norwegian",
-    "Latitude": 62,
+    "Latitude": 62.0,
     "LocalName": "Norge",
-    "Longitude": 10,
+    "Longitude": 10.0,
     "Name": "Norway",
     "ShortName": "Norway",
     "Languages": [
@@ -4491,15 +4654,16 @@
     ]
   },
   {
-    "Area": 309500,
+    "Code": "OM",
+    "Area": 309500.0,
     "CallingCode": 968,
     "Capital": "Muscat",
     "ThreeLettersCode": "OMN",
     "TwoLettersCode": "OM",
     "Demonym": "Omani",
-    "Latitude": 21,
-    "LocalName": "\u0639\u0645\u0627\u0646",
-    "Longitude": 57,
+    "Latitude": 21.0,
+    "LocalName": "عمان",
+    "Longitude": 57.0,
     "Name": "Oman",
     "ShortName": "Oman",
     "Languages": [
@@ -4516,15 +4680,16 @@
     ]
   },
   {
-    "Area": 881912,
+    "Code": "PK",
+    "Area": 881912.0,
     "CallingCode": 92,
     "Capital": "Islamabad",
     "ThreeLettersCode": "PAK",
     "TwoLettersCode": "PK",
     "Demonym": "Pakistani",
-    "Latitude": 30,
+    "Latitude": 30.0,
     "LocalName": "Pakistan",
-    "Longitude": 70,
+    "Longitude": 70.0,
     "Name": "Pakistan",
     "ShortName": "Pakistan",
     "Languages": [
@@ -4545,7 +4710,8 @@
     ]
   },
   {
-    "Area": 459,
+    "Code": "PW",
+    "Area": 459.0,
     "CallingCode": 680,
     "Capital": "Ngerulmud",
     "ThreeLettersCode": "PLW",
@@ -4574,6 +4740,7 @@
     ]
   },
   {
+    "Code": "PS",
     "Area": null,
     "CallingCode": 970,
     "Capital": "Ramallah",
@@ -4581,7 +4748,7 @@
     "TwoLettersCode": "PS",
     "Demonym": "Palestinian",
     "Latitude": 31.899999618530273,
-    "LocalName": "\u0641\u0644\u0633\u0637\u064A\u0646",
+    "LocalName": "فلسطين",
     "Longitude": 35.20000076293945,
     "Name": "Palestine, State of",
     "ShortName": "Palestine, State of",
@@ -4599,15 +4766,16 @@
     ]
   },
   {
-    "Area": 75417,
+    "Code": "PA",
+    "Area": 75417.0,
     "CallingCode": 507,
     "Capital": "Panama City",
     "ThreeLettersCode": "PAN",
     "TwoLettersCode": "PA",
     "Demonym": "Panamanian",
-    "Latitude": 9,
-    "LocalName": "Panam\u00E1",
-    "Longitude": -80,
+    "Latitude": 9.0,
+    "LocalName": "Panamá",
+    "Longitude": -80.0,
     "Name": "Panama",
     "ShortName": "Panama",
     "Languages": [
@@ -4628,15 +4796,16 @@
     ]
   },
   {
-    "Area": 462840,
+    "Code": "PG",
+    "Area": 462840.0,
     "CallingCode": 675,
     "Capital": "Port Moresby",
     "ThreeLettersCode": "PNG",
     "TwoLettersCode": "PG",
     "Demonym": "Papua New Guinean",
-    "Latitude": -6,
+    "Latitude": -6.0,
     "LocalName": "Papua Niugini",
-    "Longitude": 147,
+    "Longitude": 147.0,
     "Name": "Papua New Guinea",
     "ShortName": "Papua New Guinea",
     "Languages": [
@@ -4653,15 +4822,16 @@
     ]
   },
   {
-    "Area": 406752,
+    "Code": "PY",
+    "Area": 406752.0,
     "CallingCode": 595,
-    "Capital": "Asunci\u00F3n",
+    "Capital": "Asunción",
     "ThreeLettersCode": "PRY",
     "TwoLettersCode": "PY",
     "Demonym": "Paraguayan",
-    "Latitude": -23,
+    "Latitude": -23.0,
     "LocalName": "Paraguay",
-    "Longitude": -58,
+    "Longitude": -58.0,
     "Name": "Paraguay",
     "ShortName": "Paraguay",
     "Languages": [
@@ -4682,15 +4852,16 @@
     ]
   },
   {
-    "Area": 1285216,
+    "Code": "PE",
+    "Area": 1285216.0,
     "CallingCode": 51,
     "Capital": "Lima",
     "ThreeLettersCode": "PER",
     "TwoLettersCode": "PE",
     "Demonym": "Peruvian",
-    "Latitude": -10,
-    "LocalName": "Per\u00FA",
-    "Longitude": -76,
+    "Latitude": -10.0,
+    "LocalName": "Perú",
+    "Longitude": -76.0,
     "Name": "Peru",
     "ShortName": "Peru",
     "Languages": [
@@ -4707,15 +4878,16 @@
     ]
   },
   {
-    "Area": 342353,
+    "Code": "PH",
+    "Area": 342353.0,
     "CallingCode": 63,
     "Capital": "Manila",
     "ThreeLettersCode": "PHL",
     "TwoLettersCode": "PH",
     "Demonym": "Filipino",
-    "Latitude": 13,
+    "Latitude": 13.0,
     "LocalName": "Pilipinas",
-    "Longitude": 122,
+    "Longitude": 122.0,
     "Name": "Philippines",
     "ShortName": "Philippines",
     "Languages": [
@@ -4732,7 +4904,8 @@
     ]
   },
   {
-    "Area": 47,
+    "Code": "PN",
+    "Area": 47.0,
     "CallingCode": 64,
     "Capital": "Adamstown",
     "ThreeLettersCode": "PCN",
@@ -4757,15 +4930,16 @@
     ]
   },
   {
-    "Area": 312679,
+    "Code": "PL",
+    "Area": 312679.0,
     "CallingCode": 48,
     "Capital": "Warsaw",
     "ThreeLettersCode": "POL",
     "TwoLettersCode": "PL",
     "Demonym": "Polish",
-    "Latitude": 52,
+    "Latitude": 52.0,
     "LocalName": "Polska",
-    "Longitude": 20,
+    "Longitude": 20.0,
     "Name": "Poland",
     "ShortName": "Poland",
     "Languages": [
@@ -4782,7 +4956,8 @@
     ]
   },
   {
-    "Area": 92090,
+    "Code": "PT",
+    "Area": 92090.0,
     "CallingCode": 351,
     "Capital": "Lisbon",
     "ThreeLettersCode": "PRT",
@@ -4790,7 +4965,7 @@
     "Demonym": "Portuguese",
     "Latitude": 39.5,
     "LocalName": "Portugal",
-    "Longitude": -8,
+    "Longitude": -8.0,
     "Name": "Portugal",
     "ShortName": "Portugal",
     "Languages": [
@@ -4807,7 +4982,8 @@
     ]
   },
   {
-    "Area": 8870,
+    "Code": "PR",
+    "Area": 8870.0,
     "CallingCode": 1787,
     "Capital": "San Juan",
     "ThreeLettersCode": "PRI",
@@ -4836,14 +5012,15 @@
     ]
   },
   {
-    "Area": 11586,
+    "Code": "QA",
+    "Area": 11586.0,
     "CallingCode": 974,
     "Capital": "Doha",
     "ThreeLettersCode": "QAT",
     "TwoLettersCode": "QA",
     "Demonym": "Qatari",
     "Latitude": 25.5,
-    "LocalName": "\u0642\u0637\u0631",
+    "LocalName": "قطر",
     "Longitude": 51.25,
     "Name": "Qatar",
     "ShortName": "Qatar",
@@ -4861,14 +5038,15 @@
     ]
   },
   {
-    "Area": 10908,
+    "Code": "XK",
+    "Area": 10908.0,
     "CallingCode": 383,
     "Capital": "Pristina",
     "ThreeLettersCode": "KOS",
     "TwoLettersCode": "XK",
     "Demonym": "Kosovar",
     "Latitude": 42.66666793823242,
-    "LocalName": "Republika e Kosov\u00EBs",
+    "LocalName": "Republika e Kosovës",
     "Longitude": 21.166667938232422,
     "Name": "Republic of Kosovo",
     "ShortName": "Republic of Kosovo",
@@ -4890,6 +5068,7 @@
     ]
   },
   {
+    "Code": "RE",
     "Area": null,
     "CallingCode": 262,
     "Capital": "Saint-Denis",
@@ -4897,10 +5076,10 @@
     "TwoLettersCode": "RE",
     "Demonym": "French",
     "Latitude": -21.149999618530273,
-    "LocalName": "La R\u00E9union",
+    "LocalName": "La Réunion",
     "Longitude": 55.5,
-    "Name": "R\u00E9union",
-    "ShortName": "R\u00E9union",
+    "Name": "Réunion",
+    "ShortName": "Réunion",
     "Languages": [
       {
         "Code": "FR",
@@ -4915,15 +5094,16 @@
     ]
   },
   {
-    "Area": 238391,
+    "Code": "RO",
+    "Area": 238391.0,
     "CallingCode": 40,
     "Capital": "Bucharest",
     "ThreeLettersCode": "ROU",
     "TwoLettersCode": "RO",
     "Demonym": "Romanian",
-    "Latitude": 46,
-    "LocalName": "Rom\u00E2nia",
-    "Longitude": 25,
+    "Latitude": 46.0,
+    "LocalName": "România",
+    "Longitude": 25.0,
     "Name": "Romania",
     "ShortName": "Romania",
     "Languages": [
@@ -4940,15 +5120,16 @@
     ]
   },
   {
-    "Area": 17124442,
+    "Code": "RU",
+    "Area": 17124442.0,
     "CallingCode": 7,
     "Capital": "Moscow",
     "ThreeLettersCode": "RUS",
     "TwoLettersCode": "RU",
     "Demonym": "Russian",
-    "Latitude": 60,
-    "LocalName": "\u0420\u043E\u0441\u0441\u0438\u044F",
-    "Longitude": 100,
+    "Latitude": 60.0,
+    "LocalName": "Россия",
+    "Longitude": 100.0,
     "Name": "Russian Federation",
     "ShortName": "Russian Federation",
     "Languages": [
@@ -4965,15 +5146,16 @@
     ]
   },
   {
-    "Area": 26338,
+    "Code": "RW",
+    "Area": 26338.0,
     "CallingCode": 250,
     "Capital": "Kigali",
     "ThreeLettersCode": "RWA",
     "TwoLettersCode": "RW",
     "Demonym": "Rwandan",
-    "Latitude": -2,
+    "Latitude": -2.0,
     "LocalName": "Rwanda",
-    "Longitude": 30,
+    "Longitude": 30.0,
     "Name": "Rwanda",
     "ShortName": "Rwanda",
     "Languages": [
@@ -4998,17 +5180,18 @@
     ]
   },
   {
-    "Area": 21,
+    "Code": "BL",
+    "Area": 21.0,
     "CallingCode": 590,
     "Capital": "Gustavia",
     "ThreeLettersCode": "BLM",
     "TwoLettersCode": "BL",
-    "Demonym": "Saint Barth\u00E9lemy Islander",
+    "Demonym": "Saint Barthélemy Islander",
     "Latitude": 18.5,
-    "LocalName": "Saint-Barth\u00E9lemy",
+    "LocalName": "Saint-Barthélemy",
     "Longitude": -63.41666793823242,
-    "Name": "Saint Barth\u00E9lemy",
-    "ShortName": "Saint Barth\u00E9lemy",
+    "Name": "Saint Barthélemy",
+    "ShortName": "Saint Barthélemy",
     "Languages": [
       {
         "Code": "FR",
@@ -5023,6 +5206,7 @@
     ]
   },
   {
+    "Code": "SH",
     "Area": null,
     "CallingCode": 290,
     "Capital": "Jamestown",
@@ -5048,7 +5232,8 @@
     ]
   },
   {
-    "Area": 261,
+    "Code": "KN",
+    "Area": 261.0,
     "CallingCode": 1869,
     "Capital": "Basseterre",
     "ThreeLettersCode": "KNA",
@@ -5073,7 +5258,8 @@
     ]
   },
   {
-    "Area": 616,
+    "Code": "LC",
+    "Area": 616.0,
     "CallingCode": 1758,
     "Capital": "Castries",
     "ThreeLettersCode": "LCA",
@@ -5098,7 +5284,8 @@
     ]
   },
   {
-    "Area": 53,
+    "Code": "MF",
+    "Area": 53.0,
     "CallingCode": 590,
     "Capital": "Marigot",
     "ThreeLettersCode": "MAF",
@@ -5131,7 +5318,8 @@
     ]
   },
   {
-    "Area": 242,
+    "Code": "PM",
+    "Area": 242.0,
     "CallingCode": 508,
     "Capital": "Saint-Pierre",
     "ThreeLettersCode": "SPM",
@@ -5156,7 +5344,8 @@
     ]
   },
   {
-    "Area": 389,
+    "Code": "VC",
+    "Area": 389.0,
     "CallingCode": 1784,
     "Capital": "Kingstown",
     "ThreeLettersCode": "VCT",
@@ -5181,7 +5370,8 @@
     ]
   },
   {
-    "Area": 2842,
+    "Code": "WS",
+    "Area": 2842.0,
     "CallingCode": 685,
     "Capital": "Apia",
     "ThreeLettersCode": "WSM",
@@ -5206,7 +5396,8 @@
     ]
   },
   {
-    "Area": 61,
+    "Code": "SM",
+    "Area": 61.0,
     "CallingCode": 378,
     "Capital": "City of San Marino",
     "ThreeLettersCode": "SMR",
@@ -5231,15 +5422,16 @@
     ]
   },
   {
-    "Area": 964,
+    "Code": "ST",
+    "Area": 964.0,
     "CallingCode": 239,
-    "Capital": "S\u00E3o Tom\u00E9",
+    "Capital": "São Tomé",
     "ThreeLettersCode": "STP",
     "TwoLettersCode": "ST",
     "Demonym": "Sao Tomean",
-    "Latitude": 1,
-    "LocalName": "S\u00E3o Tom\u00E9 e Pr\u00EDncipe",
-    "Longitude": 7,
+    "Latitude": 1.0,
+    "LocalName": "São Tomé e Príncipe",
+    "Longitude": 7.0,
     "Name": "Sao Tome and Principe",
     "ShortName": "Sao Tome and Principe",
     "Languages": [
@@ -5256,15 +5448,16 @@
     ]
   },
   {
-    "Area": 2149690,
+    "Code": "SA",
+    "Area": 2149690.0,
     "CallingCode": 966,
     "Capital": "Riyadh",
     "ThreeLettersCode": "KSA",
     "TwoLettersCode": "SA",
     "Demonym": "Saudi Arabian",
-    "Latitude": 25,
-    "LocalName": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629",
-    "Longitude": 45,
+    "Latitude": 25.0,
+    "LocalName": "المملكة العربية السعودية",
+    "Longitude": 45.0,
     "Name": "Saudi Arabia",
     "ShortName": "Saudi Arabia",
     "Languages": [
@@ -5281,15 +5474,16 @@
     ]
   },
   {
-    "Area": 196722,
+    "Code": "SN",
+    "Area": 196722.0,
     "CallingCode": 221,
     "Capital": "Dakar",
     "ThreeLettersCode": "SEN",
     "TwoLettersCode": "SN",
     "Demonym": "Senegalese",
-    "Latitude": 14,
-    "LocalName": "S\u00E9n\u00E9gal",
-    "Longitude": -14,
+    "Latitude": 14.0,
+    "LocalName": "Sénégal",
+    "Longitude": -14.0,
     "Name": "Senegal",
     "ShortName": "Senegal",
     "Languages": [
@@ -5306,15 +5500,16 @@
     ]
   },
   {
-    "Area": 88361,
+    "Code": "RS",
+    "Area": 88361.0,
     "CallingCode": 381,
     "Capital": "Belgrade",
     "ThreeLettersCode": "SRB",
     "TwoLettersCode": "RS",
     "Demonym": "Serbian",
-    "Latitude": 44,
-    "LocalName": "\u0421\u0440\u0431\u0438\u0458\u0430",
-    "Longitude": 21,
+    "Latitude": 44.0,
+    "LocalName": "Србија",
+    "Longitude": 21.0,
     "Name": "Serbia",
     "ShortName": "Serbia",
     "Languages": [
@@ -5331,7 +5526,8 @@
     ]
   },
   {
-    "Area": 452,
+    "Code": "SC",
+    "Area": 452.0,
     "CallingCode": 248,
     "Capital": "Victoria",
     "ThreeLettersCode": "SYC",
@@ -5360,7 +5556,8 @@
     ]
   },
   {
-    "Area": 71740,
+    "Code": "SL",
+    "Area": 71740.0,
     "CallingCode": 232,
     "Capital": "Freetown",
     "ThreeLettersCode": "SLE",
@@ -5385,7 +5582,8 @@
     ]
   },
   {
-    "Area": 710,
+    "Code": "SG",
+    "Area": 710.0,
     "CallingCode": 65,
     "Capital": "Singapore",
     "ThreeLettersCode": "SGP",
@@ -5426,7 +5624,8 @@
     ]
   },
   {
-    "Area": 34,
+    "Code": "SX",
+    "Area": 34.0,
     "CallingCode": 1721,
     "Capital": "Philipsburg",
     "ThreeLettersCode": "SXM",
@@ -5455,7 +5654,8 @@
     ]
   },
   {
-    "Area": 49037,
+    "Code": "SK",
+    "Area": 49037.0,
     "CallingCode": 421,
     "Capital": "Bratislava",
     "ThreeLettersCode": "SVK",
@@ -5480,7 +5680,8 @@
     ]
   },
   {
-    "Area": 20273,
+    "Code": "SI",
+    "Area": 20273.0,
     "CallingCode": 386,
     "Capital": "Ljubljana",
     "ThreeLettersCode": "SVN",
@@ -5505,15 +5706,16 @@
     ]
   },
   {
-    "Area": 28896,
+    "Code": "SB",
+    "Area": 28896.0,
     "CallingCode": 677,
     "Capital": "Honiara",
     "ThreeLettersCode": "SLB",
     "TwoLettersCode": "SB",
     "Demonym": "Solomon Islander",
-    "Latitude": -8,
+    "Latitude": -8.0,
     "LocalName": "Solomon Islands",
-    "Longitude": 159,
+    "Longitude": 159.0,
     "Name": "Solomon Islands",
     "ShortName": "Solomon Islands",
     "Languages": [
@@ -5530,15 +5732,16 @@
     ]
   },
   {
-    "Area": 637657,
+    "Code": "SO",
+    "Area": 637657.0,
     "CallingCode": 252,
     "Capital": "Mogadishu",
     "ThreeLettersCode": "SOM",
     "TwoLettersCode": "SO",
     "Demonym": "Somali",
-    "Latitude": 10,
+    "Latitude": 10.0,
     "LocalName": "Soomaaliya",
-    "Longitude": 49,
+    "Longitude": 49.0,
     "Name": "Somalia",
     "ShortName": "Somalia",
     "Languages": [
@@ -5559,15 +5762,16 @@
     ]
   },
   {
-    "Area": 1221037,
+    "Code": "ZA",
+    "Area": 1221037.0,
     "CallingCode": 27,
     "Capital": "Pretoria",
     "ThreeLettersCode": "ZAF",
     "TwoLettersCode": "ZA",
     "Demonym": "South African",
-    "Latitude": -29,
+    "Latitude": -29.0,
     "LocalName": "South Africa",
-    "Longitude": 24,
+    "Longitude": 24.0,
     "Name": "South Africa",
     "ShortName": "South Africa",
     "Languages": [
@@ -5620,6 +5824,7 @@
     ]
   },
   {
+    "Code": "GS",
     "Area": null,
     "CallingCode": 500,
     "Capital": "King Edward Point",
@@ -5628,7 +5833,7 @@
     "Demonym": "South Georgia and the South Sandwich Islander",
     "Latitude": -54.5,
     "LocalName": "South Georgia",
-    "Longitude": -37,
+    "Longitude": -37.0,
     "Name": "South Georgia and the South Sandwich Islands",
     "ShortName": "South Georgia and the South Sandwich Islands",
     "Languages": [
@@ -5649,14 +5854,15 @@
     ]
   },
   {
-    "Area": 100210,
+    "Code": "KR",
+    "Area": 100210.0,
     "CallingCode": 82,
     "Capital": "Seoul",
     "ThreeLettersCode": "KOR",
     "TwoLettersCode": "KR",
     "Demonym": "South Korean",
-    "Latitude": 37,
-    "LocalName": "\uB300\uD55C\uBBFC\uAD6D",
+    "Latitude": 37.0,
+    "LocalName": "대한민국",
     "Longitude": 127.5,
     "Name": "South Korea",
     "ShortName": "South Korea",
@@ -5674,15 +5880,16 @@
     ]
   },
   {
-    "Area": 619745,
+    "Code": "SS",
+    "Area": 619745.0,
     "CallingCode": 211,
     "Capital": "Juba",
     "ThreeLettersCode": "SSD",
     "TwoLettersCode": "SS",
     "Demonym": "South Sudanese",
-    "Latitude": 7,
+    "Latitude": 7.0,
     "LocalName": "South Sudan",
-    "Longitude": 30,
+    "Longitude": 30.0,
     "Name": "South Sudan",
     "ShortName": "South Sudan",
     "Languages": [
@@ -5699,15 +5906,16 @@
     ]
   },
   {
-    "Area": 505992,
+    "Code": "ES",
+    "Area": 505992.0,
     "CallingCode": 34,
     "Capital": "Madrid",
     "ThreeLettersCode": "ESP",
     "TwoLettersCode": "ES",
     "Demonym": "Spanish",
-    "Latitude": 40,
-    "LocalName": "Espa\u00F1a",
-    "Longitude": -4,
+    "Latitude": 40.0,
+    "LocalName": "España",
+    "Longitude": -4.0,
     "Name": "Spain",
     "ShortName": "Spain",
     "Languages": [
@@ -5724,15 +5932,16 @@
     ]
   },
   {
-    "Area": 65610,
+    "Code": "LK",
+    "Area": 65610.0,
     "CallingCode": 94,
     "Capital": "Colombo",
     "ThreeLettersCode": "LKA",
     "TwoLettersCode": "LK",
     "Demonym": "Sri Lankan",
-    "Latitude": 7,
-    "LocalName": "\u015Br\u012B la\u1E43k\u0101va",
-    "Longitude": 81,
+    "Latitude": 7.0,
+    "LocalName": "śrī laṃkāva",
+    "Longitude": 81.0,
     "Name": "Sri Lanka",
     "ShortName": "Sri Lanka",
     "Languages": [
@@ -5753,15 +5962,16 @@
     ]
   },
   {
-    "Area": 1886068,
+    "Code": "SD",
+    "Area": 1886068.0,
     "CallingCode": 249,
     "Capital": "Khartoum",
     "ThreeLettersCode": "SDN",
     "TwoLettersCode": "SD",
     "Demonym": "Sudanese",
-    "Latitude": 15,
-    "LocalName": "\u0627\u0644\u0633\u0648\u062F\u0627\u0646",
-    "Longitude": 30,
+    "Latitude": 15.0,
+    "LocalName": "السودان",
+    "Longitude": 30.0,
     "Name": "Sudan",
     "ShortName": "Sudan",
     "Languages": [
@@ -5782,15 +5992,16 @@
     ]
   },
   {
-    "Area": 163820,
+    "Code": "SR",
+    "Area": 163820.0,
     "CallingCode": 597,
     "Capital": "Paramaribo",
     "ThreeLettersCode": "SUR",
     "TwoLettersCode": "SR",
     "Demonym": "Surinamer",
-    "Latitude": 4,
+    "Latitude": 4.0,
     "LocalName": "Suriname",
-    "Longitude": -56,
+    "Longitude": -56.0,
     "Name": "Suriname",
     "ShortName": "Suriname",
     "Languages": [
@@ -5807,15 +6018,16 @@
     ]
   },
   {
+    "Code": "SJ",
     "Area": null,
     "CallingCode": 4779,
     "Capital": "Longyearbyen",
     "ThreeLettersCode": "SJM",
     "TwoLettersCode": "SJ",
     "Demonym": "Norwegian",
-    "Latitude": 78,
+    "Latitude": 78.0,
     "LocalName": "Svalbard og Jan Mayen",
-    "Longitude": 20,
+    "Longitude": 20.0,
     "Name": "Svalbard and Jan Mayen",
     "ShortName": "Svalbard and Jan Mayen",
     "Languages": [
@@ -5828,7 +6040,8 @@
     ]
   },
   {
-    "Area": 17364,
+    "Code": "SZ",
+    "Area": 17364.0,
     "CallingCode": 268,
     "Capital": "Lobamba",
     "ThreeLettersCode": "SWZ",
@@ -5857,15 +6070,16 @@
     ]
   },
   {
-    "Area": 450295,
+    "Code": "SE",
+    "Area": 450295.0,
     "CallingCode": 46,
     "Capital": "Stockholm",
     "ThreeLettersCode": "SWE",
     "TwoLettersCode": "SE",
     "Demonym": "Swedish",
-    "Latitude": 62,
+    "Latitude": 62.0,
     "LocalName": "Sverige",
-    "Longitude": 15,
+    "Longitude": 15.0,
     "Name": "Sweden",
     "ShortName": "Sweden",
     "Languages": [
@@ -5882,15 +6096,16 @@
     ]
   },
   {
-    "Area": 41284,
+    "Code": "CH",
+    "Area": 41284.0,
     "CallingCode": 41,
     "Capital": "Bern",
     "ThreeLettersCode": "CHE",
     "TwoLettersCode": "CH",
     "Demonym": "Swiss",
-    "Latitude": 47,
+    "Latitude": 47.0,
     "LocalName": "Schweiz",
-    "Longitude": 8,
+    "Longitude": 8.0,
     "Name": "Switzerland",
     "ShortName": "Switzerland",
     "Languages": [
@@ -5919,15 +6134,16 @@
     ]
   },
   {
-    "Area": 185180,
+    "Code": "SY",
+    "Area": 185180.0,
     "CallingCode": 963,
     "Capital": "Damascus",
     "ThreeLettersCode": "SYR",
     "TwoLettersCode": "SY",
     "Demonym": "Syrian",
-    "Latitude": 35,
-    "LocalName": "\u0633\u0648\u0631\u064A\u0627",
-    "Longitude": 38,
+    "Latitude": 35.0,
+    "LocalName": "سوريا",
+    "Longitude": 38.0,
     "Name": "Syria",
     "ShortName": "Syria",
     "Languages": [
@@ -5944,15 +6160,16 @@
     ]
   },
   {
-    "Area": 36193,
+    "Code": "TW",
+    "Area": 36193.0,
     "CallingCode": 886,
     "Capital": "Taipei",
     "ThreeLettersCode": "TWN",
     "TwoLettersCode": "TW",
     "Demonym": "Taiwanese",
     "Latitude": 23.5,
-    "LocalName": "\u81FA\u7063",
-    "Longitude": 121,
+    "LocalName": "臺灣",
+    "Longitude": 121.0,
     "Name": "Taiwan",
     "ShortName": "Taiwan",
     "Languages": [
@@ -5969,15 +6186,16 @@
     ]
   },
   {
-    "Area": 143100,
+    "Code": "TJ",
+    "Area": 143100.0,
     "CallingCode": 992,
     "Capital": "Dushanbe",
     "ThreeLettersCode": "TJK",
     "TwoLettersCode": "TJ",
     "Demonym": "Tadzhik",
-    "Latitude": 39,
-    "LocalName": "\u0422\u043E\u04B7\u0438\u043A\u0438\u0441\u0442\u043E\u043D",
-    "Longitude": 71,
+    "Latitude": 39.0,
+    "LocalName": "Тоҷикистон",
+    "Longitude": 71.0,
     "Name": "Tajikistan",
     "ShortName": "Tajikistan",
     "Languages": [
@@ -5998,15 +6216,16 @@
     ]
   },
   {
-    "Area": 947303,
+    "Code": "TZ",
+    "Area": 947303.0,
     "CallingCode": 255,
     "Capital": "Dodoma",
     "ThreeLettersCode": "TZA",
     "TwoLettersCode": "TZ",
     "Demonym": "Tanzanian",
-    "Latitude": -6,
+    "Latitude": -6.0,
     "LocalName": "Tanzania",
-    "Longitude": 35,
+    "Longitude": 35.0,
     "Name": "Tanzania",
     "ShortName": "Tanzania",
     "Languages": [
@@ -6027,15 +6246,16 @@
     ]
   },
   {
-    "Area": 513120,
+    "Code": "TH",
+    "Area": 513120.0,
     "CallingCode": 66,
     "Capital": "Bangkok",
     "ThreeLettersCode": "THA",
     "TwoLettersCode": "TH",
     "Demonym": "Thai",
-    "Latitude": 15,
-    "LocalName": "\u0E1B\u0E23\u0E30\u0E40\u0E17\u0E28\u0E44\u0E17\u0E22",
-    "Longitude": 100,
+    "Latitude": 15.0,
+    "LocalName": "ประเทศไทย",
+    "Longitude": 100.0,
     "Name": "Thailand",
     "ShortName": "Thailand",
     "Languages": [
@@ -6052,7 +6272,8 @@
     ]
   },
   {
-    "Area": 14874,
+    "Code": "TL",
+    "Area": 14874.0,
     "CallingCode": 670,
     "Capital": "Dili",
     "ThreeLettersCode": "TLS",
@@ -6077,13 +6298,14 @@
     ]
   },
   {
-    "Area": 56785,
+    "Code": "TG",
+    "Area": 56785.0,
     "CallingCode": 228,
-    "Capital": "Lom\u00E9",
+    "Capital": "Lomé",
     "ThreeLettersCode": "TGO",
     "TwoLettersCode": "TG",
     "Demonym": "Togolese",
-    "Latitude": 8,
+    "Latitude": 8.0,
     "LocalName": "Togo",
     "Longitude": 1.1666666269302368,
     "Name": "Togo",
@@ -6102,15 +6324,16 @@
     ]
   },
   {
-    "Area": 12,
+    "Code": "TK",
+    "Area": 12.0,
     "CallingCode": 690,
     "Capital": "Fakaofo",
     "ThreeLettersCode": "TKL",
     "TwoLettersCode": "TK",
     "Demonym": "Tokelauan",
-    "Latitude": -9,
+    "Latitude": -9.0,
     "LocalName": "Tokelau",
-    "Longitude": -172,
+    "Longitude": -172.0,
     "Name": "Tokelau",
     "ShortName": "Tokelau",
     "Languages": [
@@ -6127,15 +6350,16 @@
     ]
   },
   {
-    "Area": 747,
+    "Code": "TO",
+    "Area": 747.0,
     "CallingCode": 676,
-    "Capital": "Nuku\u0027alofa",
+    "Capital": "Nuku'alofa",
     "ThreeLettersCode": "TON",
     "TwoLettersCode": "TO",
     "Demonym": "Tongan",
-    "Latitude": -20,
+    "Latitude": -20.0,
     "LocalName": "Tonga",
-    "Longitude": -175,
+    "Longitude": -175.0,
     "Name": "Tonga",
     "ShortName": "Tonga",
     "Languages": [
@@ -6156,15 +6380,16 @@
     ]
   },
   {
-    "Area": 5130,
+    "Code": "TT",
+    "Area": 5130.0,
     "CallingCode": 1868,
     "Capital": "Port of Spain",
     "ThreeLettersCode": "TTO",
     "TwoLettersCode": "TT",
     "Demonym": "Trinidadian",
-    "Latitude": 11,
+    "Latitude": 11.0,
     "LocalName": "Trinidad and Tobago",
-    "Longitude": -61,
+    "Longitude": -61.0,
     "Name": "Trinidad and Tobago",
     "ShortName": "Trinidad and Tobago",
     "Languages": [
@@ -6181,15 +6406,16 @@
     ]
   },
   {
-    "Area": 163610,
+    "Code": "TN",
+    "Area": 163610.0,
     "CallingCode": 216,
     "Capital": "Tunis",
     "ThreeLettersCode": "TUN",
     "TwoLettersCode": "TN",
     "Demonym": "Tunisian",
-    "Latitude": 34,
-    "LocalName": "\u062A\u0648\u0646\u0633",
-    "Longitude": 9,
+    "Latitude": 34.0,
+    "LocalName": "تونس",
+    "Longitude": 9.0,
     "Name": "Tunisia",
     "ShortName": "Tunisia",
     "Languages": [
@@ -6206,15 +6432,16 @@
     ]
   },
   {
-    "Area": 783562,
+    "Code": "TR",
+    "Area": 783562.0,
     "CallingCode": 90,
     "Capital": "Ankara",
     "ThreeLettersCode": "TUR",
     "TwoLettersCode": "TR",
     "Demonym": "Turkish",
-    "Latitude": 39,
-    "LocalName": "T\u00FCrkiye",
-    "Longitude": 35,
+    "Latitude": 39.0,
+    "LocalName": "Türkiye",
+    "Longitude": 35.0,
     "Name": "Turkey",
     "ShortName": "Turkey",
     "Languages": [
@@ -6231,15 +6458,16 @@
     ]
   },
   {
-    "Area": 488100,
+    "Code": "TM",
+    "Area": 488100.0,
     "CallingCode": 993,
     "Capital": "Ashgabat",
     "ThreeLettersCode": "TKM",
     "TwoLettersCode": "TM",
     "Demonym": "Turkmen",
-    "Latitude": 40,
-    "LocalName": "T\u00FCrkmenistan",
-    "Longitude": 60,
+    "Latitude": 40.0,
+    "LocalName": "Türkmenistan",
+    "Longitude": 60.0,
     "Name": "Turkmenistan",
     "ShortName": "Turkmenistan",
     "Languages": [
@@ -6260,7 +6488,8 @@
     ]
   },
   {
-    "Area": 948,
+    "Code": "TC",
+    "Area": 948.0,
     "CallingCode": 1649,
     "Capital": "Cockburn Town",
     "ThreeLettersCode": "TCA",
@@ -6285,15 +6514,16 @@
     ]
   },
   {
-    "Area": 26,
+    "Code": "TV",
+    "Area": 26.0,
     "CallingCode": 688,
     "Capital": "Funafuti",
     "ThreeLettersCode": "TUV",
     "TwoLettersCode": "TV",
     "Demonym": "Tuvaluan",
-    "Latitude": -8,
+    "Latitude": -8.0,
     "LocalName": "Tuvalu",
-    "Longitude": 178,
+    "Longitude": 178.0,
     "Name": "Tuvalu",
     "ShortName": "Tuvalu",
     "Languages": [
@@ -6314,15 +6544,16 @@
     ]
   },
   {
-    "Area": 241550,
+    "Code": "UG",
+    "Area": 241550.0,
     "CallingCode": 256,
     "Capital": "Kampala",
     "ThreeLettersCode": "UGA",
     "TwoLettersCode": "UG",
     "Demonym": "Ugandan",
-    "Latitude": 1,
+    "Latitude": 1.0,
     "LocalName": "Uganda",
-    "Longitude": 32,
+    "Longitude": 32.0,
     "Name": "Uganda",
     "ShortName": "Uganda",
     "Languages": [
@@ -6343,15 +6574,16 @@
     ]
   },
   {
-    "Area": 603700,
+    "Code": "UA",
+    "Area": 603700.0,
     "CallingCode": 380,
     "Capital": "Kiev",
     "ThreeLettersCode": "UKR",
     "TwoLettersCode": "UA",
     "Demonym": "Ukrainian",
-    "Latitude": 49,
-    "LocalName": "\u0423\u043A\u0440\u0430\u0457\u043D\u0430",
-    "Longitude": 32,
+    "Latitude": 49.0,
+    "LocalName": "Україна",
+    "Longitude": 32.0,
     "Name": "Ukraine",
     "ShortName": "Ukraine",
     "Languages": [
@@ -6368,15 +6600,16 @@
     ]
   },
   {
-    "Area": 83600,
+    "Code": "AE",
+    "Area": 83600.0,
     "CallingCode": 971,
     "Capital": "Abu Dhabi",
     "ThreeLettersCode": "UAE",
     "TwoLettersCode": "AE",
     "Demonym": "Emirati",
-    "Latitude": 24,
-    "LocalName": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
-    "Longitude": 54,
+    "Latitude": 24.0,
+    "LocalName": "الإمارات العربية المتحدة",
+    "Longitude": 54.0,
     "Name": "United Arab Emirates",
     "ShortName": "Emirates",
     "Languages": [
@@ -6393,15 +6626,16 @@
     ]
   },
   {
-    "Area": 242495,
+    "Code": "GB",
+    "Area": 242495.0,
     "CallingCode": 44,
     "Capital": "London",
     "ThreeLettersCode": "GBR",
     "TwoLettersCode": "GB",
     "Demonym": "British",
-    "Latitude": 54,
+    "Latitude": 54.0,
     "LocalName": "United Kingdom",
-    "Longitude": -2,
+    "Longitude": -2.0,
     "Name": "United Kingdom",
     "ShortName": "United Kingdom",
     "Languages": [
@@ -6418,15 +6652,16 @@
     ]
   },
   {
-    "Area": 9629091,
+    "Code": "US",
+    "Area": 9629091.0,
     "CallingCode": 1,
     "Capital": "Washington, D.C.",
     "ThreeLettersCode": "USA",
     "TwoLettersCode": "US",
     "Demonym": "American",
-    "Latitude": 38,
+    "Latitude": 38.0,
     "LocalName": "United States",
-    "Longitude": -97,
+    "Longitude": -97.0,
     "Name": "United States of America",
     "ShortName": "United States",
     "Languages": [
@@ -6443,15 +6678,16 @@
     ]
   },
   {
-    "Area": 181034,
+    "Code": "UY",
+    "Area": 181034.0,
     "CallingCode": 598,
     "Capital": "Montevideo",
     "ThreeLettersCode": "URY",
     "TwoLettersCode": "UY",
     "Demonym": "Uruguayan",
-    "Latitude": -33,
+    "Latitude": -33.0,
     "LocalName": "Uruguay",
-    "Longitude": -56,
+    "Longitude": -56.0,
     "Name": "Uruguay",
     "ShortName": "Uruguay",
     "Languages": [
@@ -6468,15 +6704,16 @@
     ]
   },
   {
-    "Area": 447400,
+    "Code": "UZ",
+    "Area": 447400.0,
     "CallingCode": 998,
     "Capital": "Tashkent",
     "ThreeLettersCode": "UZB",
     "TwoLettersCode": "UZ",
     "Demonym": "Uzbekistani",
-    "Latitude": 41,
-    "LocalName": "O\u2018zbekiston",
-    "Longitude": 64,
+    "Latitude": 41.0,
+    "LocalName": "O‘zbekiston",
+    "Longitude": 64.0,
     "Name": "Uzbekistan",
     "ShortName": "Uzbekistan",
     "Languages": [
@@ -6497,15 +6734,16 @@
     ]
   },
   {
-    "Area": 12189,
+    "Code": "VU",
+    "Area": 12189.0,
     "CallingCode": 678,
     "Capital": "Port Vila",
     "ThreeLettersCode": "VUT",
     "TwoLettersCode": "VU",
     "Demonym": "Ni-Vanuatu",
-    "Latitude": -16,
+    "Latitude": -16.0,
     "LocalName": "Vanuatu",
-    "Longitude": 167,
+    "Longitude": 167.0,
     "Name": "Vanuatu",
     "ShortName": "Vanuatu",
     "Languages": [
@@ -6526,15 +6764,16 @@
     ]
   },
   {
-    "Area": 916445,
+    "Code": "VE",
+    "Area": 916445.0,
     "CallingCode": 58,
     "Capital": "Caracas",
     "ThreeLettersCode": "VEN",
     "TwoLettersCode": "VE",
     "Demonym": "Venezuelan",
-    "Latitude": 8,
+    "Latitude": 8.0,
     "LocalName": "Venezuela",
-    "Longitude": -66,
+    "Longitude": -66.0,
     "Name": "Venezuela",
     "ShortName": "Venezuela",
     "Languages": [
@@ -6551,14 +6790,15 @@
     ]
   },
   {
-    "Area": 331212,
+    "Code": "VN",
+    "Area": 331212.0,
     "CallingCode": 84,
     "Capital": "Hanoi",
     "ThreeLettersCode": "VNM",
     "TwoLettersCode": "VN",
     "Demonym": "Vietnamese",
     "Latitude": 16.16666603088379,
-    "LocalName": "Vi\u1EC7t Nam",
+    "LocalName": "Việt Nam",
     "Longitude": 107.83333587646484,
     "Name": "Viet Nam",
     "ShortName": "Viet Nam",
@@ -6576,6 +6816,7 @@
     ]
   },
   {
+    "Code": "VI",
     "Area": 346.359985351563,
     "CallingCode": 1340,
     "Capital": "Charlotte Amalie",
@@ -6601,7 +6842,8 @@
     ]
   },
   {
-    "Area": 142,
+    "Code": "WF",
+    "Area": 142.0,
     "CallingCode": 681,
     "Capital": "Mata-Utu",
     "ThreeLettersCode": "WLF",
@@ -6626,15 +6868,16 @@
     ]
   },
   {
-    "Area": 266000,
+    "Code": "EH",
+    "Area": 266000.0,
     "CallingCode": 212,
-    "Capital": "El Aai\u00FAn",
+    "Capital": "El Aaiún",
     "ThreeLettersCode": "ESH",
     "TwoLettersCode": "EH",
     "Demonym": "Sahrawi",
     "Latitude": 24.5,
-    "LocalName": "\u0627\u0644\u0635\u062D\u0631\u0627\u0621 \u0627\u0644\u063A\u0631\u0628\u064A\u0629",
-    "Longitude": -13,
+    "LocalName": "الصحراء الغربية",
+    "Longitude": -13.0,
     "Name": "Western Sahara",
     "ShortName": "Western Sahara",
     "Languages": [
@@ -6655,15 +6898,16 @@
     ]
   },
   {
-    "Area": 527968,
+    "Code": "YE",
+    "Area": 527968.0,
     "CallingCode": 967,
-    "Capital": "Sana\u0027a",
+    "Capital": "Sana'a",
     "ThreeLettersCode": "YEM",
     "TwoLettersCode": "YE",
     "Demonym": "Yemeni",
-    "Latitude": 15,
-    "LocalName": "\u0627\u0644\u064A\u064E\u0645\u064E\u0646",
-    "Longitude": 48,
+    "Latitude": 15.0,
+    "LocalName": "اليَمَن",
+    "Longitude": 48.0,
     "Name": "Yemen",
     "ShortName": "Yemen",
     "Languages": [
@@ -6680,15 +6924,16 @@
     ]
   },
   {
-    "Area": 752612,
+    "Code": "ZM",
+    "Area": 752612.0,
     "CallingCode": 260,
     "Capital": "Lusaka",
     "ThreeLettersCode": "ZMB",
     "TwoLettersCode": "ZM",
     "Demonym": "Zambian",
-    "Latitude": -15,
+    "Latitude": -15.0,
     "LocalName": "Zambia",
-    "Longitude": 30,
+    "Longitude": 30.0,
     "Name": "Zambia",
     "ShortName": "Zambia",
     "Languages": [
@@ -6705,15 +6950,16 @@
     ]
   },
   {
-    "Area": 390757,
+    "Code": "ZW",
+    "Area": 390757.0,
     "CallingCode": 263,
     "Capital": "Harare",
     "ThreeLettersCode": "ZWE",
     "TwoLettersCode": "ZW",
     "Demonym": "Zimbabwean",
-    "Latitude": -20,
+    "Latitude": -20.0,
     "LocalName": "Zimbabwe",
-    "Longitude": 30,
+    "Longitude": 30.0,
     "Name": "Zimbabwe",
     "ShortName": "Zimbabwe",
     "Languages": [

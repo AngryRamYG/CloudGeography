@@ -1,0 +1,482 @@
+[
+  {
+    "Code": "AFN"
+  },
+  {
+    "Code": "ALL"
+  },
+  {
+    "Code": "DZD"
+  },
+  {
+    "Code": "AOA"
+  },
+  {
+    "Code": "ARS"
+  },
+  {
+    "Code": "AMD"
+  },
+  {
+    "Code": "AWG"
+  },
+  {
+    "Code": "AUD"
+  },
+  {
+    "Code": "AZN"
+  },
+  {
+    "Code": "BSD"
+  },
+  {
+    "Code": "BHD"
+  },
+  {
+    "Code": "BDT"
+  },
+  {
+    "Code": "BBD"
+  },
+  {
+    "Code": "BYN"
+  },
+  {
+    "Code": "BZD"
+  },
+  {
+    "Code": "BMD"
+  },
+  {
+    "Code": "BTN"
+  },
+  {
+    "Code": "BOB"
+  },
+  {
+    "Code": "BAM"
+  },
+  {
+    "Code": "BWP"
+  },
+  {
+    "Code": "BRL"
+  },
+  {
+    "Code": "GBP"
+  },
+  {
+    "Code": "BND"
+  },
+  {
+    "Code": "BGN"
+  },
+  {
+    "Code": "MMK"
+  },
+  {
+    "Code": "BIF"
+  },
+  {
+    "Code": "KHR"
+  },
+  {
+    "Code": "CAD"
+  },
+  {
+    "Code": "CVE"
+  },
+  {
+    "Code": "KYD"
+  },
+  {
+    "Code": "XAF"
+  },
+  {
+    "Code": "XPF"
+  },
+  {
+    "Code": "CLP"
+  },
+  {
+    "Code": "CNY"
+  },
+  {
+    "Code": "COP"
+  },
+  {
+    "Code": "KMF"
+  },
+  {
+    "Code": "CDF"
+  },
+  {
+    "Code": "CKD"
+  },
+  {
+    "Code": "CRC"
+  },
+  {
+    "Code": "HRK"
+  },
+  {
+    "Code": "CUC"
+  },
+  {
+    "Code": "CUP"
+  },
+  {
+    "Code": "CZK"
+  },
+  {
+    "Code": "DKK"
+  },
+  {
+    "Code": "DJF"
+  },
+  {
+    "Code": "DOP"
+  },
+  {
+    "Code": "XCD"
+  },
+  {
+    "Code": "EGP"
+  },
+  {
+    "Code": "ERN"
+  },
+  {
+    "Code": "ETB"
+  },
+  {
+    "Code": "EUR"
+  },
+  {
+    "Code": "FKP"
+  },
+  {
+    "Code": "FOK"
+  },
+  {
+    "Code": "FJD"
+  },
+  {
+    "Code": "GMD"
+  },
+  {
+    "Code": "GEL"
+  },
+  {
+    "Code": "GHS"
+  },
+  {
+    "Code": "GIP"
+  },
+  {
+    "Code": "GTQ"
+  },
+  {
+    "Code": "GNF"
+  },
+  {
+    "Code": "GYD"
+  },
+  {
+    "Code": "HTG"
+  },
+  {
+    "Code": "HNL"
+  },
+  {
+    "Code": "HKD"
+  },
+  {
+    "Code": "HUF"
+  },
+  {
+    "Code": "ISK"
+  },
+  {
+    "Code": "INR"
+  },
+  {
+    "Code": "IDR"
+  },
+  {
+    "Code": "IRR"
+  },
+  {
+    "Code": "IQD"
+  },
+  {
+    "Code": "ILS"
+  },
+  {
+    "Code": "JMD"
+  },
+  {
+    "Code": "JPY"
+  },
+  {
+    "Code": "JEP"
+  },
+  {
+    "Code": "JOD"
+  },
+  {
+    "Code": "KZT"
+  },
+  {
+    "Code": "KES"
+  },
+  {
+    "Code": "KWD"
+  },
+  {
+    "Code": "KGS"
+  },
+  {
+    "Code": "LAK"
+  },
+  {
+    "Code": "LBP"
+  },
+  {
+    "Code": "LSL"
+  },
+  {
+    "Code": "LRD"
+  },
+  {
+    "Code": "LYD"
+  },
+  {
+    "Code": "MOP"
+  },
+  {
+    "Code": "MKD"
+  },
+  {
+    "Code": "MGA"
+  },
+  {
+    "Code": "MWK"
+  },
+  {
+    "Code": "MYR"
+  },
+  {
+    "Code": "MVR"
+  },
+  {
+    "Code": "IMP"
+  },
+  {
+    "Code": "MRO"
+  },
+  {
+    "Code": "MUR"
+  },
+  {
+    "Code": "MXN"
+  },
+  {
+    "Code": "MDL"
+  },
+  {
+    "Code": "MNT"
+  },
+  {
+    "Code": "MAD"
+  },
+  {
+    "Code": "MZN"
+  },
+  {
+    "Code": "NAD"
+  },
+  {
+    "Code": "NPR"
+  },
+  {
+    "Code": "ANG"
+  },
+  {
+    "Code": "TWD"
+  },
+  {
+    "Code": "NZD"
+  },
+  {
+    "Code": "NIO"
+  },
+  {
+    "Code": "NGN"
+  },
+  {
+    "Code": "KPW"
+  },
+  {
+    "Code": "NOK"
+  },
+  {
+    "Code": "OMR"
+  },
+  {
+    "Code": "PKR"
+  },
+  {
+    "Code": "PAB"
+  },
+  {
+    "Code": "PGK"
+  },
+  {
+    "Code": "PYG"
+  },
+  {
+    "Code": "PEN"
+  },
+  {
+    "Code": "PHP"
+  },
+  {
+    "Code": "PLN"
+  },
+  {
+    "Code": "QAR"
+  },
+  {
+    "Code": "RON"
+  },
+  {
+    "Code": "RUB"
+  },
+  {
+    "Code": "RWF"
+  },
+  {
+    "Code": "SHP"
+  },
+  {
+    "Code": "WST"
+  },
+  {
+    "Code": "STN"
+  },
+  {
+    "Code": "SAR"
+  },
+  {
+    "Code": "RSD"
+  },
+  {
+    "Code": "SCR"
+  },
+  {
+    "Code": "SLL"
+  },
+  {
+    "Code": "SGD"
+  },
+  {
+    "Code": "SBD"
+  },
+  {
+    "Code": "SOS"
+  },
+  {
+    "Code": "ZAR"
+  },
+  {
+    "Code": "KRW"
+  },
+  {
+    "Code": "SSP"
+  },
+  {
+    "Code": "LKR"
+  },
+  {
+    "Code": "SDG"
+  },
+  {
+    "Code": "SRD"
+  },
+  {
+    "Code": "SZL"
+  },
+  {
+    "Code": "SEK"
+  },
+  {
+    "Code": "CHF"
+  },
+  {
+    "Code": "SYP"
+  },
+  {
+    "Code": "TJS"
+  },
+  {
+    "Code": "TZS"
+  },
+  {
+    "Code": "THB"
+  },
+  {
+    "Code": "TOP"
+  },
+  {
+    "Code": "TTD"
+  },
+  {
+    "Code": "TND"
+  },
+  {
+    "Code": "TRY"
+  },
+  {
+    "Code": "TMT"
+  },
+  {
+    "Code": "TVD"
+  },
+  {
+    "Code": "UGX"
+  },
+  {
+    "Code": "UAH"
+  },
+  {
+    "Code": "AED"
+  },
+  {
+    "Code": "USD"
+  },
+  {
+    "Code": "UYU"
+  },
+  {
+    "Code": "UZS"
+  },
+  {
+    "Code": "VUV"
+  },
+  {
+    "Code": "VEF"
+  },
+  {
+    "Code": "VND"
+  },
+  {
+    "Code": "XOF"
+  },
+  {
+    "Code": "YER"
+  },
+  {
+    "Code": "ZMW"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Code": "1",
+    "Name": "Berat",
+    "LocalName": "Berat",
+    "Type": "County"
+  },
+  {
+    "Code": "9",
+    "Name": "Dibër",
+    "LocalName": "Dibër",
+    "Type": "County"
+  },
+  {
+    "Code": "2",
+    "Name": "Durrës",
+    "LocalName": "Durrës",
+    "Type": "County"
+  },
+  {
+    "Code": "3",
+    "Name": "Elbasan",
+    "LocalName": "Elbasan",
+    "Type": "County"
+  },
+  {
+    "Code": "4",
+    "Name": "Fier",
+    "LocalName": "Fier",
+    "Type": "County"
+  },
+  {
+    "Code": "5",
+    "Name": "Gjirokastër",
+    "LocalName": "Gjirokastër",
+    "Type": "County"
+  },
+  {
+    "Code": "6",
+    "Name": "Korçë",
+    "LocalName": "Korçë",
+    "Type": "County"
+  },
+  {
+    "Code": "7",
+    "Name": "Kukës",
+    "LocalName": "Kukës",
+    "Type": "County"
+  },
+  {
+    "Code": "8",
+    "Name": "Lezhë",
+    "LocalName": "Lezhë",
+    "Type": "County"
+  },
+  {
+    "Code": "10",
+    "Name": "Shkodër",
+    "LocalName": "Shkodër",
+    "Type": "County"
+  },
+  {
+    "Code": "11",
+    "Name": "Tiranë",
+    "LocalName": "Tiranë",
+    "Type": "County"
+  },
+  {
+    "Code": "12",
+    "Name": "Vlorë",
+    "LocalName": "Vlorë",
+    "Type": "County"
+  }
+]

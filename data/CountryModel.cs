@@ -4,6 +4,8 @@ namespace data
     public class CountryModel
     {
 
+        public string Code { get; set; }
+
         public double? Area { get; set; }
 
 
