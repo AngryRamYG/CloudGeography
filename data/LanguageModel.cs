@@ -7,7 +7,7 @@ namespace data
          
         public string ThreeLettersCode { get; set; }
 
-        public TextDirection Direction { get; set; }
+        public string Direction { get; set; }
 
         public string Name { get; set; }
 

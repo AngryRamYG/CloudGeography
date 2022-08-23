@@ -1,1126 +1,1969 @@
 [
   {
     "Code": "AA",
-    "ThreeLettersCode": "AAR"
+    "ThreeLettersCode": "AAR",
+    "Direction": "LTR",
+    "Name": "Afar",
+    "NativeName": "Qafar"
   },
   {
     "Code": "AF",
-    "ThreeLettersCode": "AFR"
+    "ThreeLettersCode": "AFR",
+    "Direction": "LTR",
+    "Name": "Afrikaans",
+    "NativeName": "Afrikaans"
   },
   {
     "Code": "AGQ",
-    "ThreeLettersCode": "AGQ"
+    "ThreeLettersCode": "AGQ",
+    "Direction": "LTR",
+    "Name": "Aghem",
+    "NativeName": "Aghem"
   },
   {
     "Code": "AK",
-    "ThreeLettersCode": "AKA"
+    "ThreeLettersCode": "AKA",
+    "Direction": "LTR",
+    "Name": "Akan",
+    "NativeName": "Akan"
   },
   {
     "Code": "SQ",
-    "ThreeLettersCode": "SQI"
+    "ThreeLettersCode": "SQI",
+    "Direction": "LTR",
+    "Name": "Albanian",
+    "NativeName": "shqip"
   },
   {
     "Code": "AM",
-    "ThreeLettersCode": "AMH"
+    "ThreeLettersCode": "AMH",
+    "Direction": "LTR",
+    "Name": "Amharic",
+    "NativeName": "አማርኛ"
   },
   {
     "Code": "AR",
-    "ThreeLettersCode": "ARA"
+    "ThreeLettersCode": "ARA",
+    "Direction": "RTL",
+    "Name": "Arabic",
+    "NativeName": "العربية"
   },
   {
     "Code": "HY",
-    "ThreeLettersCode": "HYE"
+    "ThreeLettersCode": "HYE",
+    "Direction": "LTR",
+    "Name": "Armenian",
+    "NativeName": "Հայերեն"
   },
   {
     "Code": "AS",
-    "ThreeLettersCode": "ASM"
+    "ThreeLettersCode": "ASM",
+    "Direction": "LTR",
+    "Name": "Assamese",
+    "NativeName": "অসমীয়া"
   },
   {
     "Code": "AST",
-    "ThreeLettersCode": "AST"
+    "ThreeLettersCode": "AST",
+    "Direction": "LTR",
+    "Name": "Asturian",
+    "NativeName": "asturianu"
   },
   {
     "Code": "ASA",
-    "ThreeLettersCode": "ASA"
+    "ThreeLettersCode": "ASA",
+    "Direction": "LTR",
+    "Name": "Asu",
+    "NativeName": "Kipare"
   },
   {
     "Code": "AZ",
-    "ThreeLettersCode": "AZE"
+    "ThreeLettersCode": "AZE",
+    "Direction": "LTR",
+    "Name": "Azerbaijani",
+    "NativeName": "azərbaycan"
   },
   {
     "Code": "AZ",
-    "ThreeLettersCode": "AZE"
+    "ThreeLettersCode": "AZE",
+    "Direction": "LTR",
+    "Name": "Azerbaijani (Cyrillic)",
+    "NativeName": "Азәрбајҹан дили"
   },
   {
     "Code": "AZ",
-    "ThreeLettersCode": "AZE"
+    "ThreeLettersCode": "AZE",
+    "Direction": "LTR",
+    "Name": "Azerbaijani (Latin)",
+    "NativeName": "azərbaycan"
   },
   {
     "Code": "KSF",
-    "ThreeLettersCode": "KSF"
+    "ThreeLettersCode": "KSF",
+    "Direction": "LTR",
+    "Name": "Bafia",
+    "NativeName": "rikpa"
   },
   {
     "Code": "BM",
-    "ThreeLettersCode": "BAM"
+    "ThreeLettersCode": "BAM",
+    "Direction": "LTR",
+    "Name": "Bamanankan",
+    "NativeName": "bamanakan"
   },
   {
     "Code": "BM",
-    "ThreeLettersCode": "BAM"
+    "ThreeLettersCode": "BAM",
+    "Direction": "LTR",
+    "Name": "Bamanankan (Latin)",
+    "NativeName": "bamanakan"
   },
   {
     "Code": "BN",
-    "ThreeLettersCode": "BEN"
+    "ThreeLettersCode": "BEN",
+    "Direction": "LTR",
+    "Name": "Bangla",
+    "NativeName": "বাংলা"
   },
   {
     "Code": "BAS",
-    "ThreeLettersCode": "BAS"
+    "ThreeLettersCode": "BAS",
+    "Direction": "LTR",
+    "Name": "Basaa",
+    "NativeName": "Ɓàsàa"
   },
   {
     "Code": "BA",
-    "ThreeLettersCode": "BAK"
+    "ThreeLettersCode": "BAK",
+    "Direction": "LTR",
+    "Name": "Bashkir",
+    "NativeName": "Башҡорт"
   },
   {
     "Code": "EU",
-    "ThreeLettersCode": "EUS"
+    "ThreeLettersCode": "EUS",
+    "Direction": "LTR",
+    "Name": "Basque",
+    "NativeName": "euskara"
   },
   {
     "Code": "BE",
-    "ThreeLettersCode": "BEL"
+    "ThreeLettersCode": "BEL",
+    "Direction": "LTR",
+    "Name": "Belarusian",
+    "NativeName": "Беларуская"
   },
   {
     "Code": "BEM",
-    "ThreeLettersCode": "BEM"
+    "ThreeLettersCode": "BEM",
+    "Direction": "LTR",
+    "Name": "Bemba",
+    "NativeName": "Ichibemba"
   },
   {
     "Code": "BEZ",
-    "ThreeLettersCode": "BEZ"
+    "ThreeLettersCode": "BEZ",
+    "Direction": "LTR",
+    "Name": "Bena",
+    "NativeName": "Hibena"
   },
   {
     "Code": "BER",
-    "ThreeLettersCode": "BER"
+    "ThreeLettersCode": "BER",
+    "Direction": "LTR",
+    "Name": "Berber",
+    "NativeName": "Berber"
   },
   {
     "Code": "BYN",
-    "ThreeLettersCode": "BYN"
+    "ThreeLettersCode": "BYN",
+    "Direction": "LTR",
+    "Name": "Blin",
+    "NativeName": "ብሊን"
   },
   {
     "Code": "BRX",
-    "ThreeLettersCode": "BRX"
+    "ThreeLettersCode": "BRX",
+    "Direction": "LTR",
+    "Name": "Bodo",
+    "NativeName": "बड़ो"
   },
   {
     "Code": "BS",
-    "ThreeLettersCode": "BOS"
+    "ThreeLettersCode": "BOS",
+    "Direction": "LTR",
+    "Name": "Bosnian",
+    "NativeName": "bosanski"
   },
   {
     "Code": "BS",
-    "ThreeLettersCode": "BOS"
+    "ThreeLettersCode": "BOS",
+    "Direction": "LTR",
+    "Name": "Bosnian (Cyrillic)",
+    "NativeName": "босански"
   },
   {
     "Code": "BS",
-    "ThreeLettersCode": "BOS"
+    "ThreeLettersCode": "BOS",
+    "Direction": "LTR",
+    "Name": "Bosnian (Latin)",
+    "NativeName": "bosanski"
   },
   {
     "Code": "BR",
-    "ThreeLettersCode": "BRE"
+    "ThreeLettersCode": "BRE",
+    "Direction": "LTR",
+    "Name": "Breton",
+    "NativeName": "brezhoneg"
   },
   {
     "Code": "BG",
-    "ThreeLettersCode": "BUL"
+    "ThreeLettersCode": "BUL",
+    "Direction": "LTR",
+    "Name": "Bulgarian",
+    "NativeName": "български"
   },
   {
     "Code": "MY",
-    "ThreeLettersCode": "MYA"
+    "ThreeLettersCode": "MYA",
+    "Direction": "LTR",
+    "Name": "Burmese",
+    "NativeName": "ဗမာ"
   },
   {
     "Code": "CA",
-    "ThreeLettersCode": "CAT"
+    "ThreeLettersCode": "CAT",
+    "Direction": "LTR",
+    "Name": "Catalan",
+    "NativeName": "català"
   },
   {
     "Code": "TZM",
-    "ThreeLettersCode": "TZM"
+    "ThreeLettersCode": "TZM",
+    "Direction": "LTR",
+    "Name": "Central Atlas Tamazight",
+    "NativeName": "Tamaziɣt n laṭlaṣ"
   },
   {
     "Code": "TZM",
-    "ThreeLettersCode": "TZM"
+    "ThreeLettersCode": "TZM",
+    "Direction": "RTL",
+    "Name": "Central Atlas Tamazight (Arabic)",
+    "NativeName": "أطلس المركزية التامازيتية"
   },
   {
     "Code": "TZM",
-    "ThreeLettersCode": "TZM"
+    "ThreeLettersCode": "TZM",
+    "Direction": "LTR",
+    "Name": "Central Atlas Tamazight (Latin)",
+    "NativeName": "Tamaziɣt n laṭlaṣ"
   },
   {
     "Code": "TZM",
-    "ThreeLettersCode": "TZM"
+    "ThreeLettersCode": "TZM",
+    "Direction": "LTR",
+    "Name": "Central Atlas Tamazight (Tifinagh)",
+    "NativeName": "ⵜⴰⵎⴰⵣⵉⵖⵜ"
   },
   {
     "Code": "KU",
-    "ThreeLettersCode": "KUR"
+    "ThreeLettersCode": "KUR",
+    "Direction": "RTL",
+    "Name": "Central Kurdish",
+    "NativeName": "کوردیی ناوەڕاست"
   },
   {
     "Code": "KU",
-    "ThreeLettersCode": "KUR"
+    "ThreeLettersCode": "KUR",
+    "Direction": "RTL",
+    "Name": "Central Kurdish",
+    "NativeName": "کوردیی ناوەڕاست"
   },
   {
     "Code": "CE",
-    "ThreeLettersCode": "CHE"
+    "ThreeLettersCode": "CHE",
+    "Direction": "LTR",
+    "Name": "Chechen",
+    "NativeName": "нохчийн"
   },
   {
     "Code": "CHR",
-    "ThreeLettersCode": "CHR"
+    "ThreeLettersCode": "CHR",
+    "Direction": "LTR",
+    "Name": "Cherokee",
+    "NativeName": "ᏣᎳᎩ"
   },
   {
     "Code": "CHR",
-    "ThreeLettersCode": "CHR"
+    "ThreeLettersCode": "CHR",
+    "Direction": "LTR",
+    "Name": "Cherokee",
+    "NativeName": "ᏣᎳᎩ"
   },
   {
     "Code": "CGG",
-    "ThreeLettersCode": "CGG"
+    "ThreeLettersCode": "CGG",
+    "Direction": "LTR",
+    "Name": "Chiga",
+    "NativeName": "Rukiga"
   },
   {
     "Code": "ZH",
-    "ThreeLettersCode": "ZHO"
+    "ThreeLettersCode": "ZHO",
+    "Direction": "LTR",
+    "Name": "Chinese",
+    "NativeName": "中文"
   },
   {
     "Code": "ZH",
-    "ThreeLettersCode": "ZHO"
+    "ThreeLettersCode": "ZHO",
+    "Direction": "LTR",
+    "Name": "Chinese (Simplified)",
+    "NativeName": "中文(简体)"
   },
   {
     "Code": "ZH",
-    "ThreeLettersCode": "ZHO"
+    "ThreeLettersCode": "ZHO",
+    "Direction": "LTR",
+    "Name": "Chinese (Simplified) Legacy",
+    "NativeName": "中文(简体) 旧版"
   },
   {
     "Code": "ZH",
-    "ThreeLettersCode": "ZHO"
+    "ThreeLettersCode": "ZHO",
+    "Direction": "LTR",
+    "Name": "Chinese (Traditional)",
+    "NativeName": "中文(繁體)"
   },
   {
     "Code": "ZH",
-    "ThreeLettersCode": "ZHO"
+    "ThreeLettersCode": "ZHO",
+    "Direction": "LTR",
+    "Name": "Chinese (Traditional) Legacy",
+    "NativeName": "中文(繁體) 舊版"
   },
   {
     "Code": "CU",
-    "ThreeLettersCode": "CHU"
+    "ThreeLettersCode": "CHU",
+    "Direction": "LTR",
+    "Name": "Church Slavic",
+    "NativeName": "церковнослове́нскїй"
   },
   {
     "Code": "KSH",
-    "ThreeLettersCode": "KSH"
+    "ThreeLettersCode": "KSH",
+    "Direction": "LTR",
+    "Name": "Colognian",
+    "NativeName": "Kölsch"
   },
   {
     "Code": "KW",
-    "ThreeLettersCode": "COR"
+    "ThreeLettersCode": "COR",
+    "Direction": "LTR",
+    "Name": "Cornish",
+    "NativeName": "kernewek"
   },
   {
     "Code": "CO",
-    "ThreeLettersCode": "COS"
+    "ThreeLettersCode": "COS",
+    "Direction": "LTR",
+    "Name": "Corsican",
+    "NativeName": "Corsu"
   },
   {
     "Code": "HR",
-    "ThreeLettersCode": "HRV"
+    "ThreeLettersCode": "HRV",
+    "Direction": "LTR",
+    "Name": "Croatian",
+    "NativeName": "hrvatski"
   },
   {
     "Code": "CS",
-    "ThreeLettersCode": "CES"
+    "ThreeLettersCode": "CES",
+    "Direction": "LTR",
+    "Name": "Czech",
+    "NativeName": "čeština"
   },
   {
     "Code": "DA",
-    "ThreeLettersCode": "DAN"
+    "ThreeLettersCode": "DAN",
+    "Direction": "LTR",
+    "Name": "Danish",
+    "NativeName": "dansk"
   },
   {
     "Code": "PRS",
-    "ThreeLettersCode": "PRS"
+    "ThreeLettersCode": "PRS",
+    "Direction": "RTL",
+    "Name": "Dari",
+    "NativeName": "درى"
   },
   {
     "Code": "DV",
-    "ThreeLettersCode": "DIV"
+    "ThreeLettersCode": "DIV",
+    "Direction": "RTL",
+    "Name": "Divehi",
+    "NativeName": "ދިވެހިބަސް"
   },
   {
     "Code": "DUA",
-    "ThreeLettersCode": "DUA"
+    "ThreeLettersCode": "DUA",
+    "Direction": "LTR",
+    "Name": "Duala",
+    "NativeName": "duálá"
   },
   {
     "Code": "NL",
-    "ThreeLettersCode": "NLD"
+    "ThreeLettersCode": "NLD",
+    "Direction": "LTR",
+    "Name": "Dutch",
+    "NativeName": "Nederlands"
   },
   {
     "Code": "DZ",
-    "ThreeLettersCode": "DZO"
+    "ThreeLettersCode": "DZO",
+    "Direction": "LTR",
+    "Name": "Dzongkha",
+    "NativeName": "རྫོང་ཁ"
   },
   {
     "Code": "BIN",
-    "ThreeLettersCode": "BIN"
+    "ThreeLettersCode": "BIN",
+    "Direction": "LTR",
+    "Name": "Edo",
+    "NativeName": "Ẹ̀dó"
   },
   {
     "Code": "EBU",
-    "ThreeLettersCode": "EBU"
+    "ThreeLettersCode": "EBU",
+    "Direction": "LTR",
+    "Name": "Embu",
+    "NativeName": "Kĩembu"
   },
   {
     "Code": "EN",
-    "ThreeLettersCode": "ENG"
+    "ThreeLettersCode": "ENG",
+    "Direction": "LTR",
+    "Name": "English",
+    "NativeName": "English"
   },
   {
     "Code": "EO",
-    "ThreeLettersCode": "EPO"
+    "ThreeLettersCode": "EPO",
+    "Direction": "LTR",
+    "Name": "Esperanto",
+    "NativeName": "esperanto"
   },
   {
     "Code": "ET",
-    "ThreeLettersCode": "EST"
+    "ThreeLettersCode": "EST",
+    "Direction": "LTR",
+    "Name": "Estonian",
+    "NativeName": "eesti"
   },
   {
     "Code": "EE",
-    "ThreeLettersCode": "EWE"
+    "ThreeLettersCode": "EWE",
+    "Direction": "LTR",
+    "Name": "Ewe",
+    "NativeName": "Eʋegbe"
   },
   {
     "Code": "EWO",
-    "ThreeLettersCode": "EWO"
+    "ThreeLettersCode": "EWO",
+    "Direction": "LTR",
+    "Name": "Ewondo",
+    "NativeName": "ewondo"
   },
   {
     "Code": "FO",
-    "ThreeLettersCode": "FAO"
+    "ThreeLettersCode": "FAO",
+    "Direction": "LTR",
+    "Name": "Faroese",
+    "NativeName": "føroyskt"
   },
   {
     "Code": "FIL",
-    "ThreeLettersCode": "FIL"
+    "ThreeLettersCode": "FIL",
+    "Direction": "LTR",
+    "Name": "Filipino",
+    "NativeName": "Filipino"
   },
   {
     "Code": "FI",
-    "ThreeLettersCode": "FIN"
+    "ThreeLettersCode": "FIN",
+    "Direction": "LTR",
+    "Name": "Finnish",
+    "NativeName": "suomi"
   },
   {
     "Code": "FR",
-    "ThreeLettersCode": "FRA"
+    "ThreeLettersCode": "FRA",
+    "Direction": "LTR",
+    "Name": "French",
+    "NativeName": "français"
   },
   {
     "Code": "FUR",
-    "ThreeLettersCode": "FUR"
+    "ThreeLettersCode": "FUR",
+    "Direction": "LTR",
+    "Name": "Friulian",
+    "NativeName": "furlan"
   },
   {
     "Code": "FF",
-    "ThreeLettersCode": "FUL"
+    "ThreeLettersCode": "FUL",
+    "Direction": "LTR",
+    "Name": "Fulah",
+    "NativeName": "Fulah"
   },
   {
     "Code": "FF",
-    "ThreeLettersCode": "FUL"
+    "ThreeLettersCode": "FUL",
+    "Direction": "LTR",
+    "Name": "Fulah",
+    "NativeName": "Fulah"
   },
   {
     "Code": "GL",
-    "ThreeLettersCode": "GLG"
+    "ThreeLettersCode": "GLG",
+    "Direction": "LTR",
+    "Name": "Galician",
+    "NativeName": "galego"
   },
   {
     "Code": "LG",
-    "ThreeLettersCode": "LUG"
+    "ThreeLettersCode": "LUG",
+    "Direction": "LTR",
+    "Name": "Ganda",
+    "NativeName": "Luganda"
   },
   {
     "Code": "KA",
-    "ThreeLettersCode": "KAT"
+    "ThreeLettersCode": "KAT",
+    "Direction": "LTR",
+    "Name": "Georgian",
+    "NativeName": "ქართული"
   },
   {
     "Code": "DE",
-    "ThreeLettersCode": "DEU"
+    "ThreeLettersCode": "DEU",
+    "Direction": "LTR",
+    "Name": "German",
+    "NativeName": "Deutsch"
   },
   {
     "Code": "EL",
-    "ThreeLettersCode": "ELL"
+    "ThreeLettersCode": "ELL",
+    "Direction": "LTR",
+    "Name": "Greek",
+    "NativeName": "Ελληνικά"
   },
   {
     "Code": "KL",
-    "ThreeLettersCode": "KAL"
+    "ThreeLettersCode": "KAL",
+    "Direction": "LTR",
+    "Name": "Greenlandic",
+    "NativeName": "kalaallisut"
   },
   {
     "Code": "GN",
-    "ThreeLettersCode": "GRN"
+    "ThreeLettersCode": "GRN",
+    "Direction": "LTR",
+    "Name": "Guarani",
+    "NativeName": "Avañe’ẽ"
   },
   {
     "Code": "GU",
-    "ThreeLettersCode": "GUJ"
+    "ThreeLettersCode": "GUJ",
+    "Direction": "LTR",
+    "Name": "Gujarati",
+    "NativeName": "ગુજરાતી"
   },
   {
     "Code": "GUZ",
-    "ThreeLettersCode": "GUZ"
+    "ThreeLettersCode": "GUZ",
+    "Direction": "LTR",
+    "Name": "Gusii",
+    "NativeName": "Ekegusii"
   },
   {
     "Code": "HA",
-    "ThreeLettersCode": "HAU"
+    "ThreeLettersCode": "HAU",
+    "Direction": "LTR",
+    "Name": "Hausa",
+    "NativeName": "Hausa"
   },
   {
     "Code": "HA",
-    "ThreeLettersCode": "HAU"
+    "ThreeLettersCode": "HAU",
+    "Direction": "LTR",
+    "Name": "Hausa (Latin)",
+    "NativeName": "Hausa"
   },
   {
     "Code": "HAW",
-    "ThreeLettersCode": "HAW"
+    "ThreeLettersCode": "HAW",
+    "Direction": "LTR",
+    "Name": "Hawaiian",
+    "NativeName": "ʻŌlelo Hawaiʻi"
   },
   {
     "Code": "HE",
-    "ThreeLettersCode": "HEB"
+    "ThreeLettersCode": "HEB",
+    "Direction": "RTL",
+    "Name": "Hebrew",
+    "NativeName": "עברית"
   },
   {
     "Code": "HI",
-    "ThreeLettersCode": "HIN"
+    "ThreeLettersCode": "HIN",
+    "Direction": "LTR",
+    "Name": "Hindi",
+    "NativeName": "हिंदी"
   },
   {
     "Code": "HU",
-    "ThreeLettersCode": "HUN"
+    "ThreeLettersCode": "HUN",
+    "Direction": "LTR",
+    "Name": "Hungarian",
+    "NativeName": "magyar"
   },
   {
     "Code": "IBB",
-    "ThreeLettersCode": "IBB"
+    "ThreeLettersCode": "IBB",
+    "Direction": "LTR",
+    "Name": "Ibibio",
+    "NativeName": "Ibibio-Efik"
   },
   {
     "Code": "IS",
-    "ThreeLettersCode": "ISL"
+    "ThreeLettersCode": "ISL",
+    "Direction": "LTR",
+    "Name": "Icelandic",
+    "NativeName": "íslenska"
   },
   {
     "Code": "IG",
-    "ThreeLettersCode": "IBO"
+    "ThreeLettersCode": "IBO",
+    "Direction": "LTR",
+    "Name": "Igbo",
+    "NativeName": "Igbo"
   },
   {
     "Code": "ID",
-    "ThreeLettersCode": "IND"
+    "ThreeLettersCode": "IND",
+    "Direction": "LTR",
+    "Name": "Indonesian",
+    "NativeName": "Indonesia"
   },
   {
     "Code": "IA",
-    "ThreeLettersCode": "INA"
+    "ThreeLettersCode": "INA",
+    "Direction": "LTR",
+    "Name": "Interlingua",
+    "NativeName": "interlingua"
   },
   {
     "Code": "IU",
-    "ThreeLettersCode": "IKU"
+    "ThreeLettersCode": "IKU",
+    "Direction": "LTR",
+    "Name": "Inuktitut",
+    "NativeName": "Inuktitut"
   },
   {
     "Code": "IU",
-    "ThreeLettersCode": "IKU"
+    "ThreeLettersCode": "IKU",
+    "Direction": "LTR",
+    "Name": "Inuktitut (Latin)",
+    "NativeName": "Inuktitut"
   },
   {
     "Code": "IU",
-    "ThreeLettersCode": "IKU"
+    "ThreeLettersCode": "IKU",
+    "Direction": "LTR",
+    "Name": "Inuktitut (Syllabics)",
+    "NativeName": "ᐃᓄᒃᑎᑐᑦ"
   },
   {
     "Code": "IV",
-    "ThreeLettersCode": "IVL"
+    "ThreeLettersCode": "IVL",
+    "Direction": "LTR",
+    "Name": "Invariant Language (Invariant Country)",
+    "NativeName": "Invariant Language (Invariant Country)"
   },
   {
     "Code": "GA",
-    "ThreeLettersCode": "GLE"
+    "ThreeLettersCode": "GLE",
+    "Direction": "LTR",
+    "Name": "Irish",
+    "NativeName": "Gaeilge"
   },
   {
     "Code": "XH",
-    "ThreeLettersCode": "XHO"
+    "ThreeLettersCode": "XHO",
+    "Direction": "LTR",
+    "Name": "isiXhosa",
+    "NativeName": "isiXhosa"
   },
   {
     "Code": "ZU",
-    "ThreeLettersCode": "ZUL"
+    "ThreeLettersCode": "ZUL",
+    "Direction": "LTR",
+    "Name": "isiZulu",
+    "NativeName": "isiZulu"
   },
   {
     "Code": "IT",
-    "ThreeLettersCode": "ITA"
+    "ThreeLettersCode": "ITA",
+    "Direction": "LTR",
+    "Name": "Italian",
+    "NativeName": "italiano"
   },
   {
     "Code": "JA",
-    "ThreeLettersCode": "JPN"
+    "ThreeLettersCode": "JPN",
+    "Direction": "LTR",
+    "Name": "Japanese",
+    "NativeName": "日本語"
   },
   {
     "Code": "JV",
-    "ThreeLettersCode": "JAV"
+    "ThreeLettersCode": "JAV",
+    "Direction": "LTR",
+    "Name": "Javanese",
+    "NativeName": "Basa Jawa"
   },
   {
     "Code": "JV",
-    "ThreeLettersCode": "JAV"
+    "ThreeLettersCode": "JAV",
+    "Direction": "LTR",
+    "Name": "Javanese",
+    "NativeName": "Basa Jawa"
   },
   {
     "Code": "JV",
-    "ThreeLettersCode": "JAV"
+    "ThreeLettersCode": "JAV",
+    "Direction": "LTR",
+    "Name": "Javanese (Javanese)",
+    "NativeName": "ꦧꦱꦗꦮ"
   },
   {
     "Code": "DYO",
-    "ThreeLettersCode": "DYO"
+    "ThreeLettersCode": "DYO",
+    "Direction": "LTR",
+    "Name": "Jola-Fonyi",
+    "NativeName": "joola"
   },
   {
     "Code": "KEA",
-    "ThreeLettersCode": "KEA"
+    "ThreeLettersCode": "KEA",
+    "Direction": "LTR",
+    "Name": "Kabuverdianu",
+    "NativeName": "kabuverdianu"
   },
   {
     "Code": "KAB",
-    "ThreeLettersCode": "KAB"
+    "ThreeLettersCode": "KAB",
+    "Direction": "LTR",
+    "Name": "Kabyle",
+    "NativeName": "Taqbaylit"
   },
   {
     "Code": "KKJ",
-    "ThreeLettersCode": "KKJ"
+    "ThreeLettersCode": "KKJ",
+    "Direction": "LTR",
+    "Name": "Kako",
+    "NativeName": "kakɔ"
   },
   {
     "Code": "KLN",
-    "ThreeLettersCode": "KLN"
+    "ThreeLettersCode": "KLN",
+    "Direction": "LTR",
+    "Name": "Kalenjin",
+    "NativeName": "Kalenjin"
   },
   {
     "Code": "KAM",
-    "ThreeLettersCode": "KAM"
+    "ThreeLettersCode": "KAM",
+    "Direction": "LTR",
+    "Name": "Kamba",
+    "NativeName": "Kikamba"
   },
   {
     "Code": "KN",
-    "ThreeLettersCode": "KAN"
+    "ThreeLettersCode": "KAN",
+    "Direction": "LTR",
+    "Name": "Kannada",
+    "NativeName": "ಕನ್ನಡ"
   },
   {
     "Code": "KR",
-    "ThreeLettersCode": "KAU"
+    "ThreeLettersCode": "KAU",
+    "Direction": "LTR",
+    "Name": "Kanuri",
+    "NativeName": "Kanuri"
   },
   {
     "Code": "KS",
-    "ThreeLettersCode": "KAS"
+    "ThreeLettersCode": "KAS",
+    "Direction": "LTR",
+    "Name": "Kashmiri",
+    "NativeName": "کٲشُر"
   },
   {
     "Code": "KS",
-    "ThreeLettersCode": "KAS"
+    "ThreeLettersCode": "KAS",
+    "Direction": "LTR",
+    "Name": "Kashmiri (Devanagari)",
+    "NativeName": "कॉशुर"
   },
   {
     "Code": "KS",
-    "ThreeLettersCode": "KAS"
+    "ThreeLettersCode": "KAS",
+    "Direction": "LTR",
+    "Name": "Kashmiri (Perso-Arabic)",
+    "NativeName": "کٲشُر"
   },
   {
     "Code": "KK",
-    "ThreeLettersCode": "KAZ"
+    "ThreeLettersCode": "KAZ",
+    "Direction": "LTR",
+    "Name": "Kazakh",
+    "NativeName": "қазақ тілі"
   },
   {
     "Code": "KM",
-    "ThreeLettersCode": "KHM"
+    "ThreeLettersCode": "KHM",
+    "Direction": "LTR",
+    "Name": "Khmer",
+    "NativeName": "ភាសាខ្មែរ"
   },
   {
     "Code": "QUC",
-    "ThreeLettersCode": "QUC"
+    "ThreeLettersCode": "QUC",
+    "Direction": "LTR",
+    "Name": "K'iche'",
+    "NativeName": "K'iche'"
   },
   {
     "Code": "QUC",
-    "ThreeLettersCode": "QUC"
+    "ThreeLettersCode": "QUC",
+    "Direction": "LTR",
+    "Name": "K'iche'",
+    "NativeName": "K'iche'"
   },
   {
     "Code": "KI",
-    "ThreeLettersCode": "KIK"
+    "ThreeLettersCode": "KIK",
+    "Direction": "LTR",
+    "Name": "Kikuyu",
+    "NativeName": "Gikuyu"
   },
   {
     "Code": "RW",
-    "ThreeLettersCode": "KIN"
+    "ThreeLettersCode": "KIN",
+    "Direction": "LTR",
+    "Name": "Kinyarwanda",
+    "NativeName": "Kinyarwanda"
   },
   {
     "Code": "SW",
-    "ThreeLettersCode": "SWA"
+    "ThreeLettersCode": "SWA",
+    "Direction": "LTR",
+    "Name": "Kiswahili",
+    "NativeName": "Kiswahili"
   },
   {
     "Code": "KOK",
-    "ThreeLettersCode": "KOK"
+    "ThreeLettersCode": "KOK",
+    "Direction": "LTR",
+    "Name": "Konkani",
+    "NativeName": "कोंकणी"
   },
   {
     "Code": "KO",
-    "ThreeLettersCode": "KOR"
+    "ThreeLettersCode": "KOR",
+    "Direction": "LTR",
+    "Name": "Korean",
+    "NativeName": "한국어"
   },
   {
     "Code": "KHQ",
-    "ThreeLettersCode": "KHQ"
+    "ThreeLettersCode": "KHQ",
+    "Direction": "LTR",
+    "Name": "Koyra Chiini",
+    "NativeName": "Koyra ciini"
   },
   {
     "Code": "SES",
-    "ThreeLettersCode": "SES"
+    "ThreeLettersCode": "SES",
+    "Direction": "LTR",
+    "Name": "Koyraboro Senni",
+    "NativeName": "Koyraboro senni"
   },
   {
     "Code": "NMG",
-    "ThreeLettersCode": "NMG"
+    "ThreeLettersCode": "NMG",
+    "Direction": "LTR",
+    "Name": "Kwasio",
+    "NativeName": "Kwasio"
   },
   {
     "Code": "KY",
-    "ThreeLettersCode": "KIR"
+    "ThreeLettersCode": "KIR",
+    "Direction": "LTR",
+    "Name": "Kyrgyz",
+    "NativeName": "Кыргыз"
   },
   {
     "Code": "LKT",
-    "ThreeLettersCode": "LKT"
+    "ThreeLettersCode": "LKT",
+    "Direction": "LTR",
+    "Name": "Lakota",
+    "NativeName": "Lakȟólʼiyapi"
   },
   {
     "Code": "LAG",
-    "ThreeLettersCode": "LAG"
+    "ThreeLettersCode": "LAG",
+    "Direction": "LTR",
+    "Name": "Langi",
+    "NativeName": "Kɨlaangi"
   },
   {
     "Code": "LO",
-    "ThreeLettersCode": "LAO"
+    "ThreeLettersCode": "LAO",
+    "Direction": "LTR",
+    "Name": "Lao",
+    "NativeName": "ລາວ"
   },
   {
     "Code": "LA",
-    "ThreeLettersCode": "LAT"
+    "ThreeLettersCode": "LAT",
+    "Direction": "LTR",
+    "Name": "Latin",
+    "NativeName": "lingua latīna"
   },
   {
     "Code": "LV",
-    "ThreeLettersCode": "LAV"
+    "ThreeLettersCode": "LAV",
+    "Direction": "LTR",
+    "Name": "Latvian",
+    "NativeName": "latviešu"
   },
   {
     "Code": "LN",
-    "ThreeLettersCode": "LIN"
+    "ThreeLettersCode": "LIN",
+    "Direction": "LTR",
+    "Name": "Lingala",
+    "NativeName": "lingála"
   },
   {
     "Code": "LT",
-    "ThreeLettersCode": "LIT"
+    "ThreeLettersCode": "LIT",
+    "Direction": "LTR",
+    "Name": "Lithuanian",
+    "NativeName": "lietuvių"
   },
   {
     "Code": "NDS",
-    "ThreeLettersCode": "NDS"
+    "ThreeLettersCode": "NDS",
+    "Direction": "LTR",
+    "Name": "Low German",
+    "NativeName": "Neddersass’sch"
   },
   {
     "Code": "DSB",
-    "ThreeLettersCode": "DSB"
+    "ThreeLettersCode": "DSB",
+    "Direction": "LTR",
+    "Name": "Lower Sorbian",
+    "NativeName": "dolnoserbšćina"
   },
   {
     "Code": "LU",
-    "ThreeLettersCode": "LUB"
+    "ThreeLettersCode": "LUB",
+    "Direction": "LTR",
+    "Name": "Luba-Katanga",
+    "NativeName": "Tshiluba"
   },
   {
     "Code": "LUO",
-    "ThreeLettersCode": "LUO"
+    "ThreeLettersCode": "LUO",
+    "Direction": "LTR",
+    "Name": "Luo",
+    "NativeName": "Dholuo"
   },
   {
     "Code": "LB",
-    "ThreeLettersCode": "LTZ"
+    "ThreeLettersCode": "LTZ",
+    "Direction": "LTR",
+    "Name": "Luxembourgish",
+    "NativeName": "Lëtzebuergesch"
   },
   {
     "Code": "LUY",
-    "ThreeLettersCode": "LUY"
+    "ThreeLettersCode": "LUY",
+    "Direction": "LTR",
+    "Name": "Luyia",
+    "NativeName": "Luluhia"
   },
   {
     "Code": "MK",
-    "ThreeLettersCode": "MKD"
+    "ThreeLettersCode": "MKD",
+    "Direction": "LTR",
+    "Name": "Macedonian",
+    "NativeName": "македонски"
   },
   {
     "Code": "JMC",
-    "ThreeLettersCode": "JMC"
+    "ThreeLettersCode": "JMC",
+    "Direction": "LTR",
+    "Name": "Machame",
+    "NativeName": "Kimachame"
   },
   {
     "Code": "MGH",
-    "ThreeLettersCode": "MGH"
+    "ThreeLettersCode": "MGH",
+    "Direction": "LTR",
+    "Name": "Makhuwa-Meetto",
+    "NativeName": "Makua"
   },
   {
     "Code": "KDE",
-    "ThreeLettersCode": "KDE"
+    "ThreeLettersCode": "KDE",
+    "Direction": "LTR",
+    "Name": "Makonde",
+    "NativeName": "Chimakonde"
   },
   {
     "Code": "MG",
-    "ThreeLettersCode": "MLG"
+    "ThreeLettersCode": "MLG",
+    "Direction": "LTR",
+    "Name": "Malagasy",
+    "NativeName": "Malagasy"
   },
   {
     "Code": "MS",
-    "ThreeLettersCode": "MSA"
+    "ThreeLettersCode": "MSA",
+    "Direction": "LTR",
+    "Name": "Malay",
+    "NativeName": "Bahasa Melayu"
   },
   {
     "Code": "ML",
-    "ThreeLettersCode": "MAL"
+    "ThreeLettersCode": "MAL",
+    "Direction": "LTR",
+    "Name": "Malayalam",
+    "NativeName": "മലയാളം"
   },
   {
     "Code": "MT",
-    "ThreeLettersCode": "MLT"
+    "ThreeLettersCode": "MLT",
+    "Direction": "LTR",
+    "Name": "Maltese",
+    "NativeName": "Malti"
   },
   {
     "Code": "MNI",
-    "ThreeLettersCode": "MNI"
+    "ThreeLettersCode": "MNI",
+    "Direction": "LTR",
+    "Name": "Manipuri",
+    "NativeName": "মৈতৈলোন্"
   },
   {
     "Code": "GV",
-    "ThreeLettersCode": "GLV"
+    "ThreeLettersCode": "GLV",
+    "Direction": "LTR",
+    "Name": "Manx",
+    "NativeName": "Gaelg"
   },
   {
     "Code": "MI",
-    "ThreeLettersCode": "MRI"
+    "ThreeLettersCode": "MRI",
+    "Direction": "LTR",
+    "Name": "Maori",
+    "NativeName": "Reo Māori"
   },
   {
     "Code": "ARN",
-    "ThreeLettersCode": "ARN"
+    "ThreeLettersCode": "ARN",
+    "Direction": "LTR",
+    "Name": "Mapudungun",
+    "NativeName": "Mapudungun"
   },
   {
     "Code": "MR",
-    "ThreeLettersCode": "MAR"
+    "ThreeLettersCode": "MAR",
+    "Direction": "LTR",
+    "Name": "Marathi",
+    "NativeName": "मराठी"
   },
   {
     "Code": "MAS",
-    "ThreeLettersCode": "MAS"
+    "ThreeLettersCode": "MAS",
+    "Direction": "LTR",
+    "Name": "Masai",
+    "NativeName": "Maa"
   },
   {
     "Code": "MZN",
-    "ThreeLettersCode": "MZN"
+    "ThreeLettersCode": "MZN",
+    "Direction": "LTR",
+    "Name": "Mazanderani",
+    "NativeName": "مازرونی"
   },
   {
     "Code": "MER",
-    "ThreeLettersCode": "MER"
+    "ThreeLettersCode": "MER",
+    "Direction": "LTR",
+    "Name": "Meru",
+    "NativeName": "Kĩmĩrũ"
   },
   {
     "Code": "MGO",
-    "ThreeLettersCode": "MGO"
+    "ThreeLettersCode": "MGO",
+    "Direction": "LTR",
+    "Name": "Metaʼ",
+    "NativeName": "metaʼ"
   },
   {
     "Code": "MOH",
-    "ThreeLettersCode": "MOH"
+    "ThreeLettersCode": "MOH",
+    "Direction": "LTR",
+    "Name": "Mohawk",
+    "NativeName": "Kanien’kéha"
   },
   {
     "Code": "MN",
-    "ThreeLettersCode": "MON"
+    "ThreeLettersCode": "MON",
+    "Direction": "LTR",
+    "Name": "Mongolian",
+    "NativeName": "монгол"
   },
   {
     "Code": "MN",
-    "ThreeLettersCode": "MON"
+    "ThreeLettersCode": "MON",
+    "Direction": "LTR",
+    "Name": "Mongolian",
+    "NativeName": "монгол"
   },
   {
     "Code": "MN",
-    "ThreeLettersCode": "MON"
+    "ThreeLettersCode": "MON",
+    "Direction": "LTR",
+    "Name": "Mongolian (Traditional Mongolian)",
+    "NativeName": "ᠮᠣᠩᠭᠣᠤᠯ ᠬᠡᠯᠡ"
   },
   {
     "Code": "MFE",
-    "ThreeLettersCode": "MFE"
+    "ThreeLettersCode": "MFE",
+    "Direction": "LTR",
+    "Name": "Morisyen",
+    "NativeName": "kreol morisien"
   },
   {
     "Code": "MUA",
-    "ThreeLettersCode": "MUA"
+    "ThreeLettersCode": "MUA",
+    "Direction": "LTR",
+    "Name": "Mundang",
+    "NativeName": "MUNDAŊ"
   },
   {
     "Code": "NAQ",
-    "ThreeLettersCode": "NAQ"
+    "ThreeLettersCode": "NAQ",
+    "Direction": "LTR",
+    "Name": "Nama",
+    "NativeName": "Khoekhoegowab"
   },
   {
     "Code": "NE",
-    "ThreeLettersCode": "NEP"
+    "ThreeLettersCode": "NEP",
+    "Direction": "LTR",
+    "Name": "Nepali",
+    "NativeName": "नेपाली"
   },
   {
     "Code": "NNH",
-    "ThreeLettersCode": "NNH"
+    "ThreeLettersCode": "NNH",
+    "Direction": "LTR",
+    "Name": "Ngiemboon",
+    "NativeName": "Shwóŋò ngiembɔɔn"
   },
   {
     "Code": "JGO",
-    "ThreeLettersCode": "JGO"
+    "ThreeLettersCode": "JGO",
+    "Direction": "LTR",
+    "Name": "Ngomba",
+    "NativeName": "Ndaꞌa"
   },
   {
     "Code": "NQO",
-    "ThreeLettersCode": "NQO"
+    "ThreeLettersCode": "NQO",
+    "Direction": "RTL",
+    "Name": "N'ko",
+    "NativeName": "ߒߞߏ"
   },
   {
     "Code": "ND",
-    "ThreeLettersCode": "NDE"
+    "ThreeLettersCode": "NDE",
+    "Direction": "LTR",
+    "Name": "North Ndebele",
+    "NativeName": "isiNdebele"
   },
   {
     "Code": "LRC",
-    "ThreeLettersCode": "LRC"
+    "ThreeLettersCode": "LRC",
+    "Direction": "LTR",
+    "Name": "Northern Luri",
+    "NativeName": "لۊری شومالی"
   },
   {
     "Code": "SE",
-    "ThreeLettersCode": "SME"
+    "ThreeLettersCode": "SME",
+    "Direction": "LTR",
+    "Name": "Northern Sami",
+    "NativeName": "davvisámegiella"
   },
   {
     "Code": "NB",
-    "ThreeLettersCode": "NOB"
+    "ThreeLettersCode": "NOB",
+    "Direction": "LTR",
+    "Name": "Norwegian",
+    "NativeName": "norsk"
   },
   {
     "Code": "NB",
-    "ThreeLettersCode": "NOB"
+    "ThreeLettersCode": "NOB",
+    "Direction": "LTR",
+    "Name": "Norwegian Bokmål",
+    "NativeName": "norsk bokmål"
   },
   {
     "Code": "NN",
-    "ThreeLettersCode": "NNO"
+    "ThreeLettersCode": "NNO",
+    "Direction": "LTR",
+    "Name": "Norwegian Nynorsk",
+    "NativeName": "nynorsk"
   },
   {
     "Code": "NUS",
-    "ThreeLettersCode": "NUS"
+    "ThreeLettersCode": "NUS",
+    "Direction": "LTR",
+    "Name": "Nuer",
+    "NativeName": "Thok Nath"
   },
   {
     "Code": "NYN",
-    "ThreeLettersCode": "NYN"
+    "ThreeLettersCode": "NYN",
+    "Direction": "LTR",
+    "Name": "Nyankole",
+    "NativeName": "Runyankore"
   },
   {
     "Code": "OC",
-    "ThreeLettersCode": "OCI"
+    "ThreeLettersCode": "OCI",
+    "Direction": "LTR",
+    "Name": "Occitan",
+    "NativeName": "Occitan"
   },
   {
     "Code": "OR",
-    "ThreeLettersCode": "ORI"
+    "ThreeLettersCode": "ORI",
+    "Direction": "LTR",
+    "Name": "Odia",
+    "NativeName": "ଓଡ଼ିଆ"
   },
   {
     "Code": "OM",
-    "ThreeLettersCode": "ORM"
+    "ThreeLettersCode": "ORM",
+    "Direction": "LTR",
+    "Name": "Oromo",
+    "NativeName": "Oromoo"
   },
   {
     "Code": "OS",
-    "ThreeLettersCode": "OSS"
+    "ThreeLettersCode": "OSS",
+    "Direction": "LTR",
+    "Name": "Ossetic",
+    "NativeName": "ирон"
   },
   {
     "Code": "PAP",
-    "ThreeLettersCode": "PAP"
+    "ThreeLettersCode": "PAP",
+    "Direction": "LTR",
+    "Name": "Papiamento",
+    "NativeName": "Papiamentu"
   },
   {
     "Code": "PS",
-    "ThreeLettersCode": "PUS"
+    "ThreeLettersCode": "PUS",
+    "Direction": "RTL",
+    "Name": "Pashto",
+    "NativeName": "پښتو"
   },
   {
     "Code": "FA",
-    "ThreeLettersCode": "FAS"
+    "ThreeLettersCode": "FAS",
+    "Direction": "RTL",
+    "Name": "Persian",
+    "NativeName": "فارسى"
   },
   {
     "Code": "PL",
-    "ThreeLettersCode": "POL"
+    "ThreeLettersCode": "POL",
+    "Direction": "LTR",
+    "Name": "Polish",
+    "NativeName": "polski"
   },
   {
     "Code": "PT",
-    "ThreeLettersCode": "POR"
+    "ThreeLettersCode": "POR",
+    "Direction": "LTR",
+    "Name": "Portuguese",
+    "NativeName": "português"
   },
   {
     "Code": "PRG",
-    "ThreeLettersCode": "PRG"
+    "ThreeLettersCode": "PRG",
+    "Direction": "LTR",
+    "Name": "Prussian",
+    "NativeName": "prūsiskan"
   },
   {
     "Code": "PA",
-    "ThreeLettersCode": "PAN"
+    "ThreeLettersCode": "PAN",
+    "Direction": "RTL",
+    "Name": "Punjabi",
+    "NativeName": "پنجابی"
   },
   {
     "Code": "PA",
-    "ThreeLettersCode": "PAN"
+    "ThreeLettersCode": "PAN",
+    "Direction": "LTR",
+    "Name": "Punjabi",
+    "NativeName": "ਪੰਜਾਬੀ"
   },
   {
     "Code": "QUZ",
-    "ThreeLettersCode": "QUB"
+    "ThreeLettersCode": "QUB",
+    "Direction": "LTR",
+    "Name": "Quechua",
+    "NativeName": "Runasimi"
   },
   {
     "Code": "RO",
-    "ThreeLettersCode": "RON"
+    "ThreeLettersCode": "RON",
+    "Direction": "LTR",
+    "Name": "Romanian",
+    "NativeName": "română"
   },
   {
     "Code": "RM",
-    "ThreeLettersCode": "ROH"
+    "ThreeLettersCode": "ROH",
+    "Direction": "LTR",
+    "Name": "Romansh",
+    "NativeName": "rumantsch"
   },
   {
     "Code": "ROF",
-    "ThreeLettersCode": "ROF"
+    "ThreeLettersCode": "ROF",
+    "Direction": "LTR",
+    "Name": "Rombo",
+    "NativeName": "Kihorombo"
   },
   {
     "Code": "RN",
-    "ThreeLettersCode": "RUN"
+    "ThreeLettersCode": "RUN",
+    "Direction": "LTR",
+    "Name": "Rundi",
+    "NativeName": "Ikirundi"
   },
   {
     "Code": "RU",
-    "ThreeLettersCode": "RUS"
+    "ThreeLettersCode": "RUS",
+    "Direction": "LTR",
+    "Name": "Russian",
+    "NativeName": "русский"
   },
   {
     "Code": "RWK",
-    "ThreeLettersCode": "RWK"
+    "ThreeLettersCode": "RWK",
+    "Direction": "LTR",
+    "Name": "Rwa",
+    "NativeName": "Kiruwa"
   },
   {
     "Code": "SSY",
-    "ThreeLettersCode": "SSY"
+    "ThreeLettersCode": "SSY",
+    "Direction": "LTR",
+    "Name": "Saho",
+    "NativeName": "Saho"
   },
   {
     "Code": "SAH",
-    "ThreeLettersCode": "SAH"
+    "ThreeLettersCode": "SAH",
+    "Direction": "LTR",
+    "Name": "Sakha",
+    "NativeName": "Саха"
   },
   {
     "Code": "SAQ",
-    "ThreeLettersCode": "SAQ"
+    "ThreeLettersCode": "SAQ",
+    "Direction": "LTR",
+    "Name": "Samburu",
+    "NativeName": "Kisampur"
   },
   {
     "Code": "SMN",
-    "ThreeLettersCode": "SMN"
+    "ThreeLettersCode": "SMN",
+    "Direction": "LTR",
+    "Name": "Sami (Inari)",
+    "NativeName": "anarâškielâ"
   },
   {
     "Code": "SMJ",
-    "ThreeLettersCode": "SMJ"
+    "ThreeLettersCode": "SMJ",
+    "Direction": "LTR",
+    "Name": "Sami (Lule)",
+    "NativeName": "julevusámegiella"
   },
   {
     "Code": "SMS",
-    "ThreeLettersCode": "SMS"
+    "ThreeLettersCode": "SMS",
+    "Direction": "LTR",
+    "Name": "Sami (Skolt)",
+    "NativeName": "sää´mǩiõll"
   },
   {
     "Code": "SMA",
-    "ThreeLettersCode": "SMA"
+    "ThreeLettersCode": "SMA",
+    "Direction": "LTR",
+    "Name": "Sami (Southern)",
+    "NativeName": "åarjelsaemiengïele"
   },
   {
     "Code": "sm",
-    "ThreeLettersCode": "smo"
+    "ThreeLettersCode": "smo",
+    "Direction": "LTR",
+    "Name": "Samoan",
+    "NativeName": "Gagana Sāmoa"
   },
   {
     "Code": "SG",
-    "ThreeLettersCode": "SAG"
+    "ThreeLettersCode": "SAG",
+    "Direction": "LTR",
+    "Name": "Sango",
+    "NativeName": "Sängö"
   },
   {
     "Code": "SBP",
-    "ThreeLettersCode": "SBP"
+    "ThreeLettersCode": "SBP",
+    "Direction": "LTR",
+    "Name": "Sangu",
+    "NativeName": "Ishisangu"
   },
   {
     "Code": "SA",
-    "ThreeLettersCode": "SAN"
+    "ThreeLettersCode": "SAN",
+    "Direction": "LTR",
+    "Name": "Sanskrit",
+    "NativeName": "संस्कृत"
   },
   {
     "Code": "GD",
-    "ThreeLettersCode": "GLA"
+    "ThreeLettersCode": "GLA",
+    "Direction": "LTR",
+    "Name": "Scottish Gaelic",
+    "NativeName": "Gàidhlig"
   },
   {
     "Code": "SEH",
-    "ThreeLettersCode": "SEH"
+    "ThreeLettersCode": "SEH",
+    "Direction": "LTR",
+    "Name": "Sena",
+    "NativeName": "sena"
   },
   {
     "Code": "SR",
-    "ThreeLettersCode": "SRP"
+    "ThreeLettersCode": "SRP",
+    "Direction": "LTR",
+    "Name": "Serbian",
+    "NativeName": "srpski"
   },
   {
     "Code": "SR",
-    "ThreeLettersCode": "SRP"
+    "ThreeLettersCode": "SRP",
+    "Direction": "LTR",
+    "Name": "Serbian (Cyrillic)",
+    "NativeName": "српски"
   },
   {
     "Code": "SR",
-    "ThreeLettersCode": "SRP"
+    "ThreeLettersCode": "SRP",
+    "Direction": "LTR",
+    "Name": "Serbian (Latin)",
+    "NativeName": "srpski"
   },
   {
     "Code": "ST",
-    "ThreeLettersCode": "SOT"
+    "ThreeLettersCode": "SOT",
+    "Direction": "LTR",
+    "Name": "Sesotho",
+    "NativeName": "Sesotho"
   },
   {
     "Code": "NSO",
-    "ThreeLettersCode": "NSO"
+    "ThreeLettersCode": "NSO",
+    "Direction": "LTR",
+    "Name": "Sesotho sa Leboa",
+    "NativeName": "Sesotho sa Leboa"
   },
   {
     "Code": "TN",
-    "ThreeLettersCode": "TSN"
+    "ThreeLettersCode": "TSN",
+    "Direction": "LTR",
+    "Name": "Setswana",
+    "NativeName": "Setswana"
   },
   {
     "Code": "KSB",
-    "ThreeLettersCode": "KSB"
+    "ThreeLettersCode": "KSB",
+    "Direction": "LTR",
+    "Name": "Shambala",
+    "NativeName": "Kishambaa"
   },
   {
     "Code": "SN",
-    "ThreeLettersCode": "SNA"
+    "ThreeLettersCode": "SNA",
+    "Direction": "LTR",
+    "Name": "Shona",
+    "NativeName": "chiShona"
   },
   {
     "Code": "SN",
-    "ThreeLettersCode": "SNA"
+    "ThreeLettersCode": "SNA",
+    "Direction": "LTR",
+    "Name": "Shona (Latin)",
+    "NativeName": "chiShona (Latin)"
   },
   {
     "Code": "SD",
-    "ThreeLettersCode": "SND"
+    "ThreeLettersCode": "SND",
+    "Direction": "RTL",
+    "Name": "Sindhi",
+    "NativeName": "سنڌي"
   },
   {
     "Code": "SD",
-    "ThreeLettersCode": "SND"
+    "ThreeLettersCode": "SND",
+    "Direction": "RTL",
+    "Name": "Sindhi",
+    "NativeName": "سنڌي"
   },
   {
     "Code": "SD",
-    "ThreeLettersCode": "SND"
+    "ThreeLettersCode": "SND",
+    "Direction": "LTR",
+    "Name": "Sindhi (Devanagari)",
+    "NativeName": "सिन्धी"
   },
   {
     "Code": "SI",
-    "ThreeLettersCode": "SIN"
+    "ThreeLettersCode": "SIN",
+    "Direction": "LTR",
+    "Name": "Sinhala",
+    "NativeName": "සිංහල"
   },
   {
     "Code": "SS",
-    "ThreeLettersCode": "SSW"
+    "ThreeLettersCode": "SSW",
+    "Direction": "LTR",
+    "Name": "siSwati",
+    "NativeName": "Siswati"
   },
   {
     "Code": "SK",
-    "ThreeLettersCode": "SLK"
+    "ThreeLettersCode": "SLK",
+    "Direction": "LTR",
+    "Name": "Slovak",
+    "NativeName": "slovenčina"
   },
   {
     "Code": "SL",
-    "ThreeLettersCode": "SLV"
+    "ThreeLettersCode": "SLV",
+    "Direction": "LTR",
+    "Name": "Slovenian",
+    "NativeName": "slovenščina"
   },
   {
     "Code": "XOG",
-    "ThreeLettersCode": "XOG"
+    "ThreeLettersCode": "XOG",
+    "Direction": "LTR",
+    "Name": "Soga",
+    "NativeName": "Olusoga"
   },
   {
     "Code": "SO",
-    "ThreeLettersCode": "SOM"
+    "ThreeLettersCode": "SOM",
+    "Direction": "LTR",
+    "Name": "Somali",
+    "NativeName": "Soomaali"
   },
   {
     "Code": "NR",
-    "ThreeLettersCode": "NBL"
+    "ThreeLettersCode": "NBL",
+    "Direction": "LTR",
+    "Name": "South Ndebele",
+    "NativeName": "isiNdebele"
   },
   {
     "Code": "ES",
-    "ThreeLettersCode": "SPA"
+    "ThreeLettersCode": "SPA",
+    "Direction": "LTR",
+    "Name": "Spanish",
+    "NativeName": "español"
   },
   {
     "Code": "ZGH",
-    "ThreeLettersCode": "ZGH"
+    "ThreeLettersCode": "ZGH",
+    "Direction": "LTR",
+    "Name": "Standard Moroccan Tamazight",
+    "NativeName": "ⵜⴰⵎⴰⵣⵉⵖⵜ"
   },
   {
     "Code": "ZGH",
-    "ThreeLettersCode": "ZGH"
+    "ThreeLettersCode": "ZGH",
+    "Direction": "LTR",
+    "Name": "Standard Moroccan Tamazight (Tifinagh)",
+    "NativeName": "ⵜⴰⵎⴰⵣⵉⵖⵜ"
   },
   {
     "Code": "SV",
-    "ThreeLettersCode": "SWE"
+    "ThreeLettersCode": "SWE",
+    "Direction": "LTR",
+    "Name": "Swedish",
+    "NativeName": "svenska"
   },
   {
     "Code": "GSW",
-    "ThreeLettersCode": "GSW"
+    "ThreeLettersCode": "GSW",
+    "Direction": "LTR",
+    "Name": "Swiss German",
+    "NativeName": "Schwiizertüütsch"
   },
   {
     "Code": "SYR",
-    "ThreeLettersCode": "SYR"
+    "ThreeLettersCode": "SYR",
+    "Direction": "RTL",
+    "Name": "Syriac",
+    "NativeName": "ܣܘܪܝܝܐ"
   },
   {
     "Code": "SHI",
-    "ThreeLettersCode": "SHI"
+    "ThreeLettersCode": "SHI",
+    "Direction": "LTR",
+    "Name": "Tachelhit",
+    "NativeName": "ⵜⴰⵛⵍⵃⵉⵜ"
   },
   {
     "Code": "SHI",
-    "ThreeLettersCode": "SHI"
+    "ThreeLettersCode": "SHI",
+    "Direction": "LTR",
+    "Name": "Tachelhit (Latin)",
+    "NativeName": "Tashelḥiyt"
   },
   {
     "Code": "SHI",
-    "ThreeLettersCode": "SHI"
+    "ThreeLettersCode": "SHI",
+    "Direction": "LTR",
+    "Name": "Tachelhit (Tifinagh)",
+    "NativeName": "ⵜⴰⵛⵍⵃⵉⵜ"
   },
   {
     "Code": "DAV",
-    "ThreeLettersCode": "DAV"
+    "ThreeLettersCode": "DAV",
+    "Direction": "LTR",
+    "Name": "Taita",
+    "NativeName": "Kitaita"
   },
   {
     "Code": "TG",
-    "ThreeLettersCode": "TGK"
+    "ThreeLettersCode": "TGK",
+    "Direction": "LTR",
+    "Name": "Tajik",
+    "NativeName": "Тоҷикӣ"
   },
   {
     "Code": "TG",
-    "ThreeLettersCode": "TGK"
+    "ThreeLettersCode": "TGK",
+    "Direction": "LTR",
+    "Name": "Tajik (Cyrillic)",
+    "NativeName": "тоҷикӣ"
   },
   {
     "Code": "TA",
-    "ThreeLettersCode": "TAM"
+    "ThreeLettersCode": "TAM",
+    "Direction": "LTR",
+    "Name": "Tamil",
+    "NativeName": "தமிழ்"
   },
   {
     "Code": "TWQ",
-    "ThreeLettersCode": "TWQ"
+    "ThreeLettersCode": "TWQ",
+    "Direction": "LTR",
+    "Name": "Tasawaq",
+    "NativeName": "Tasawaq senni"
   },
   {
     "Code": "TT",
-    "ThreeLettersCode": "TAT"
+    "ThreeLettersCode": "TAT",
+    "Direction": "LTR",
+    "Name": "Tatar",
+    "NativeName": "Татар"
   },
   {
     "Code": "TE",
-    "ThreeLettersCode": "TEL"
+    "ThreeLettersCode": "TEL",
+    "Direction": "LTR",
+    "Name": "Telugu",
+    "NativeName": "తెలుగు"
   },
   {
     "Code": "TEO",
-    "ThreeLettersCode": "TEO"
+    "ThreeLettersCode": "TEO",
+    "Direction": "LTR",
+    "Name": "Teso",
+    "NativeName": "Kiteso"
   },
   {
     "Code": "TH",
-    "ThreeLettersCode": "THA"
+    "ThreeLettersCode": "THA",
+    "Direction": "LTR",
+    "Name": "Thai",
+    "NativeName": "ไทย"
   },
   {
     "Code": "BO",
-    "ThreeLettersCode": "BOD"
+    "ThreeLettersCode": "BOD",
+    "Direction": "LTR",
+    "Name": "Tibetan",
+    "NativeName": "བོད་ཡིག"
   },
   {
     "Code": "TIG",
-    "ThreeLettersCode": "TIG"
+    "ThreeLettersCode": "TIG",
+    "Direction": "LTR",
+    "Name": "Tigre",
+    "NativeName": "ትግረ"
   },
   {
     "Code": "TI",
-    "ThreeLettersCode": "TIR"
+    "ThreeLettersCode": "TIR",
+    "Direction": "LTR",
+    "Name": "Tigrinya",
+    "NativeName": "ትግርኛ"
   },
   {
     "Code": "TO",
-    "ThreeLettersCode": "TON"
+    "ThreeLettersCode": "TON",
+    "Direction": "LTR",
+    "Name": "Tongan",
+    "NativeName": "lea fakatonga"
   },
   {
     "Code": "TS",
-    "ThreeLettersCode": "TSO"
+    "ThreeLettersCode": "TSO",
+    "Direction": "LTR",
+    "Name": "Tsonga",
+    "NativeName": "Xitsonga"
   },
   {
     "Code": "TR",
-    "ThreeLettersCode": "TUR"
+    "ThreeLettersCode": "TUR",
+    "Direction": "LTR",
+    "Name": "Turkish",
+    "NativeName": "Türkçe"
   },
   {
     "Code": "TK",
-    "ThreeLettersCode": "TUK"
+    "ThreeLettersCode": "TUK",
+    "Direction": "LTR",
+    "Name": "Turkmen",
+    "NativeName": "Türkmen dili"
   },
   {
     "Code": "UK",
-    "ThreeLettersCode": "UKR"
+    "ThreeLettersCode": "UKR",
+    "Direction": "LTR",
+    "Name": "Ukrainian",
+    "NativeName": "українська"
   },
   {
     "Code": "HSB",
-    "ThreeLettersCode": "HSB"
+    "ThreeLettersCode": "HSB",
+    "Direction": "LTR",
+    "Name": "Upper Sorbian",
+    "NativeName": "hornjoserbšćina"
   },
   {
     "Code": "UR",
-    "ThreeLettersCode": "URD"
+    "ThreeLettersCode": "URD",
+    "Direction": "RTL",
+    "Name": "Urdu",
+    "NativeName": "اُردو"
   },
   {
     "Code": "UG",
-    "ThreeLettersCode": "UIG"
+    "ThreeLettersCode": "UIG",
+    "Direction": "RTL",
+    "Name": "Uyghur",
+    "NativeName": "ئۇيغۇرچە"
   },
   {
     "Code": "UZ",
-    "ThreeLettersCode": "UZB"
+    "ThreeLettersCode": "UZB",
+    "Direction": "LTR",
+    "Name": "Uzbek",
+    "NativeName": "o‘zbek"
   },
   {
     "Code": "UZ",
-    "ThreeLettersCode": "UZB"
+    "ThreeLettersCode": "UZB",
+    "Direction": "LTR",
+    "Name": "Uzbek (Cyrillic)",
+    "NativeName": "ўзбекча"
   },
   {
     "Code": "UZ",
-    "ThreeLettersCode": "UZB"
+    "ThreeLettersCode": "UZB",
+    "Direction": "LTR",
+    "Name": "Uzbek (Latin)",
+    "NativeName": "o‘zbek"
   },
   {
     "Code": "UZ",
-    "ThreeLettersCode": "UZB"
+    "ThreeLettersCode": "UZB",
+    "Direction": "LTR",
+    "Name": "Uzbek (Perso-Arabic)",
+    "NativeName": "اوزبیک"
   },
   {
     "Code": "VAI",
-    "ThreeLettersCode": "VAI"
+    "ThreeLettersCode": "VAI",
+    "Direction": "LTR",
+    "Name": "Vai",
+    "NativeName": "ꕙꔤ"
   },
   {
     "Code": "VAI",
-    "ThreeLettersCode": "VAI"
+    "ThreeLettersCode": "VAI",
+    "Direction": "LTR",
+    "Name": "Vai (Latin)",
+    "NativeName": "Vai"
   },
   {
     "Code": "VAI",
-    "ThreeLettersCode": "VAI"
+    "ThreeLettersCode": "VAI",
+    "Direction": "LTR",
+    "Name": "Vai (Vai)",
+    "NativeName": "ꕙꔤ"
   },
   {
     "Code": "VE",
-    "ThreeLettersCode": "VEN"
+    "ThreeLettersCode": "VEN",
+    "Direction": "LTR",
+    "Name": "Venda",
+    "NativeName": "Tshivenḓa"
   },
   {
     "Code": "VI",
-    "ThreeLettersCode": "VIE"
+    "ThreeLettersCode": "VIE",
+    "Direction": "LTR",
+    "Name": "Vietnamese",
+    "NativeName": "Tiếng Việt"
   },
   {
     "Code": "VO",
-    "ThreeLettersCode": "VOL"
+    "ThreeLettersCode": "VOL",
+    "Direction": "LTR",
+    "Name": "Volapük",
+    "NativeName": "Volapük"
   },
   {
     "Code": "VUN",
-    "ThreeLettersCode": "VUN"
+    "ThreeLettersCode": "VUN",
+    "Direction": "LTR",
+    "Name": "Vunjo",
+    "NativeName": "Kyivunjo"
   },
   {
     "Code": "WAE",
-    "ThreeLettersCode": "WAE"
+    "ThreeLettersCode": "WAE",
+    "Direction": "LTR",
+    "Name": "Walser",
+    "NativeName": "Walser"
   },
   {
     "Code": "CY",
-    "ThreeLettersCode": "CYM"
+    "ThreeLettersCode": "CYM",
+    "Direction": "LTR",
+    "Name": "Welsh",
+    "NativeName": "Cymraeg"
   },
   {
     "Code": "FY",
-    "ThreeLettersCode": "FRY"
+    "ThreeLettersCode": "FRY",
+    "Direction": "LTR",
+    "Name": "Western Frisian",
+    "NativeName": "Frysk"
   },
   {
     "Code": "WAL",
-    "ThreeLettersCode": "WAL"
+    "ThreeLettersCode": "WAL",
+    "Direction": "LTR",
+    "Name": "Wolaytta",
+    "NativeName": "ወላይታቱ"
   },
   {
     "Code": "WO",
-    "ThreeLettersCode": "WOL"
+    "ThreeLettersCode": "WOL",
+    "Direction": "LTR",
+    "Name": "Wolof",
+    "NativeName": "Wolof"
   },
   {
     "Code": "YAV",
-    "ThreeLettersCode": "YAV"
+    "ThreeLettersCode": "YAV",
+    "Direction": "LTR",
+    "Name": "Yangben",
+    "NativeName": "nuasue"
   },
   {
     "Code": "II",
-    "ThreeLettersCode": "III"
+    "ThreeLettersCode": "III",
+    "Direction": "LTR",
+    "Name": "Yi",
+    "NativeName": "ꆈꌠꁱꂷ"
   },
   {
     "Code": "YI",
-    "ThreeLettersCode": "YID"
+    "ThreeLettersCode": "YID",
+    "Direction": "RTL",
+    "Name": "Yiddish",
+    "NativeName": "ייִדיש"
   },
   {
     "Code": "YO",
-    "ThreeLettersCode": "YOR"
+    "ThreeLettersCode": "YOR",
+    "Direction": "LTR",
+    "Name": "Yoruba",
+    "NativeName": "Èdè Yorùbá"
   },
   {
     "Code": "DJE",
-    "ThreeLettersCode": "DJE"
+    "ThreeLettersCode": "DJE",
+    "Direction": "LTR",
+    "Name": "Zarma",
+    "NativeName": "Zarmaciine"
   }
 ]
